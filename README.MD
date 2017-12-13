@@ -16,6 +16,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 #### Run by tech-savvy organizations
 
 * https://chaos.social - CCC related
+* https://framapiaf.org - by Framasoft, association promoting FOSS, providing privacy-respecting services
 * https://mastodon.dotopia.dk - by DO:TOPIA, Denmark based tech activism collective
 * https://mastodon.hackerlab.fr - by Hackerlab
 * https://mi.pede.rs - by Hacklab-in-Mama hackerspace, Zagreb
@@ -193,7 +194,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 
 During this research I skipped following instances: closed registration *at the moment of checking*, running old code, theme / description not understood due to language barrier or scarce description, with long blocklists and strange block reasoning, experimental servers.
 
-If I've forgotten to include your instance, please, don't take it personally. You can add themed instances in the openned issue or via MR. If your instance already has many users, may be it would be wise to let other instances grow instead, for a healthier decentralization.
+If I've forgotten to include your instance, please, don't take it personally. You can add themed instances by opening an issue or via [MR](https://gitlab.com/distributopia/masto-world-overview). If your instance already has many users, may be it would be wise to let other instances grow instead, for a healthier decentralization.
 
 If you wish to be excluded from the list, please, kindly say so in issues.
 
