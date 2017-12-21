@@ -51,6 +51,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://social.csswg.org - for anyone interested in CSS or general web development
 * https://oldbytes.space - for old hardware fans
 * https://mathstodon.xyz -  for Maths people
+* https://cb.ku.cx - all things Technology, hacking, security and reverse engineering
 
 #### Gamedev
 
