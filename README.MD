@@ -99,6 +99,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://bonn.social - Bonn
 * https://toot.berlin - Berlin
 * https://muenster.im - Münsterland
+* https://ruhr.social - Ruhr area in Germany
 * https://mastodonti.co - Italian instance
 * https://mastoton.fi - Finnish persons
 * https://mastodont.cat - Catalan
