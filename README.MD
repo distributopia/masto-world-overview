@@ -94,6 +94,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://the.wired.sehol.se - for Hungarian speakers
 * https://toot.si - Slovenian (multilingual) instance
 * https://tootcn.com - Chinese instance
+* https://mamut.social - primarily for Spanish speaking people
 
 #### Regional
 
