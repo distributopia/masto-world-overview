@@ -63,6 +63,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://social.noff.co - for tech, gaming, and good times
 * https://unityjp-mastodon.tokyo - Unity Japan
 * https://gonext.gg - esports-centric with focus on competitive gaming
+* https://gamemaking.social - amateur videogame making: game writers, game players welcome
 
 #### Arts
 
