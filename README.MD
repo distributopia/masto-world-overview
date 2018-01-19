@@ -179,6 +179,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://moseisley.club - theme Star Wars
 * https://wowsdon.xyz - theme World of WarShips
 * https://kirakiratter.com - for Aikatsu fans
+* https://donphan.social - for Pokémon enthusiasts
 
 #### Notable generalistic
 
