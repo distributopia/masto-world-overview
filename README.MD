@@ -152,6 +152,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 #### For people with a sense of self-irony
 
 * https://i.write.codethat.sucks
+* https://sleeping.town - for people who like to sleep
 * https://bibeogaem.zone - "nice place for silly people"
 * https://society.oftrolls.com - mild trolling encouraged, but not required
 * https://ephemeral.glitch.social - toots are ephemeral and disappear after a while
