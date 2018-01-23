@@ -118,7 +118,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://mastodonchile.club - users latinos, especially from Chile
 * https://pnw.social - citizens of Washington, Oregon, Idaho, Western Montana, and Alaska
 * https://toot.memtech.website - members of the Memphis tech community
-* https://ps.s10y.eu/about/more - for people living in Belgium only (else "you might lose account" O.o)
+* https://ps.s10y.eu - for like-minded people in Brussels
 
 #### Political and social views
 
