@@ -74,6 +74,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://wandering.shop - initially geared for science fiction and fantasy community
 * https://imaginair.es - for writers, photographers, painters, cartoonists and people with imagination
 * https://social.nasqueron.org - for creative people, writers, developers and thinkers
+* https://vis.social - for anyone into data, visualization, creative coding, related arts and research
 * https://bookwitty.social - dedicated to discovering books
 * https://photog.social - place for your photos
 * https://metalhead.club - addressing metal friends
@@ -138,6 +139,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://cuddleso.me - pet lovers
 * https://toot.cat
 * https://catgram.jp
+* https://pets-in.space
 
 #### Safe spaces
 
@@ -187,6 +189,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 // *biased personal choosing of small-to-medium sized instances that may be happy to have new users*
 * https://nulled.red - refuses to block or silence any instances
 * https://ieji.de - no logs, has Tor .onion address
+* https://inscope.social - for those who help to get us onto the best possible future
 * https://tootplanet.space - beautiful landing
 * https://assortedflotsam.com - instance committed to truth in discourse
 * https://bigdoinks.online - a small community for jokes, goofs, and bits
