@@ -74,9 +74,10 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://wandering.shop - initially geared for science fiction and fantasy community
 * https://imaginair.es - for writers, photographers, painters, cartoonists and people with imagination
 * https://social.nasqueron.org - for creative people, writers, developers and thinkers
-* https://vis.social - for anyone into data, visualization, creative coding, related arts and research
 * https://bookwitty.social - dedicated to discovering books
+* https://vis.social - for anyone into data, visualization, creative coding, related arts and research
 * https://photog.social - place for your photos
+* https://music.glitch.pizza - dedicated to talking about and sharing music
 * https://metalhead.club - addressing metal friends
 
 #### Sciences
@@ -165,6 +166,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 
 * https://mastodon.beerfactory.org - for beermakers
 * https://mastd.racing - dedicated to motosports
+* https://digipres.club - conversations about digital preservation
 * https://newtype.institute - anime-centric community
 * https://weebs.moe - anime, manga
 * https://occult.camp - focused on spitituality, witchcraft and various shades of woo
