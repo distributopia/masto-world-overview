@@ -29,6 +29,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://social.buffalomesh.net - by Buffalomesh, mesh network in Buffalo, NY
 * https://social.chinwag.im - by Chinwag project
 * https://eunivers.social - by Eunivers online edition
+* https://mastodon.freifunk-muensterland.de - by Freifunk Muensterland
 
 
 #### Instances  for techies
@@ -207,6 +208,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://toot.chat
 * https://squid.cafe
 * https://tootme.de
+* https://kyot.me
 
 ##### Disclaimer
 
