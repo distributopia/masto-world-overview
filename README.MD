@@ -108,6 +108,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://ruhr.social - Ruhr area in Germany
 * https://mastodonti.co - Italian instance
 * https://mastoton.fi - Finnish persons
+* https://snabeltann.no - Norwegian instance
 * https://mastodont.cat - Catalan
 * https://mastodon.migennes.net - inhabitants of Migennes
 * https://occitanie.social - region of Occitania
