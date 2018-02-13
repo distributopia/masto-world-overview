@@ -36,7 +36,6 @@ Instances are not restricted to their theme. General use is almost always welcom
 
 * https://infosec.exchange - infosec and IT security discussions
 * https://naos.crypto.church - powers of cryptography and cryptanalysis
-* https://hackers.town - hackers of the world unite
 * https://zerohack.xyz - hacking centric: programming, Linux, BSD, Ethics, whatever
 * https://geeks.one - for humans and geeks
 * https://mastodon.technology - for people interested in technology
@@ -208,6 +207,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://mastodonten.de - an instance for nice people
 * https://mcr.cool - for good and fun times
 * https://7nw.eu - always running on the last tagged release
+* https://social.datensturm.net
 * https://mastodon.fun
 * https://toot.chat
 * https://squid.cafe
