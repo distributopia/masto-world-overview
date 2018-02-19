@@ -205,6 +205,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://sn.angry.im - wise recommendation to set up own node, if possible, for healthy ecosystem
 * https://scifi.fyi - runs glitch-soc, a version of Mastodon with experimental new features
 * https://mastodonten.de - an instance for nice people
+* https://mstdn.gnous.eu - instance francophone
 * https://mcr.cool - for good and fun times
 * https://7nw.eu - always running on the last tagged release
 * https://social.datensturm.net
