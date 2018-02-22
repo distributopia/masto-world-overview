@@ -32,7 +32,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://mastodon.freifunk-muensterland.de - by Freifunk Muensterland
 
 
-#### Instances  for techies
+#### Instances for techies
 
 * https://infosec.exchange - infosec and IT security discussions
 * https://naos.crypto.church - powers of cryptography and cryptanalysis
@@ -69,6 +69,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 
 * https://mastodon.art - for artists
 * https://mastodon.cc - for art
+* https://paintacu.be - painting community
 * https://bookwor.ms - for book-lovers
 * https://writing.exchange - community for poets, writers, bloggers
 * https://wandering.shop - initially geared for science fiction and fantasy community
