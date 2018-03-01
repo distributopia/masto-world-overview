@@ -139,11 +139,8 @@ Instances are not restricted to their theme. General use is almost always welcom
 
 #### Animal lovers, ecology
 
-* https://animalliberation.social - animal activists
 * https://mastodon.latransition.org - francophone movement for ecological transition
-* https://cuddleso.me - pet lovers
 * https://toot.cat
-* https://catgram.jp
 * https://pets-in.space
 
 #### Safe spaces
