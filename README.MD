@@ -12,6 +12,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://mastodon.iut-larochelle.fr - by University of La Rochelle
 * https://mastodon.redbrick.dcu.ie - by Redbrick, computer networking society of Dublin City University
 * https://cosi.town - for current and past students of Clarkson University
+* https://mastodonevry.ovh - for l'Université d'Evry-Val-d'Essonne students
 
 #### Run by tech-savvy organizations
 
