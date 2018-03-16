@@ -54,6 +54,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://mathstodon.xyz -  for Maths people
 * https://cb.ku.cx - all things Technology, hacking, security and reverse engineering
 * https://bsd.network - for *BSD users and devs
+* https://fasterwhen.red - automotive- and engineering-related topics
 
 #### Gamedev
 
