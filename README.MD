@@ -169,6 +169,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 
 #### Hobbies
 
+* https://boardgames.social - for board gamers and the games they love
 * https://mastodon.beerfactory.org - for beermakers
 * https://mastd.racing - dedicated to motosports
 * https://2ndamendment.social - have the freedom to discuss, share and show off your guns
