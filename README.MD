@@ -212,6 +212,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://7nw.eu - always running on the last tagged release
 * https://social.datensturm.net
 * https://mastodon.fun
+* https://nicepeople.social
 * https://toot.chat
 * https://squid.cafe
 * https://tootme.de
