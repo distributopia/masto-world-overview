@@ -41,6 +41,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://geeks.one - for humans and geeks
 * https://mastodon.technology - for people interested in technology
 * https://fosstodon.org - dedicated to Free & Open Source Software
+* https://floss.social - for people who support or build Free Libre Open Source Software
 * https://tuxspace.net - for Linux lovers, users, sysadmins, and the like
 * https://mastodon.horde.net.br - to bring together enthusiasts of free software
 * https://miaou.drycat.fr - for geeks, FOSS and cat lovers, [CHATONS](https://chatons.org) member
