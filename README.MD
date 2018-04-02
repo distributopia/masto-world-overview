@@ -223,14 +223,12 @@ Instances are not restricted to their theme. General use is almost always welcom
 
 During this research I skipped following instances: closed registration *at the moment of checking*, running old code, theme / description not understood due to language barrier or scarce description, with long blocklists and strange block reasoning, experimental servers.
 
-If I've forgotten to include your instance, please, don't take it personally. You can add themed instances by opening an issue or via [MR](https://gitlab.com/distributopia/masto-world-overview). If your instance already has many users, may be it would be wise to let other instances grow instead, for a healthier decentralization.
+If I forgot to include your instance, don't take it personally. You can add themed instances by opening an issue or via [MR](https://gitlab.com/distributopia/masto-world-overview). If your instance already has many users, may be it would be wise to let other instances grow instead, for a healthier decentralization.
 
-If you wish to be excluded from the list, please, kindly say so in issues.
+If you wish to be excluded from the list, kindly say so in issues.
 
-If you speak Japanese and would like to provide categorized lists for Japanese instances, please, do. This list is for people who might or might not speak Japanese, but who for sure speak English. So it might be a good idea to ask admins to put some English description in /About first. New users need to be sure they will be understood by administrator of the instance they've chosen.
+##### Possible research to be made
 
-##### Possible other research to be made
-
-- how many instances (%) provide transparent info about silencing other instances (most often info is on /About page), how many don't provide this information
-- which silenced instances are in blocklists quite often and which are personal prefs of some instance's admins;
-- where instances are hosted (or, may be, how much of them (%) are hosted on Amazon).
+- where instances are hosted (how many of them (%) are hosted on Amazon);
+- how many instances (%) provide transparent info about silencing other instances, how many don't provide this information;
+- which silenced instances are in blocklists often, which are personal preferences of some instance's admins.
