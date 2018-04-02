@@ -91,6 +91,19 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://mastodon.huma-num.fr - dedicated to the higher education and research
 * https://tusk.schoollibraries.net - to help educators improve the School Libraries Resource Network
 
+#### Hobbies
+
+* https://mastodon.flights - focused on travel, world affairs and jet setting lifestyles
+* https://boardgames.social - for board gamers and the games they love
+* https://mastodon.beerfactory.org - for beermakers
+* https://mastd.racing - dedicated to motosports
+* https://2ndamendment.social - have the freedom to discuss, share and show off your guns
+* https://digipres.club - conversations about digital preservation
+* https://newtype.institute - anime-centric community
+* https://weebs.moe - anime, manga
+* https://occult.camp - focused on spitituality, witchcraft and various shades of woo
+* https://hodl.social - place to discuss Stellar, cryptocurrencies and blockchain
+
 #### Language specifics
 
 * https://spooky.pizza - for linguists and linguist-adjacent people
@@ -166,18 +179,6 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://dolphin.town - instance where you can only say the letter 'e'
 * https://botsin.space - for bots
 * https://outsiders.network - by one Outsider for all Outsiders
-
-#### Hobbies
-
-* https://boardgames.social - for board gamers and the games they love
-* https://mastodon.beerfactory.org - for beermakers
-* https://mastd.racing - dedicated to motosports
-* https://2ndamendment.social - have the freedom to discuss, share and show off your guns
-* https://digipres.club - conversations about digital preservation
-* https://newtype.institute - anime-centric community
-* https://weebs.moe - anime, manga
-* https://occult.camp - focused on spitituality, witchcraft and various shades of woo
-* https://hodl.social - place to discuss Stellar, cryptocurrencies and blockchain
 
 #### Characters
 
