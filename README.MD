@@ -152,6 +152,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://anarchism.space - for social anarchists
 * https://insoumis.social - for comrades, combatants, fighters
 * https://anticapitalist.party
+* https://sosh.network - for freedom of thought, of opinion, of conversation
 
 
 #### Animal lovers, ecology
