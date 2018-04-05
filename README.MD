@@ -84,6 +84,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://photog.social - place for your photos
 * https://music.glitch.pizza - dedicated to talking about and sharing music
 * https://metalhead.club - addressing metal friends
+* https://linernotes.club - for fans of recorded music
 
 #### Sciences
 
@@ -99,6 +100,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://mastodon.beerfactory.org - for beermakers
 * https://mastd.racing - dedicated to motosports
 * https://2ndamendment.social - have the freedom to discuss, share and show off your guns
+* https://onthesecond.com - for those who Love liberty, guns, and independence
 * https://digipres.club - conversations about digital preservation
 * https://newtype.institute - anime-centric community
 * https://weebs.moe - anime, manga
@@ -187,6 +189,10 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://dragon.style - for dragons, and people who like dragons
 * https://monsterpit.net - for monsters, demons, aliens, strange creatures, and those who love them
 * https://equestria.social - for pony fans
+
+#### Subcultures
+
+* https://yiff.rocks - for furries, by furries
 
 #### Series / game / book theme
 
