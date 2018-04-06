@@ -105,6 +105,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://newtype.institute - anime-centric community
 * https://weebs.moe - anime, manga
 * https://occult.camp - focused on spitituality, witchcraft and various shades of woo
+* https://witchey.club - for anyone curious about witchcraft
 * https://hodl.social - place to discuss Stellar, cryptocurrencies and blockchain
 
 #### Language specifics
