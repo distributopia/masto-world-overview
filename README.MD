@@ -1,7 +1,9 @@
 
 # :elephant: Mastodon instances overview
 
-Instances are not restricted to their theme. General use is almost always welcome. This list may be useful for curious minds and for new users who wish to choose an instance by theme (although, a better advice would be: **choose an instance by looking at its administrator's timeline!** and read local rules)
+`GitHub WARNING`: This is a __mirror repo__ from [GitLab](https://gitlab.com/distributopia/masto-world-overview). Please, send your MRs there. New PRs here won't be merged.
+
+Instances are not restricted to their theme. General use is always welcome. This list may be useful for new users who wish to choose an instance by theme (better advice: **choose instance by looking at its administrator's timeline!** and read local rules)
 
 #### Notable mention
 
@@ -173,6 +175,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://lgbt.io - for LGBT+ and allies
 * https://tech.lgbt - for tech workers, academics, students, and others in tech who are LGBTQA+ or allies
 * https://instance.business - a safe place for nonwhite people on the fediverse
+* https://pipou.academy - emphasis on kindness
 
 #### For people with a sense of self-irony
 
