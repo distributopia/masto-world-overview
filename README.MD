@@ -21,7 +21,7 @@ Instances are not restricted to their theme. General use is almost always welcom
 * https://mastodon.dotopia.dk - by DO:TOPIA, Denmark based tech activism collective
 * https://mastodon.hackerlab.fr - by Hackerlab
 * https://mi.pede.rs - by Hacklab-in-Mama hackerspace, Zagreb
-* https://social.weho.sta - by WeHost, non-profit internet service provider, Amsterdam
+* https://social.weho.st - by WeHost, non-profit internet service provider, Amsterdam
 * https://m.g3l.org - by G3L, libre software association
 * https://mastodon.nzoss.nz - by New Zealand Open Source Society
 * https://mamot.fr - by Quadrature du Net, association for the defence of digital rights and freedoms
