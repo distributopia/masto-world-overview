@@ -59,6 +59,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://cb.ku.cx - all things Technology, hacking, security and reverse engineering
 * https://bsd.network - for *BSD users and devs
 * https://fasterwhen.red - automotive- and engineering-related topics
+* https://recurrent.network - or discussing all things artificial neural network-related
 
 #### Gamedev
 
@@ -77,6 +78,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://mastodon.cc - for art
 * https://paintacu.be - painting community
 * https://bookwor.ms - for book-lovers
+* https://www.bookbeezhive.com - for authors and their readers
 * https://writing.exchange - community for poets, writers, bloggers
 * https://wandering.shop - initially geared for science fiction and fantasy community
 * https://imaginair.es - for writers, photographers, painters, cartoonists and people with imagination
@@ -109,6 +111,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://occult.camp - focused on spitituality, witchcraft and various shades of woo
 * https://witchey.club - for anyone curious about witchcraft
 * https://hodl.social - place to discuss Stellar, cryptocurrencies and blockchain
+* https://pipes.social - hobby of pipe collecting and pipe smoking
 
 #### Language specifics
 
@@ -176,6 +179,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://tech.lgbt - for tech workers, academics, students, and others in tech who are LGBTQA+ or allies
 * https://instance.business - a safe place for nonwhite people on the fediverse
 * https://pipou.academy - emphasis on kindness
+* https://biscuit.town - feminist movement and queer/lgbt+
 
 #### For people with a sense of self-irony
 
