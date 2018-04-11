@@ -214,6 +214,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 
 // *biased personal choosing of small-to-medium sized instances that may be happy to have new users*
 * https://nulled.red - refuses to block or silence any instances
+* https://waifu.one - no censorship, no instances are blocked
 * https://ieji.de - no logs, has Tor .onion address
 * https://inscope.social - for those who help to get us onto the best possible future
 * https://tootplanet.space - beautiful landing
