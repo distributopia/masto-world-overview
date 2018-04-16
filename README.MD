@@ -150,6 +150,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://ps.s10y.eu - for like-minded people in Brussels
 * https://valleypost.us - a civil and long term dialog among residents and stakeholders in the Valley
 * https://mspsocial.net - community centered on the Twin Cities of Minneapolis and St. Paul, Minnesota
+* https://opensocial.africa - for Africa, by Africans
 
 #### Political and social views
 
