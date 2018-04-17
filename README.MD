@@ -60,6 +60,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://bsd.network - for *BSD users and devs
 * https://fasterwhen.red - automotive- and engineering-related topics
 * https://recurrent.network - or discussing all things artificial neural network-related
+* https://idevs.id - home to developer, programmer, coder
 
 #### Gamedev
 
@@ -151,6 +152,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://valleypost.us - a civil and long term dialog among residents and stakeholders in the Valley
 * https://mspsocial.net - community centered on the Twin Cities of Minneapolis and St. Paul, Minnesota
 * https://opensocial.africa - for Africa, by Africans
+* https://gr.social - community of Greece
 
 #### Political and social views
 
