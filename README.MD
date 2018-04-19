@@ -132,23 +132,24 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://toot.berlin - Berlin
 * https://muenster.im - Münsterland
 * https://ruhr.social - Ruhr area in Germany
-* https://mastodonti.co - Italian instance
-* https://mastoton.fi - Finnish persons
-* https://snabeltann.no - Norwegian instance
+* https://mastodonti.co - Italian
+* https://mastoton.fi - Finnish
+* https://snabeltann.no - Norwegian
 * https://mastodont.cat - Catalan
 * https://mastodon.migennes.net - inhabitants of Migennes
 * https://occitanie.social - region of Occitania
-* https://bne.social- users from southeast Queensland
+* https://bne.social- southeast Queensland
 * https://mastodon.uy - Uruguay
 * https://mastodon.scot - users in Scotland or who identify as Scottish
-* https://mastodon.me.uk - originally set up for the UK tech community
+* https://mastodon.me.uk - the UK tech community
 * https://manx.social - the Isle of Man
 * https://masto.donte.com.br - Brazilian users
 * https://mastodon.floripa.br - companies and startups in Florianópolis
 * https://mastodonchile.club - users latinos, especially from Chile
 * https://pnw.social - citizens of Washington, Oregon, Idaho, Western Montana, and Alaska
-* https://toot.memtech.website - members of the Memphis tech community
+* https://toot.memtech.website - the Memphis tech community
 * https://ps.s10y.eu - for like-minded people in Brussels
+* https://babelut.be - Belgium (?)
 * https://valleypost.us - a civil and long term dialog among residents and stakeholders in the Valley
 * https://mspsocial.net - community centered on the Twin Cities of Minneapolis and St. Paul, Minnesota
 * https://opensocial.africa - for Africa, by Africans
@@ -183,6 +184,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://instance.business - a safe place for nonwhite people on the fediverse
 * https://pipou.academy - emphasis on kindness
 * https://biscuit.town - feminist movement and queer/lgbt+
+* https://eldritch.cafe - for queer, feminist and anarchist people
 
 #### For people with a sense of self-irony
 
