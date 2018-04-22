@@ -166,6 +166,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://insoumis.social - for comrades, combatants, fighters
 * https://anticapitalist.party
 * https://sosh.network - for freedom of thought, of opinion, of conversation
+* https://roughseas.xyz - for libertarians, classical liberals, right-of-center thinkers, gun owners
 
 
 #### Animal lovers, ecology
