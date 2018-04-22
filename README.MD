@@ -33,6 +33,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://social.chinwag.im - by Chinwag project
 * https://eunivers.social - by Eunivers online edition
 * https://mastodon.freifunk-muensterland.de - by Freifunk Muensterland
+* https://unixcorn.xyz - by Unixcorn
 
 
 #### Instances for techies
