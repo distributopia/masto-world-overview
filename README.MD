@@ -132,29 +132,28 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://bonn.social - Bonn
 * https://toot.berlin - Berlin
 * https://muenster.im - Münsterland
-* https://ruhr.social - Ruhr area in Germany
-* https://mastodonti.co - Italian
-* https://mastoton.fi - Finnish
-* https://snabeltann.no - Norwegian
-* https://mastodont.cat - Catalan
-* https://mastodon.migennes.net - inhabitants of Migennes
-* https://occitanie.social - region of Occitania
-* https://bne.social- southeast Queensland
+* https://ruhr.social - Ruhr area, Germany
+* https://ps.s10y.eu - for like-minded people in Brussels
+* https://mastoton.fi - Finland
+* https://snabeltann.no - Norway
+* https://mastodon.se - Sweden
+* https://gr.social - Greece
+* https://babelut.be - Belgium (?)
+* https://mastodont.cat - Catalonia
+* https://occitanie.social - Occitania
+* https://bne.social- Queensland, Australia
 * https://mastodon.uy - Uruguay
-* https://mastodon.scot - users in Scotland or who identify as Scottish
-* https://mastodon.me.uk - the UK tech community
+* https://mastodon.scot - Scotland, or who identify as Scottish
+* https://mastodon.me.uk - UK tech community
 * https://manx.social - the Isle of Man
-* https://masto.donte.com.br - Brazilian users
+* https://masto.donte.com.br - Brazil
 * https://mastodon.floripa.br - companies and startups in Florianópolis
 * https://mastodonchile.club - users latinos, especially from Chile
 * https://pnw.social - citizens of Washington, Oregon, Idaho, Western Montana, and Alaska
-* https://toot.memtech.website - the Memphis tech community
-* https://ps.s10y.eu - for like-minded people in Brussels
-* https://babelut.be - Belgium (?)
-* https://valleypost.us - a civil and long term dialog among residents and stakeholders in the Valley
-* https://mspsocial.net - community centered on the Twin Cities of Minneapolis and St. Paul, Minnesota
+* https://toot.memtech.website - Memphis tech community
+* https://valleypost.us - residents and stakeholders in the Valley
+* https://mspsocial.net - the Twin Cities of Minneapolis and St. Paul, Minnesota
 * https://opensocial.africa - for Africa, by Africans
-* https://gr.social - community of Greece
 
 #### Political and social views
 
