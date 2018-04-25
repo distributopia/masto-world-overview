@@ -166,6 +166,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://anticapitalist.party
 * https://sosh.network - for freedom of thought, of opinion, of conversation
 * https://roughseas.xyz - for libertarians, classical liberals, right-of-center thinkers, gun owners
+* https://thepeanut.farm - for center-leftists worldwide
 
 
 #### Animal lovers, ecology
