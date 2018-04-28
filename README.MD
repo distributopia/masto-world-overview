@@ -168,6 +168,10 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://roughseas.xyz - for libertarians, classical liberals, right-of-center thinkers, gun owners
 * https://thepeanut.farm - for center-leftists worldwide
 
+#### Economics, business
+
+* https://social.outsourcedmath.com - discussing finance and investing
+
 
 #### Animal lovers, ecology
 
