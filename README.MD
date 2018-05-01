@@ -80,6 +80,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://mastodon.cc - for art
 * https://paintacu.be - painting community
 * https://bookwor.ms - for book-lovers
+* https://booktoot.club - for sharing and discussing books
 * https://www.bookbeezhive.com - for authors and their readers
 * https://writing.exchange - community for poets, writers, bloggers
 * https://wandering.shop - initially geared for science fiction and fantasy community
@@ -163,10 +164,11 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://voluntary.world - for voluntaryists, anarcho-capitalists, non-aggression centered activists
 * https://anarchism.space - for social anarchists
 * https://insoumis.social - for comrades, combatants, fighters
-* https://anticapitalist.party
 * https://sosh.network - for freedom of thought, of opinion, of conversation
 * https://roughseas.xyz - for libertarians, classical liberals, right-of-center thinkers, gun owners
 * https://thepeanut.farm - for center-leftists worldwide
+* https://anticapitalist.party
+* https://cheeky.red
 
 #### Economics, business
 
