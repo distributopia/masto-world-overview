@@ -137,6 +137,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://ps.s10y.eu - for like-minded people in Brussels
 * https://mastoton.fi - Finland
 * https://snabeltann.no - Norway
+* https://www.sosial.eu - Norway
 * https://mastodon.se - Sweden
 * https://gr.social - Greece
 * https://babelut.be - Belgium (?)
@@ -151,6 +152,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://mastodon.floripa.br - companies and startups in Florianópolis
 * https://mastodonchile.club - users latinos, especially from Chile
 * https://pnw.social - citizens of Washington, Oregon, Idaho, Western Montana, and Alaska
+* https://riverwest.xyz - Riverwest neighborhood of Milwaukee, Wisconsin, USA
 * https://toot.memtech.website - Memphis tech community
 * https://valleypost.us - residents and stakeholders in the Valley
 * https://mspsocial.net - the Twin Cities of Minneapolis and St. Paul, Minnesota
