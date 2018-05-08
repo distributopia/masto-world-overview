@@ -79,6 +79,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://mastodon.art - for artists
 * https://mastodon.cc - for art
 * https://paintacu.be - painting community
+* https://artalley.porn - for artists and commissioners
 * https://bookwor.ms - for book-lovers
 * https://booktoot.club - for sharing and discussing books
 * https://www.bookbeezhive.com - for authors and their readers
@@ -169,6 +170,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://sosh.network - for freedom of thought, of opinion, of conversation
 * https://roughseas.xyz - for libertarians, classical liberals, right-of-center thinkers, gun owners
 * https://thepeanut.farm - for center-leftists worldwide
+* https://sunbeam.city - focusing on the solarpunk aesthetic (anarchist, anti-capitalist, utopian)
 * https://anticapitalist.party
 * https://cheeky.red
 
