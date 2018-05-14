@@ -49,10 +49,8 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://mastodon.horde.net.br - to bring together enthusiasts of free software
 * https://miaou.drycat.fr - for geeks, FOSS and cat lovers, [CHATONS](https://chatons.org) member
 * https://mastodon.partecipa.digital - conversations about IT, Open Source, Linux
-* https://mn.ms - programming, Linux, security, fiction
 * https://pao.moe - cat, FOSS, nix
 * https://linuxrocks.online - dedicated to Linux and technologies
-* https://social.dropbear.xyz - mainly about open source/Linux stuff
 * https://functional.cafe - for people interested in functional programming and languages
 * https://social.csswg.org - for anyone interested in CSS or general web development
 * https://oldbytes.space - for old hardware fans
@@ -93,6 +91,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://music.glitch.pizza - dedicated to talking about and sharing music
 * https://metalhead.club - addressing metal friends
 * https://linernotes.club - for fans of recorded music
+* https://ausglam.space - for Australian galleries, libraries, archives, museums and records people
 
 #### Sciences
 
