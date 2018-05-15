@@ -102,6 +102,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 
 #### Hobbies
 
+* https://pod.social - for podcast creators, listeners, and enthusiasts
 * https://mastodon.flights - focused on travel, world affairs and jet setting lifestyles
 * https://boardgames.social - for board gamers and the games they love
 * https://mastodon.beerfactory.org - for beermakers
