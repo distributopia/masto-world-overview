@@ -72,7 +72,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://gonext.gg - esports-centric with focus on competitive gaming
 * https://gamemaking.social - amateur videogame making: game writers, game players welcome
 
-#### Arts
+#### Humanities
 
 * https://mastodon.art - for artists
 * https://mastodon.cc - for art
@@ -82,16 +82,18 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://booktoot.club - for sharing and discussing books
 * https://www.bookbeezhive.com - for authors and their readers
 * https://writing.exchange - community for poets, writers, bloggers
-* https://wandering.shop - initially geared for science fiction and fantasy community
+* https://wandering.shop - science fiction and fantasy community
 * https://imaginair.es - for writers, photographers, painters, cartoonists and people with imagination
 * https://social.nasqueron.org - for creative people, writers, developers and thinkers
 * https://bookwitty.social - dedicated to discovering books
 * https://vis.social - for anyone into data, visualization, creative coding, related arts and research
 * https://photog.social - place for your photos
 * https://music.glitch.pizza - dedicated to talking about and sharing music
-* https://metalhead.club - addressing metal friends
+* https://metalhead.club - for metal friends
 * https://linernotes.club - for fans of recorded music
 * https://ausglam.space - for Australian galleries, libraries, archives, museums and records people
+* https://social.archi - focused on Architectural Design
+* https://spooky.pizza - for linguists and linguist-adjacent people
 
 #### Sciences
 
@@ -120,7 +122,6 @@ Instances are not restricted to their theme. General use is always welcome. This
 
 #### Language specifics
 
-* https://spooky.pizza - for linguists and linguist-adjacent people
 * https://esperanto.masto.host - for those interested in Esperanto
 * https://masto.pt - for people speaking Portugese
 * https://tooot.im - main instance language is Hebrew
