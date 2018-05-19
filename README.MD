@@ -89,7 +89,6 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://vis.social - for anyone into data, visualization, creative coding, related arts and research
 * https://photog.social - place for your photos
 * https://music.glitch.pizza - dedicated to talking about and sharing music
-* https://metalhead.club - for metal friends
 * https://linernotes.club - for fans of recorded music
 * https://ausglam.space - for Australian galleries, libraries, archives, museums and records people
 * https://social.archi - focused on Architectural Design
@@ -106,8 +105,11 @@ Instances are not restricted to their theme. General use is always welcome. This
 
 * https://pod.social - for podcast creators, listeners, and enthusiasts
 * https://radiosocial.org - for radio amateurs, DXers and anyone interested to geek out about radio
+* https://metalhead.club - for metal friends
+* https://electro.social - for electronic music enthusiasts, and electro music makers
 * https://mastodon.flights - focused on travel, world affairs and jet setting lifestyles
 * https://boardgames.social - for board gamers and the games they love
+* https://pipes.social - hobby of pipe collecting and pipe smoking
 * https://mastodon.beerfactory.org - for beermakers
 * https://mastd.racing - dedicated to motosports
 * https://2ndamendment.social - have the freedom to discuss, share and show off your guns
@@ -119,7 +121,6 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://witchcraft.cafe - for witches
 * https://witchey.club - for anyone curious about witchcraft
 * https://hodl.social - place to discuss Stellar, cryptocurrencies and blockchain
-* https://pipes.social - hobby of pipe collecting and pipe smoking
 
 #### Language specifics
 
