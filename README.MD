@@ -35,7 +35,6 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://mastodon.freifunk-muensterland.de - by Freifunk Muensterland
 * https://unixcorn.xyz - by Unixcorn
 
-
 #### Instances for techies
 
 * https://infosec.exchange - infosec and IT security discussions
@@ -71,6 +70,15 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://unityjp-mastodon.tokyo - Unity Japan
 * https://gonext.gg - esports-centric with focus on competitive gaming
 * https://gamemaking.social - amateur videogame making: game writers, game players welcome
+
+#### Game / Book / Show theme
+
+* https://tenforward.social - theme Star Trek
+* https://moseisley.club - theme Star Wars
+* https://wowsdon.xyz - theme World of WarShips
+* https://kirakiratter.com - for Aikatsu fans
+* https://donphan.social - for Pokémon enthusiasts
+* https://inkopolis.cafe - for Splatoon 2 players
 
 #### Humanities
 
@@ -182,7 +190,6 @@ Instances are not restricted to their theme. General use is always welcome. This
 
 * https://social.outsourcedmath.com - discussing finance and investing
 
-
 #### Animal lovers, ecology
 
 * https://mastodon.latransition.org - francophone movement for ecological transition
@@ -222,14 +229,6 @@ Instances are not restricted to their theme. General use is always welcome. This
 #### Subcultures
 
 * https://yiff.rocks - for furries, by furries
-
-#### Series / game / book theme
-
-* https://tenforward.social - theme Star Trek
-* https://moseisley.club - theme Star Wars
-* https://wowsdon.xyz - theme World of WarShips
-* https://kirakiratter.com - for Aikatsu fans
-* https://donphan.social - for Pokémon enthusiasts
 
 #### Notable generalistic
 
