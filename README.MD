@@ -59,6 +59,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://fasterwhen.red - automotive- and engineering-related topics
 * https://recurrent.network - or discussing all things artificial neural network-related
 * https://idevs.id - home to developer, programmer, coder
+* https://vpn.tv - for VPN operators, users and enthusiasts
 
 #### Gamedev
 
@@ -99,7 +100,6 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://music.glitch.pizza - dedicated to talking about and sharing music
 * https://linernotes.club - for fans of recorded music
 * https://ausglam.space - for Australian galleries, libraries, archives, museums and records people
-* https://social.archi - focused on Architectural Design
 * https://spooky.pizza - for linguists and linguist-adjacent people
 
 #### Sciences
