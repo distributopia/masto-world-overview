@@ -57,7 +57,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://cb.ku.cx - all things Technology, hacking, security and reverse engineering
 * https://bsd.network - for *BSD users and devs
 * https://fasterwhen.red - automotive- and engineering-related topics
-* https://recurrent.network - or discussing all things artificial neural network-related
+* https://recurrent.network - all things artificial neural network-related
 * https://idevs.id - home to developer, programmer, coder
 * https://vpn.tv - for VPN operators, users and enthusiasts
 
