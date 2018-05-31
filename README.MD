@@ -113,6 +113,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 
 * https://pod.social - for podcast creators, listeners, and enthusiasts
 * https://radiosocial.org - for radio amateurs, DXers and anyone interested to geek out about radio
+* https://smusi.ch - for musicians, by musicians
 * https://metalhead.club - for metal friends
 * https://electro.social - for electronic music enthusiasts, and electro music makers
 * https://mastodon.flights - focused on travel, world affairs and jet setting lifestyles
@@ -256,7 +257,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://tootme.de
 * https://kyot.me
 
-##### Disclaimer
+## Disclaimer
 
 During this research I skipped following instances: closed registration *at the moment of checking*, running old code, theme / description not understood due to language barrier or scarce description, with long blocklists and strange block reasoning, experimental servers.
 
@@ -264,8 +265,6 @@ If I forgot to include your instance, don't take it personally. You can add them
 
 If you wish to be excluded from the list, kindly say so in issues.
 
-##### Possible research to be made
+## Other research links
 
-- where instances are hosted (how many of them (%) are hosted on Amazon);
-- how many instances (%) provide transparent info about silencing other instances, how many don't provide this information;
-- which silenced instances are in blocklists often, which are personal preferences of some instance's admins.
+- [server distribution](https://chaos.social/@leah/99837391793032137) research by Leah
