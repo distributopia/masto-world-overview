@@ -249,6 +249,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://mstdn.gnous.eu - instance francophone
 * https://mcr.cool - for good and fun times
 * https://7nw.eu - always running on the last tagged release
+* https://social.openalgeria.org
 * https://social.datensturm.net
 * https://mastodon.fun
 * https://nicepeople.social
