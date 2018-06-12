@@ -190,6 +190,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 #### Economics, business
 
 * https://social.outsourcedmath.com - discussing finance and investing
+* https://hiddan.net - a safe space for entrepreneurs
 
 #### Animal lovers, ecology
 
@@ -234,6 +235,7 @@ Instances are not restricted to their theme. General use is always welcome. This
 #### Notable generalistic
 
 // *biased personal choosing of small-to-medium sized instances that may be happy to have new users*
+* https://projectx.fun - will be open for up to 100 users, for sanity and sustainability
 * https://nulled.red - refuses to block or silence any instances
 * https://waifu.one - no censorship, no instances are blocked
 * https://ieji.de - no logs, has Tor .onion address
