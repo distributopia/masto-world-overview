@@ -3,10 +3,9 @@
 
 `GitHub WARNING`: This is a __mirror repo__ from [GitLab](https://gitlab.com/distributopia/masto-world-overview). Please, send your MRs there. New PRs here won't be merged.
 
-Instances are not restricted to their theme. General use is always welcome. This list may be useful for new users who wish to choose an instance by theme (better advice: **choose instance by looking at its administrator's timeline!** and read local rules)
+Instances are not restricted to their theme. This list may be useful for new users who wish to choose an instance by theme (better advice: **choose instance by looking at its administrator's timeline!** and read local rules)
 
 #### Notable mention
-
 // *some are open only to particular audience, i.e., to students of university*
 * https://social.lab.cultura.gov.br - by FOSS lab of Brazilian Ministry of Culture
 * https://mastodon.mit.edu - for the MIT community
@@ -17,7 +16,6 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://mastodon.etalab.gouv.fr - for French public servants who are involved in innovative projects
 
 #### Run by tech-savvy organizations
-
 * https://chaos.social - CCC related
 * https://framapiaf.org - by Framasoft, association promoting FOSS, providing privacy-respecting services
 * https://mastodon.dotopia.dk - by DO:TOPIA, Denmark based tech activism collective
@@ -36,7 +34,6 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://unixcorn.xyz - by Unixcorn
 
 #### Instances for techies
-
 * https://infosec.exchange - infosec and IT security discussions
 * https://naos.crypto.church - powers of cryptography and cryptanalysis
 * https://zerohack.xyz - hacking centric: programming, Linux, BSD, Ethics, whatever
@@ -62,7 +59,6 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://vpn.tv - for VPN operators, users and enthusiasts
 
 #### Gamedev
-
 * https://mastodon.gamedev.place - gamedev and related professions
 * https://elekk.xyz - by gamers, for gamers
 * https://mastodon.sergal.org - general trends toward tech, games, and everything fluffy
@@ -73,7 +69,6 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://gamemaking.social - amateur videogame making: game writers, game players welcome
 
 #### Game / Book / Show theme
-
 * https://tenforward.social - theme Star Trek
 * https://moseisley.club - theme Star Wars
 * https://wowsdon.xyz - theme World of WarShips
@@ -82,7 +77,6 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://inkopolis.cafe - for Splatoon 2 players
 
 #### Humanities
-
 * https://mastodon.art - for artists
 * https://mastodon.cc - for art
 * https://paintacu.be - painting community
@@ -103,14 +97,12 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://spooky.pizza - for linguists and linguist-adjacent people
 
 #### Sciences
-
 * https://scholar.social - for researchers, undergrads, journal editors, librarians, administrators
 * https://scicomm.xyz - discussions for scientists and science enthusiasts
 * https://mastodon.huma-num.fr - dedicated to the higher education and research
 * https://tusk.schoollibraries.net - to help educators improve the School Libraries Resource Network
 
 #### Hobbies
-
 * https://pod.social - for podcast creators, listeners, and enthusiasts
 * https://radiosocial.org - for radio amateurs, DXers and anyone interested to geek out about radio
 * https://smusi.ch - for musicians, by musicians
@@ -132,7 +124,6 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://hodl.social - place to discuss Stellar, cryptocurrencies and blockchain
 
 #### Language specifics
-
 * https://esperanto.masto.host - for those interested in Esperanto
 * https://masto.pt - for people speaking Portugese
 * https://tooot.im - main instance language is Hebrew
@@ -143,7 +134,6 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://mamut.social - primarily for Spanish speaking people
 
 #### Regional
-
 * https://bonn.social - Bonn
 * https://toot.berlin - Berlin
 * https://muenster.im - Münsterland
@@ -173,7 +163,6 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://opensocial.africa - for Africa, by Africans
 
 #### Political and social views
-
 * https://todon.nl - for leftists, socialists, anarchists, Marxists, social democrats, social liberals
 * https://hispagatos.space - for hackers, social anarchists, and anarchist hackers
 * https://libertarian.chat - a community driven instance for people who love liberty
@@ -188,18 +177,16 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://cheeky.red
 
 #### Economics, business
-
 * https://social.outsourcedmath.com - discussing finance and investing
 * https://hiddan.net - a safe space for entrepreneurs
 
-#### Animal lovers, ecology
-
+#### Ecology, animal lovers
+* https://antioil.party - for antioil activists
 * https://mastodon.latransition.org - francophone movement for ecological transition
 * https://toot.cat
 * https://pets-in.space
 
 #### Safe spaces
-
 * https://trans.town - all trans people welcome
 * https://queer.party - for queer folk and non-queer folk alike
 * https://queer.town - space for queer people to be positive and have fun
@@ -212,7 +199,6 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://eldritch.cafe - for queer, feminist and anarchist people
 
 #### For people with a sense of self-irony
-
 * https://i.write.codethat.sucks
 * https://sleeping.town - for people who like to sleep
 * https://bibeogaem.zone - "nice place for silly people"
@@ -223,17 +209,14 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://outsiders.network - by one Outsider for all Outsiders
 
 #### Characters
-
 * https://dragon.style - for dragons, and people who like dragons
 * https://monsterpit.net - for monsters, demons, aliens, strange creatures, and those who love them
 * https://equestria.social - for pony fans
 
 #### Subcultures
-
 * https://yiff.rocks - for furries, by furries
 
 #### Notable generalistic
-
 // *biased personal choosing of small-to-medium sized instances that may be happy to have new users*
 * https://projectx.fun - will be open for up to 100 users, for sanity and sustainability
 * https://nulled.red - refuses to block or silence any instances
@@ -255,19 +238,18 @@ Instances are not restricted to their theme. General use is always welcome. This
 * https://social.datensturm.net
 * https://mastodon.fun
 * https://nicepeople.social
+* https://trillion.social
 * https://toot.chat
 * https://squid.cafe
 * https://tootme.de
 * https://kyot.me
 
 ## Disclaimer
+Following instances skipped: closed registration *at the moment of checking*, running old code, theme / description not understood due to language barrier or scarce description, long blocklists, experimental servers.
 
-During this research I skipped following instances: closed registration *at the moment of checking*, running old code, theme / description not understood due to language barrier or scarce description, with long blocklists and strange block reasoning, experimental servers.
-
-If I forgot to include your instance, don't take it personally. You can add themed instances by opening an issue or via [MR](https://gitlab.com/distributopia/masto-world-overview). If your instance already has many users, may be it would be wise to let other instances grow instead, for a healthier decentralization.
-
-If you wish to be excluded from the list, kindly say so in issues.
+Add your own themed Mastodon instance by opening an issue or via [MR](https://gitlab.com/distributopia/masto-world-overview). If your server already has many users, it will be nice of you to let other instances grow, for a healthier decentralization.
 
 ## Other research links
-
-- [server distribution](https://chaos.social/@leah/99837391793032137) research by Leah
+- [Friendica world overview](https://gitlab.com/distributopia/friendica-world-overview)
+- [Fediverse pirate servers](https://gitlab.com/distributopia/caramba)
+- [Mastodon server distribution](https://chaos.social/@leah/99837391793032137) research by Leah
