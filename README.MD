@@ -103,6 +103,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://tusk.schoollibraries.net - to help educators improve the School Libraries Resource Network
 
 #### Hobbies
+* https://makestuff.club - for people that make stuff
 * https://pod.social - for podcast creators, listeners, and enthusiasts
 * https://radiosocial.org - for radio amateurs, DXers and anyone interested to geek out about radio
 * https://smusi.ch - for musicians, by musicians
@@ -181,7 +182,6 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://hiddan.net - a safe space for entrepreneurs
 
 #### Ecology, animal lovers
-* https://antioil.party - for antioil activists
 * https://mastodon.latransition.org - francophone movement for ecological transition
 * https://toot.cat
 * https://pets-in.space
