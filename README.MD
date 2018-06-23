@@ -81,6 +81,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://mastodon.cc - for art
 * https://paintacu.be - painting community
 * https://artalley.porn - for artists and commissioners
+* https://baraag.net - freely share all types of art, uncensored, 18+
 * https://bookwor.ms - for book-lovers
 * https://booktoot.club - for sharing and discussing books
 * https://www.bookbeezhive.com - for authors and their readers
@@ -135,11 +136,11 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://mamut.social - primarily for Spanish speaking people
 
 #### Regional
-* https://bonn.social - Bonn
-* https://toot.berlin - Berlin
-* https://muenster.im - Münsterland
+* https://bonn.social - Bonn, Germany
+* https://toot.berlin - Berlin, Germany
+* https://muenster.im - Münsterland, Germany
 * https://ruhr.social - Ruhr area, Germany
-* https://ps.s10y.eu - for like-minded people in Brussels
+* https://ps.s10y.eu - like-minded people in Brussels, Belgium
 * https://mastoton.fi - Finland
 * https://snabeltann.no - Norway
 * https://www.sosial.eu - Norway
@@ -154,14 +155,15 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://mastodon.me.uk - UK tech community
 * https://manx.social - the Isle of Man
 * https://masto.donte.com.br - Brazil
-* https://mastodon.floripa.br - companies and startups in Florianópolis
+* https://mastodon.floripa.br - companies and startups in Florianópolis, Brazil
 * https://mastodonchile.club - users latinos, especially from Chile
 * https://pnw.social - citizens of Washington, Oregon, Idaho, Western Montana, and Alaska
 * https://riverwest.xyz - Riverwest neighborhood of Milwaukee, Wisconsin, USA
-* https://toot.memtech.website - Memphis tech community
-* https://techandbeer.social - tech and beer in Orlando
-* https://valleypost.us - residents and stakeholders in the Valley
-* https://mspsocial.net - the Twin Cities of Minneapolis and St. Paul, Minnesota
+* https://toot.memtech.website - Memphis tech community, USA
+* https://techandbeer.social - tech and beer in Orlando, USA
+* https://valleypost.us - residents and stakeholders in the Valley, USA
+* https://mspsocial.net - Twin Cities of Minneapolis and St. Paul, Minnesota, USA
+* https://kokomo.space - community of Kokomo city, Indiana, USA
 * https://opensocial.africa - for Africa, by Africans
 
 #### Political and social views
@@ -207,7 +209,6 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://ephemeral.glitch.social - toots are ephemeral and disappear after a while
 * https://dolphin.town - instance where you can only say the letter 'e'
 * https://botsin.space - for bots
-* https://outsiders.network - by one Outsider for all Outsiders
 
 #### Characters
 * https://dragon.style - for dragons, and people who like dragons
@@ -241,7 +242,6 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://nicepeople.social
 * https://trillion.social
 * https://toot.chat
-* https://squid.cafe
 * https://tootme.de
 * https://kyot.me
 
