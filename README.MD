@@ -145,7 +145,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://www.sosial.eu - Norway
 * https://mastodon.se - Sweden
 * https://gr.social - Greece
-* https://babelut.be - Belgium (?)
+* https://babelut.be - Belgium
 * https://mastodont.cat - Catalonia
 * https://occitanie.social - Occitania
 * https://bne.social- Queensland, Australia
@@ -159,6 +159,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://pnw.social - citizens of Washington, Oregon, Idaho, Western Montana, and Alaska
 * https://riverwest.xyz - Riverwest neighborhood of Milwaukee, Wisconsin, USA
 * https://toot.memtech.website - Memphis tech community
+* https://techandbeer.social - tech and beer in Orlando
 * https://valleypost.us - residents and stakeholders in the Valley
 * https://mspsocial.net - the Twin Cities of Minneapolis and St. Paul, Minnesota
 * https://opensocial.africa - for Africa, by Africans
