@@ -5,7 +5,7 @@
 
 Instances are not restricted to their theme. This list may be useful for new users who wish to choose an instance by theme (better advice: **choose instance by looking at its administrator's timeline!** and read local rules)
 
-#### Notable mention
+#### [Notable mention](#notable)
 // *some are open only to particular audience, i.e., to students of university*
 * https://social.lab.cultura.gov.br - by FOSS lab of Brazilian Ministry of Culture
 * https://mastodon.mit.edu - for the MIT community
@@ -15,7 +15,9 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://mastodonevry.ovh - for l'Université d'Evry-Val-d'Essonne students
 * https://mastodon.etalab.gouv.fr - for French public servants who are involved in innovative projects
 
-#### Run by tech-savvy organizations
+#### [Run by tech-savvy organizations](#techsavvy)
+* https://en.osm.town - for the OpenStreetMap Community
+* https://fr.osm.social - for francophone OpenStreetMap Community
 * https://chaos.social - CCC related
 * https://framapiaf.org - by Framasoft, association promoting FOSS, providing privacy-respecting services
 * https://mastodon.dotopia.dk - by DO:TOPIA, Denmark based tech activism collective
@@ -33,7 +35,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://mastodon.freifunk-muensterland.de - by Freifunk Muensterland
 * https://unixcorn.xyz - by Unixcorn
 
-#### Instances for techies
+#### [Instances for techies](#4techies)
 * https://infosec.exchange - infosec and IT security discussions
 * https://naos.crypto.church - powers of cryptography and cryptanalysis
 * https://zerohack.xyz - hacking centric: programming, Linux, BSD, Ethics, whatever
@@ -58,7 +60,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://idevs.id - home to developer, programmer, coder
 * https://vpn.tv - for VPN operators, users and enthusiasts
 
-#### Gamedev
+#### [Gamedev](#gamedev)
 * https://mastodon.gamedev.place - gamedev and related professions
 * https://elekk.xyz - by gamers, for gamers
 * https://mastodon.sergal.org - general trends toward tech, games, and everything fluffy
@@ -236,6 +238,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://mstdn.gnous.eu - instance francophone
 * https://mcr.cool - for good and fun times
 * https://7nw.eu - always running on the last tagged release
+* https://colloportus.me - leave big social media and get back to social networking
 * https://social.openalgeria.org
 * https://social.datensturm.net
 * https://mastodon.fun
