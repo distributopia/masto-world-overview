@@ -70,7 +70,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://gonext.gg - esports-centric with focus on competitive gaming
 * https://gamemaking.social - amateur videogame making: game writers, game players welcome
 
-#### Game / Book / Show theme
+#### [Game / Book / Show theme](#entertainment)
 * https://tenforward.social - theme Star Trek
 * https://moseisley.club - theme Star Wars
 * https://wowsdon.xyz - theme World of WarShips
@@ -78,7 +78,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://donphan.social - for Pokémon enthusiasts
 * https://inkopolis.cafe - for Splatoon 2 players
 
-#### Humanities
+#### [Humanities](#humanities)
 * https://mastodon.art - for artists
 * https://mastodon.cc - for art
 * https://paintacu.be - painting community
@@ -99,13 +99,13 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://ausglam.space - for Australian galleries, libraries, archives, museums and records people
 * https://spooky.pizza - for linguists and linguist-adjacent people
 
-#### Sciences
+#### [Sciences](#sciences)
 * https://scholar.social - for researchers, undergrads, journal editors, librarians, administrators
 * https://scicomm.xyz - discussions for scientists and science enthusiasts
 * https://mastodon.huma-num.fr - dedicated to the higher education and research
 * https://tusk.schoollibraries.net - to help educators improve the School Libraries Resource Network
 
-#### Hobbies
+#### [Hobbies](#hobbies)
 * https://makestuff.club - for people that make stuff
 * https://pod.social - for podcast creators, listeners, and enthusiasts
 * https://radiosocial.org - for radio amateurs, DXers and anyone interested to geek out about radio
@@ -127,7 +127,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://witchey.club - for anyone curious about witchcraft
 * https://hodl.social - place to discuss Stellar, cryptocurrencies and blockchain
 
-#### Language specifics
+#### [Language specifics](#languages)
 * https://esperanto.masto.host - for those interested in Esperanto
 * https://masto.pt - for people speaking Portugese
 * https://tooot.im - main instance language is Hebrew
@@ -137,7 +137,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://tootcn.com - Chinese instance
 * https://mamut.social - primarily for Spanish speaking people
 
-#### Regional
+#### [Regional](#regional)
 * https://bonn.social - Bonn, Germany
 * https://toot.berlin - Berlin, Germany
 * https://muenster.im - Münsterland, Germany
@@ -167,8 +167,9 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://mspsocial.net - Twin Cities of Minneapolis and St. Paul, Minnesota, USA
 * https://kokomo.space - community of Kokomo city, Indiana, USA
 * https://opensocial.africa - for Africa, by Africans
+* https://polska.masto.host - Poland
 
-#### Political and social views
+#### [Political and social views](#views)
 * https://todon.nl - for leftists, socialists, anarchists, Marxists, social democrats, social liberals
 * https://hispagatos.space - for hackers, social anarchists, and anarchist hackers
 * https://libertarian.chat - a community driven instance for people who love liberty
@@ -182,16 +183,16 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://anticapitalist.party
 * https://cheeky.red
 
-#### Economics, business
+#### [Economics, business](#business)
 * https://social.outsourcedmath.com - discussing finance and investing
 * https://hiddan.net - a safe space for entrepreneurs
 
-#### Ecology, animal lovers
+#### [Ecology, animal lovers](#ecology)
 * https://mastodon.latransition.org - francophone movement for ecological transition
 * https://toot.cat
 * https://pets-in.space
 
-#### Safe spaces
+#### [Safe spaces](#safespaces)
 * https://trans.town - all trans people welcome
 * https://queer.party - for queer folk and non-queer folk alike
 * https://queer.town - space for queer people to be positive and have fun
@@ -203,7 +204,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://biscuit.town - feminist movement and queer/lgbt+
 * https://eldritch.cafe - for queer, feminist and anarchist people
 
-#### For people with a sense of self-irony
+#### [For people with a sense of self-irony](#ironic)
 * https://i.write.codethat.sucks
 * https://sleeping.town - for people who like to sleep
 * https://bibeogaem.zone - "nice place for silly people"
@@ -212,15 +213,15 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://dolphin.town - instance where you can only say the letter 'e'
 * https://botsin.space - for bots
 
-#### Characters
+#### [Characters](#characters)
 * https://dragon.style - for dragons, and people who like dragons
 * https://monsterpit.net - for monsters, demons, aliens, strange creatures, and those who love them
 * https://equestria.social - for pony fans
 
-#### Subcultures
+#### [Subcultures](#subcultures)
 * https://yiff.rocks - for furries, by furries
 
-#### Notable generalistic
+#### [Notable generalistic](#generalistic)
 // *biased personal choosing of small-to-medium sized instances that may be happy to have new users*
 * https://projectx.fun - will be open for up to 100 users, for sanity and sustainability
 * https://nulled.red - refuses to block or silence any instances
