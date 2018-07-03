@@ -205,6 +205,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://eldritch.cafe - for queer, feminist and anarchist people
 
 #### [For people with a sense of self-irony](#ironic)
+* https://shitter.me - the sky is the limit
 * https://i.write.codethat.sucks
 * https://sleeping.town - for people who like to sleep
 * https://bibeogaem.zone - "nice place for silly people"
