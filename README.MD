@@ -5,7 +5,7 @@
 
 Instances are not restricted to their theme. This list may be useful for new users who wish to choose an instance by theme (better advice: **choose instance by looking at its administrator's timeline!** and read local rules)
 
-#### [Notable mention](#notable)
+#### [Notable mention](#notable-mention)
 // *some are open only to particular audience, i.e., to students of university*
 * https://social.lab.cultura.gov.br - by FOSS lab of Brazilian Ministry of Culture
 * https://mastodon.mit.edu - for the MIT community
@@ -15,7 +15,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://mastodonevry.ovh - for l'Université d'Evry-Val-d'Essonne students
 * https://mastodon.etalab.gouv.fr - for French public servants who are involved in innovative projects
 
-#### [Run by tech-savvy organizations](#techsavvy)
+#### [Run by tech-savvy organizations](#run0by-tech-savvy-organizations)
 * https://en.osm.town - for the OpenStreetMap Community
 * https://fr.osm.social - for francophone OpenStreetMap Community
 * https://chaos.social - CCC related
@@ -35,7 +35,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://mastodon.freifunk-muensterland.de - by Freifunk Muensterland
 * https://unixcorn.xyz - by Unixcorn
 
-#### [Instances for techies](#4techies)
+#### [Instances for techies](instances-for-techies)
 * https://infosec.exchange - infosec and IT security discussions
 * https://naos.crypto.church - powers of cryptography and cryptanalysis
 * https://zerohack.xyz - hacking centric: programming, Linux, BSD, Ethics, whatever
@@ -127,7 +127,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://witchey.club - for anyone curious about witchcraft
 * https://hodl.social - place to discuss Stellar, cryptocurrencies and blockchain
 
-#### [Language specifics](#languages)
+#### [Language specifics](#language-specific)
 * https://esperanto.masto.host - for those interested in Esperanto
 * https://masto.pt - for people speaking Portugese
 * https://tooot.im - main instance language is Hebrew
@@ -169,7 +169,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://opensocial.africa - for Africa, by Africans
 * https://polska.masto.host - Poland
 
-#### [Political and social views](#views)
+#### [Political and social views](#political-and-social-views)
 * https://todon.nl - for leftists, socialists, anarchists, Marxists, social democrats, social liberals
 * https://hispagatos.space - for hackers, social anarchists, and anarchist hackers
 * https://libertarian.chat - a community driven instance for people who love liberty
@@ -182,17 +182,19 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://sunbeam.city - focusing on the solarpunk aesthetic (anarchist, anti-capitalist, utopian)
 * https://anticapitalist.party
 * https://cheeky.red
+* https://qoto.org - free speech space, no censorship here
 
-#### [Economics, business](#business)
+#### [Economics business](#economics-business)
 * https://social.outsourcedmath.com - discussing finance and investing
 * https://hiddan.net - a safe space for entrepreneurs
 
-#### [Ecology, animal lovers](#ecology)
+#### [Ecology and animals](#ecology-and-animals)
 * https://mastodon.latransition.org - francophone movement for ecological transition
+* https://onerescue.org - for animal lovers, and dedicated to helping rescue animals in need
 * https://toot.cat
 * https://pets-in.space
 
-#### [Safe spaces](#safespaces)
+#### [Safe spaces](#safe-spaces)
 * https://trans.town - all trans people welcome
 * https://queer.party - for queer folk and non-queer folk alike
 * https://queer.town - space for queer people to be positive and have fun
@@ -204,7 +206,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://biscuit.town - feminist movement and queer/lgbt+
 * https://eldritch.cafe - for queer, feminist and anarchist people
 
-#### [For people with a sense of self-irony](#ironic)
+#### [For people with a sense of self-irony](#for-people-with-a-sense-of-self-irony)
 * https://shitter.me - the sky is the limit
 * https://i.write.codethat.sucks
 * https://sleeping.town - for people who like to sleep
@@ -222,7 +224,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 #### [Subcultures](#subcultures)
 * https://yiff.rocks - for furries, by furries
 
-#### [Notable generalistic](#generalistic)
+#### [Notable generalistic](#notable-generalistic)
 // *biased personal choosing of small-to-medium sized instances that may be happy to have new users*
 * https://projectx.fun - will be open for up to 100 users, for sanity and sustainability
 * https://nulled.red - refuses to block or silence any instances
