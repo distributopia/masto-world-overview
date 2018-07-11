@@ -108,7 +108,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 #### [Hobbies](#hobbies)
 * https://makestuff.club - for people that make stuff
 * https://pod.social - for podcast creators, listeners, and enthusiasts
-* https://radiosocial.org - for radio amateurs, DXers and anyone interested to geek out about radio
+* https://mhz.social - for radio amateurs, DXers and anyone interested to geek out about radio
 * https://smusi.ch - for musicians, by musicians
 * https://metalhead.club - for metal friends
 * https://electro.social - for electronic music enthusiasts, and electro music makers
@@ -125,6 +125,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://occult.camp - focused on spitituality, witchcraft and various shades of woo
 * https://witchcraft.cafe - for witches
 * https://witchey.club - for anyone curious about witchcraft
+* https://talesofterror.eu - for fans of horror literature
 * https://hodl.social - place to discuss Stellar, cryptocurrencies and blockchain
 
 #### [Language specifics](#language-specific)
@@ -223,6 +224,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 
 #### [Subcultures](#subcultures)
 * https://yiff.rocks - for furries, by furries
+* https://pridelands.io - for furries who want a place where they can speak like adults
 
 #### [Notable generalistic](#notable-generalistic)
 // *biased personal choosing of small-to-medium sized instances that may be happy to have new users*
