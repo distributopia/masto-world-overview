@@ -104,6 +104,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://scicomm.xyz - discussions for scientists and science enthusiasts
 * https://mastodon.huma-num.fr - dedicated to the higher education and research
 * https://tusk.schoollibraries.net - to help educators improve the School Libraries Resource Network
+* https://qoto.org -  for scholars in Science, Technology, Engineering, and Mathematics (STEM)
 
 #### [Hobbies](#hobbies)
 * https://makestuff.club - for people that make stuff
@@ -183,7 +184,6 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://sunbeam.city - focusing on the solarpunk aesthetic (anarchist, anti-capitalist, utopian)
 * https://anticapitalist.party
 * https://cheeky.red
-* https://qoto.org - free speech space, no censorship here
 
 #### [Economics business](#economics-business)
 * https://social.outsourcedmath.com - discussing finance and investing
