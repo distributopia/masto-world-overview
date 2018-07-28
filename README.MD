@@ -15,7 +15,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://mastodonevry.ovh - for l'Université d'Evry-Val-d'Essonne students
 * https://mastodon.etalab.gouv.fr - for French public servants who are involved in innovative projects
 
-#### [Run by tech-savvy organizations](#run0by-tech-savvy-organizations)
+#### [Run by tech-savvy organizations](#run-by-tech-savvy-organizations)
 * https://en.osm.town - for the OpenStreetMap Community
 * https://fr.osm.social - for francophone OpenStreetMap Community
 * https://chaos.social - CCC related
@@ -59,6 +59,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://recurrent.network - all things artificial neural network-related
 * https://idevs.id - home to developer, programmer, coder
 * https://vpn.tv - for VPN operators, users and enthusiasts
+* https://w3c.social - for people involved in the activities of the World Wide Web Consortium (W3C)
 
 #### [Gamedev](#gamedev)
 * https://mastodon.gamedev.place - gamedev and related professions
@@ -77,6 +78,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://kirakiratter.com - for Aikatsu fans
 * https://donphan.social - for Pokémon enthusiasts
 * https://inkopolis.cafe - for Splatoon 2 players
+* https://cmdr.social - dedicated to Elite: Dangerous
 
 #### [Humanities](#humanities)
 * https://mastodon.art - for artists
@@ -85,19 +87,18 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://artalley.porn - for artists and commissioners
 * https://baraag.net - freely share all types of art, uncensored, 18+
 * https://bookwor.ms - for book-lovers
-* https://booktoot.club - for sharing and discussing books
 * https://www.bookbeezhive.com - for authors and their readers
 * https://writing.exchange - community for poets, writers, bloggers
 * https://wandering.shop - science fiction and fantasy community
 * https://imaginair.es - for writers, photographers, painters, cartoonists and people with imagination
 * https://social.nasqueron.org - for creative people, writers, developers and thinkers
-* https://bookwitty.social - dedicated to discovering books
 * https://vis.social - for anyone into data, visualization, creative coding, related arts and research
 * https://photog.social - place for your photos
 * https://music.glitch.pizza - dedicated to talking about and sharing music
 * https://linernotes.club - for fans of recorded music
 * https://ausglam.space - for Australian galleries, libraries, archives, museums and records people
 * https://spooky.pizza - for linguists and linguist-adjacent people
+* https://oulipo.social - a lipogrammatic server
 
 #### [Sciences](#sciences)
 * https://scholar.social - for researchers, undergrads, journal editors, librarians, administrators
@@ -108,18 +109,21 @@ Instances are not restricted to their theme. This list may be useful for new use
 
 #### [Hobbies](#hobbies)
 * https://makestuff.club - for people that make stuff
+* https://toot.makersociety.org - dedicated to all makers, developers, tinkers, creatives
 * https://pod.social - for podcast creators, listeners, and enthusiasts
 * https://mhz.social - for radio amateurs, DXers and anyone interested to geek out about radio
 * https://smusi.ch - for musicians, by musicians
 * https://metalhead.club - for metal friends
 * https://electro.social - for electronic music enthusiasts, and electro music makers
 * https://mastodon.flights - focused on travel, world affairs and jet setting lifestyles
-* https://boardgames.social - for board gamers and the games they love
+* https://dice.camp - for tabletop gamers
 * https://pipes.social - hobby of pipe collecting and pipe smoking
 * https://mastodon.beerfactory.org - for beermakers
 * https://mastd.racing - dedicated to motosports
+* https://motogp.space - for MotoGP and motorbikes fans
+* https://ocr.social - for the global Obstacle Course Running (OCR) community
 * https://2ndamendment.social - have the freedom to discuss, share and show off your guns
-* https://onthesecond.com - for those who Love liberty, guns, and independence
+* https://onthesecond.com - for those who love liberty, guns, and independence
 * https://digipres.club - conversations about digital preservation
 * https://newtype.institute - anime-centric community
 * https://weebs.moe - anime, manga
@@ -128,6 +132,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://witchey.club - for anyone curious about witchcraft
 * https://talesofterror.eu - for fans of horror literature
 * https://hodl.social - place to discuss Stellar, cryptocurrencies and blockchain
+* https://travel-friends.chat - for people who like to travel
 
 #### [Language specifics](#language-specific)
 * https://esperanto.masto.host - for those interested in Esperanto
@@ -138,11 +143,13 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://toot.si - Slovenian (multilingual) instance
 * https://tootcn.com - Chinese instance
 * https://mamut.social - primarily for Spanish speaking people
+* https://ceilidh.space - Scottish Gaelic (or could be)
+* https://mastodontti.fi - Finnish (public toots should be in Finnish)
 
 #### [Regional](#regional)
 * https://bonn.social - Bonn, Germany
 * https://toot.berlin - Berlin, Germany
-* https://muenster.im - Münsterland, Germany
+* https://frei.social - Munich, Germany
 * https://ruhr.social - Ruhr area, Germany
 * https://ps.s10y.eu - like-minded people in Brussels, Belgium
 * https://mastoton.fi - Finland
@@ -155,6 +162,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://occitanie.social - Occitania
 * https://bne.social- Queensland, Australia
 * https://mastodon.uy - Uruguay
+* https://mastodon.lat - Latin America
 * https://mastodon.scot - Scotland, or who identify as Scottish
 * https://mastodon.me.uk - UK tech community
 * https://manx.social - the Isle of Man
@@ -168,6 +176,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://valleypost.us - residents and stakeholders in the Valley, USA
 * https://mspsocial.net - Twin Cities of Minneapolis and St. Paul, Minnesota, USA
 * https://kokomo.space - community of Kokomo city, Indiana, USA
+* https://rva.party - Richmond, USA
 * https://opensocial.africa - for Africa, by Africans
 * https://polska.masto.host - Poland
 
@@ -182,6 +191,8 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://roughseas.xyz - for libertarians, classical liberals, right-of-center thinkers, gun owners
 * https://thepeanut.farm - for center-leftists worldwide
 * https://sunbeam.city - focusing on the solarpunk aesthetic (anarchist, anti-capitalist, utopian)
+* https://activism.openworlds.info - for activists
+* https://campaign.openworlds.info - for campaigners and NGOs
 * https://anticapitalist.party
 * https://cheeky.red
 
@@ -192,6 +203,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 #### [Ecology and animals](#ecology-and-animals)
 * https://mastodon.latransition.org - francophone movement for ecological transition
 * https://onerescue.org - for animal lovers, and dedicated to helping rescue animals in need
+* https://donteatanimals.org - encouraging discussion of animal rights and veganism
 * https://toot.cat
 * https://pets-in.space
 
@@ -225,6 +237,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 #### [Subcultures](#subcultures)
 * https://yiff.rocks - for furries, by furries
 * https://pridelands.io - for furries who want a place where they can speak like adults
+* https://this.mouse.rocks - furry instance for all the mouse adjacent folks who rock
 
 #### [Notable generalistic](#notable-generalistic)
 // *biased personal choosing of small-to-medium sized instances that may be happy to have new users*
@@ -245,6 +258,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://mcr.cool - for good and fun times
 * https://7nw.eu - always running on the last tagged release
 * https://colloportus.me - leave big social media and get back to social networking
+* https://canislupus.im
 * https://social.openalgeria.org
 * https://social.datensturm.net
 * https://mastodon.fun
