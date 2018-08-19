@@ -218,6 +218,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://pipou.academy - emphasis on kindness
 * https://biscuit.town - feminist movement and queer/lgbt+
 * https://eldritch.cafe - for queer, feminist and anarchist people
+* https://deadinsi.de - anti-fascist, LGBT friendly
 
 #### [For people with a sense of self-irony](#for-people-with-a-sense-of-self-irony)
 * https://shitter.me - the sky is the limit
