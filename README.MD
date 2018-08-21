@@ -129,7 +129,8 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://weebs.moe - anime, manga
 * https://occult.camp - focused on spitituality, witchcraft and various shades of woo
 * https://witchcraft.cafe - for witches
-* https://witchey.club - for anyone curious about witchcraft
+* https://witches.live - for witches
+* https://mugwort.xyz - social hub for witches, wiccans, nature-based folk-magic discussions
 * https://talesofterror.eu - for fans of horror literature
 * https://hodl.social - place to discuss Stellar, cryptocurrencies and blockchain
 * https://travel-friends.chat - for people who like to travel
@@ -186,6 +187,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://libertarian.chat - a community driven instance for people who love liberty
 * https://voluntary.world - for voluntaryists, anarcho-capitalists, non-aggression centered activists
 * https://anarchism.space - for social anarchists
+* https://stalin.rocks - for communists
 * https://insoumis.social - for comrades, combatants, fighters
 * https://sosh.network - for freedom of thought, of opinion, of conversation
 * https://roughseas.xyz - for libertarians, classical liberals, right-of-center thinkers, gun owners
@@ -242,6 +244,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 
 #### [Notable generalistic](#notable-generalistic)
 // *biased personal choosing of small-to-medium sized instances that may be happy to have new users*
+* https://mastodon.earth
 * https://projectx.fun - will be open for up to 100 users, for sanity and sustainability
 * https://nulled.red - refuses to block or silence any instances
 * https://waifu.one - no censorship, no instances are blocked
