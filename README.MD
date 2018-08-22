@@ -60,6 +60,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://idevs.id - home to developer, programmer, coder
 * https://vpn.tv - for VPN operators, users and enthusiasts
 * https://w3c.social - for people involved in the activities of the World Wide Web Consortium (W3C)
+* https://ruby.social - for people interested in Ruby, Rails and related topics
 
 #### [Gamedev](#gamedev)
 * https://mastodon.gamedev.place - gamedev and related professions
@@ -148,6 +149,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://mastodontti.fi - Finnish (public toots should be in Finnish)
 
 #### [Regional](#regional)
+* https://mstdn.hu - Hungary
 * https://bonn.social - Bonn, Germany
 * https://toot.berlin - Berlin, Germany
 * https://frei.social - Munich, Germany
