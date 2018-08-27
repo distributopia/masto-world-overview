@@ -82,6 +82,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://cmdr.social - dedicated to Elite: Dangerous
 
 #### [Humanities](#humanities)
+* https://humanities.one
 * https://mastodon.art - for artists
 * https://mastodon.cc - for art
 * https://paintacu.be - painting community
@@ -135,6 +136,8 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://talesofterror.eu - for fans of horror literature
 * https://hodl.social - place to discuss Stellar, cryptocurrencies and blockchain
 * https://travel-friends.chat - for people who like to travel
+* https://dallassports.fans - for fans of Texas Rangers, Dallas Stars, FC Dallas, and affiliates
+
 
 #### [Language specifics](#language-specific)
 * https://esperanto.masto.host - for those interested in Esperanto
@@ -182,6 +185,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://rva.party - Richmond, USA
 * https://opensocial.africa - for Africa, by Africans
 * https://polska.masto.host - Poland
+* https://mastodon.nz - New Zealand
 
 #### [Political and social views](#political-and-social-views)
 * https://todon.nl - for leftists, socialists, anarchists, Marxists, social democrats, social liberals
@@ -246,6 +250,8 @@ Instances are not restricted to their theme. This list may be useful for new use
 
 #### [Notable generalistic](#notable-generalistic)
 // *biased personal choosing of small-to-medium sized instances that may be happy to have new users*
+* https://nerdculture.de
+* https://mastodon.zone
 * https://mastodon.earth
 * https://projectx.fun - will be open for up to 100 users, for sanity and sustainability
 * https://nulled.red - refuses to block or silence any instances
