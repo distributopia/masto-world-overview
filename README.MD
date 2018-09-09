@@ -106,8 +106,11 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://scholar.social - for researchers, undergrads, journal editors, librarians, administrators
 * https://scicomm.xyz - discussions for scientists and science enthusiasts
 * https://mastodon.huma-num.fr - dedicated to the higher education and research
-* https://tusk.schoollibraries.net - to help educators improve the School Libraries Resource Network
 * https://qoto.org -  for scholars in Science, Technology, Engineering, and Mathematics (STEM)
+
+#### [Education](#education)
+* https://social.coffein.life - German-speaking instance about parenting
+* https://tusk.schoollibraries.net - to help educators improve the School Libraries Resource Network
 
 #### [Hobbies](#hobbies)
 * https://makestuff.club - for people that make stuff
@@ -138,8 +141,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://travel-friends.chat - for people who like to travel
 * https://dallassports.fans - for fans of Texas Rangers, Dallas Stars, FC Dallas, and affiliates
 
-
-#### [Language specifics](#language-specific)
+#### [Language specific](#language-specific)
 * https://esperanto.masto.host - for those interested in Esperanto
 * https://masto.pt - for people speaking Portugese
 * https://tooot.im - main instance language is Hebrew
