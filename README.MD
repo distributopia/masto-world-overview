@@ -188,6 +188,9 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://opensocial.africa - for Africa, by Africans
 * https://polska.masto.host - Poland
 * https://mastodon.nz - New Zealand
+* https://mastodon.mg - Madagascar
+* https://balkan.fedive.rs - the Balkans (generalistic)
+
 
 #### [Political and social views](#political-and-social-views)
 * https://todon.nl - for leftists, socialists, anarchists, Marxists, social democrats, social liberals
@@ -212,6 +215,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 
 #### [Ecology and animals](#ecology-and-animals)
 * https://mastodon.latransition.org - francophone movement for ecological transition
+* https://ecodigital.social - environmentalism for the net
 * https://onerescue.org - for animal lovers, and dedicated to helping rescue animals in need
 * https://donteatanimals.org - encouraging discussion of animal rights and veganism
 * https://toot.cat
@@ -249,6 +253,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://yiff.rocks - for furries, by furries
 * https://pridelands.io - for furries who want a place where they can speak like adults
 * https://this.mouse.rocks - furry instance for all the mouse adjacent folks who rock
+* https://blimps.xyz - for inflatable lovers and critters
 
 #### [Notable generalistic](#notable-generalistic)
 // *biased personal choosing of small-to-medium sized instances that may be happy to have new users*
