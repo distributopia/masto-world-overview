@@ -191,7 +191,6 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://mastodon.mg - Madagascar
 * https://balkan.fedive.rs - the Balkans (generalistic)
 
-
 #### [Political and social views](#political-and-social-views)
 * https://todon.nl - for leftists, socialists, anarchists, Marxists, social democrats, social liberals
 * https://hispagatos.space - for hackers, social anarchists, and anarchist hackers
@@ -254,6 +253,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://pridelands.io - for furries who want a place where they can speak like adults
 * https://this.mouse.rocks - furry instance for all the mouse adjacent folks who rock
 * https://blimps.xyz - for inflatable lovers and critters
+* https://furry.engineer
 
 #### [Notable generalistic](#notable-generalistic)
 // *biased personal choosing of small-to-medium sized instances that may be happy to have new users*
