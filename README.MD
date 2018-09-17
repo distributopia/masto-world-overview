@@ -117,6 +117,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://toot.makersociety.org - dedicated to all makers, developers, tinkers, creatives
 * https://pod.social - for podcast creators, listeners, and enthusiasts
 * https://mhz.social - for radio amateurs, DXers and anyone interested to geek out about radio
+* https://afu.social - for radio amateurs in German-speaking (and other) countries
 * https://smusi.ch - for musicians, by musicians
 * https://metalhead.club - for metal friends
 * https://electro.social - for electronic music enthusiasts, and electro music makers
