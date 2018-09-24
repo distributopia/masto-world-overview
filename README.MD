@@ -161,6 +161,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://toot.berlin - Berlin, Germany
 * https://frei.social - Munich, Germany
 * https://ruhr.social - Ruhr area, Germany
+* https://social.saarland - Saarland, Germany
 * https://ps.s10y.eu - like-minded people in Brussels, Belgium
 * https://mastoton.fi - Finland
 * https://snabeltann.no - Norway
