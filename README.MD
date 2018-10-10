@@ -122,6 +122,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://smusi.ch - for musicians, by musicians
 * https://metalhead.club - for metal friends
 * https://electro.social - for electronic music enthusiasts, and electro music makers
+* https://koreadon.com - for K-POP music fans
 * https://mastodon.flights - focused on travel, world affairs and jet setting lifestyles
 * https://dice.camp - for tabletop gamers
 * https://pipes.social - hobby of pipe collecting and pipe smoking
@@ -194,6 +195,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://mastodon.nz - New Zealand
 * https://mastodon.mg - Madagascar
 * https://balkan.fedive.rs - the Balkans (generalistic)
+* https://mstdn.quebec.gq - Quebec, Canada
 
 #### [Political and social views](#political-and-social-views)
 * https://todon.nl - for leftists, socialists, anarchists, Marxists, social democrats, social liberals
