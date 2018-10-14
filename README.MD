@@ -112,6 +112,9 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://social.coffein.life - German-speaking instance about parenting
 * https://tusk.schoollibraries.net - to help educators improve the School Libraries Resource Network
 
+#### [Religion](#religion)
+* https://rcsocial.net - for Catholics and those interested in Catholicism
+
 #### [Hobbies](#hobbies)
 * https://makestuff.club - for people that make stuff
 * https://scramble.city - Transformers, super robots, mecha and related subjects
