@@ -118,7 +118,6 @@ Instances are not restricted to their theme. This list may be useful for new use
 #### [Hobbies](#hobbies)
 * https://makestuff.club - for people that make stuff
 * https://scramble.city - Transformers, super robots, mecha and related subjects
-* https://toot.makersociety.org - dedicated to all makers, developers, tinkers, creatives
 * https://pod.social - for podcast creators, listeners, and enthusiasts
 * https://mhz.social - for radio amateurs, DXers and anyone interested to geek out about radio
 * https://afu.social - for radio amateurs in German-speaking (and other) countries
@@ -180,6 +179,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://mastodon.uy - Uruguay
 * https://mastodon.lat - Latin America
 * https://mastodon.scot - Scotland, or who identify as Scottish
+* https://toot.wales - home of Wales and the Welsh
 * https://mastodon.me.uk - UK tech community
 * https://manx.social - the Isle of Man
 * https://masto.donte.com.br - Brazil
