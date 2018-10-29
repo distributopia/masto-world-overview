@@ -71,6 +71,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://unityjp-mastodon.tokyo - Unity Japan
 * https://gonext.gg - esports-centric with focus on competitive gaming
 * https://gamemaking.social - amateur videogame making: game writers, game players welcome
+* https://gameliberty.club - mainly gaming / nerd instance
 
 #### [Game / Book / Show theme](#entertainment)
 * https://tenforward.social - theme Star Trek
