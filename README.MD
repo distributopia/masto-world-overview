@@ -61,6 +61,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://vpn.tv - for VPN operators, users and enthusiasts
 * https://w3c.social - for people involved in the activities of the World Wide Web Consortium (W3C)
 * https://ruby.social - for people interested in Ruby, Rails and related topics
+* https://calc.news - for the graphic calculator community, open to programmers and artists
 
 #### [Gamedev](#gamedev)
 * https://mastodon.gamedev.place - gamedev and related professions
