@@ -103,6 +103,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://ausglam.space - for Australian galleries, libraries, archives, museums and records people
 * https://spooky.pizza - for linguists and linguist-adjacent people
 * https://oulipo.social - a lipogrammatic server
+* https://expshift.com - for creatives (place to share your art, music, movie reviews)
 
 #### [Sciences](#sciences)
 * https://scholar.social - for researchers, undergrads, journal editors, librarians, administrators
@@ -159,6 +160,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://mamut.social - primarily for Spanish speaking people
 * https://ceilidh.space - Scottish Gaelic (or could be)
 * https://mastodontti.fi - Finnish (public toots should be in Finnish)
+* https://mstdn.su - for Russian speaking users
 
 #### [Regional](#regional)
 * https://mstdn.hu - Hungary
@@ -299,11 +301,11 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://kyot.me
 
 ## Disclaimer
-Following instances skipped: closed registration *at the moment of checking*, running old code, theme / description not understood due to language barrier or scarce description, long blocklists, experimental servers.
+`Following instances skipped`: closed registration *at the moment of checking*, running old code, theme / description not understood due to language barrier or scarce description, long blocklists, experimental servers.
 
 Add your own themed Mastodon instance by opening an issue or via [MR](https://gitlab.com/distributopia/masto-world-overview). If your server already has many users, it will be nice of you to let other instances grow, for a healthier decentralization.
 
-## Other research links
+## 🌟 Other research links
 - [Friendica world overview](https://gitlab.com/distributopia/friendica-world-overview)
-- [Fediverse pirate servers](https://gitlab.com/distributopia/caramba)
+- [Fediverse pirate representatives](https://gitlab.com/distributopia/caramba)
 - [Mastodon server distribution](https://chaos.social/@leah/99837391793032137) research by Leah
