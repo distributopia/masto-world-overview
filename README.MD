@@ -35,7 +35,7 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://mastodon.freifunk-muensterland.de - by Freifunk Muensterland
 * https://unixcorn.xyz - by Unixcorn
 
-#### [Instances for techies](instances-for-techies)
+#### [For techies](instances-for-techies)
 * https://infosec.exchange - infosec and IT security discussions
 * https://naos.crypto.church - powers of cryptography and cryptanalysis
 * https://zerohack.xyz - hacking centric: programming, Linux, BSD, Ethics, whatever
@@ -49,19 +49,21 @@ Instances are not restricted to their theme. This list may be useful for new use
 * https://mastodon.partecipa.digital - conversations about IT, Open Source, Linux
 * https://pao.moe - cat, FOSS, nix
 * https://linuxrocks.online - dedicated to Linux and technologies
-* https://functional.cafe - for people interested in functional programming and languages
-* https://social.csswg.org - for anyone interested in CSS or general web development
 * https://oldbytes.space - for old hardware fans
 * https://mathstodon.xyz -  for Maths people
 * https://cb.ku.cx - all things Technology, hacking, security and reverse engineering
 * https://bsd.network - for *BSD users and devs
 * https://fasterwhen.red - automotive- and engineering-related topics
 * https://recurrent.network - all things artificial neural network-related
-* https://idevs.id - home to developer, programmer, coder
 * https://vpn.tv - for VPN operators, users and enthusiasts
 * https://w3c.social - for people involved in the activities of the World Wide Web Consortium (W3C)
-* https://ruby.social - for people interested in Ruby, Rails and related topics
 * https://calc.news - for the graphic calculator community, open to programmers and artists
+
+#### [Programming](instances-for-programmers)
+* https://ruby.social - for people interested in Ruby, Rails and related topics
+* https://phpc.social - PHP community
+* https://functional.cafe - for people interested in functional programming and languages
+* https://social.csswg.org - for anyone interested in CSS or general web development
 
 #### [Gamedev](#gamedev)
 * https://mastodon.gamedev.place - gamedev and related professions
