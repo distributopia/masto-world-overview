@@ -3,309 +3,247 @@
 
 `GitHub WARNING`: This is a __mirror repo__ from [GitLab](https://gitlab.com/distributopia/masto-world-overview). Please, send your MRs there. New PRs here won't be merged.
 
-Instances are not restricted to their theme. This list may be useful for new users who wish to choose an instance by theme (better advice: **choose instance by looking at its administrator's timeline!** and read local rules)
+This list may be useful for new users who wish to choose a server by theme.
 
-#### [Notable mention](#notable-mention)
+#### :tada: [Notable mention](#notable-mention)
 // *some are open only to particular audience, i.e., to students of university*
-* https://social.lab.cultura.gov.br - by FOSS lab of Brazilian Ministry of Culture
-* https://mastodon.mit.edu - for the MIT community
-* https://mastodon.acc.sunet.se - by Academic Computer Club at Umeå University, Sweden
-* https://mastodon.iut-larochelle.fr - by University of La Rochelle
-* https://mastodon.redbrick.dcu.ie - by Redbrick, computer networking society of Dublin City University
-* https://mastodonevry.ovh - for l'Université d'Evry-Val-d'Essonne students
-* https://mastodon.etalab.gouv.fr - for French public servants who are involved in innovative projects
+* [mastodon.mit.edu](https://mastodon.mit.edu) - for the MIT community
+* [mastodon.acc.sunet.se](https://mastodon.acc.sunet.se) - by Academic Computer Club at Umeå University, Sweden
+* [mastodon.iut-larochelle.fr](https://mastodon.iut-larochelle.fr) - by University of La Rochelle
+* [mastodon.iut-larochelle.fr](https://mastodon.redbrick.dcu.ie) - by Redbrick, Dublin City University
+* [mastodon.etalab.gouv.fr](https://mastodon.etalab.gouv.fr) - for French public servants who are involved in innovative projects
+* [w3c.social](https://w3c.social) - for people involved in the activities of the World Wide Web Consortium (W3C)
+* [mastodon.greenpeace.ch](https://mastodon.greenpeace.ch) - by Greenpece Switzerland
 
-#### [Run by tech-savvy organizations](#run-by-tech-savvy-organizations)
-* https://en.osm.town - for the OpenStreetMap Community
-* https://fr.osm.social - for francophone OpenStreetMap Community
-* https://chaos.social - CCC related
-* https://framapiaf.org - by Framasoft, association promoting FOSS, providing privacy-respecting services
-* https://mastodon.dotopia.dk - by DO:TOPIA, Denmark based tech activism collective
-* https://mastodon.hackerlab.fr - by Hackerlab
-* https://mi.pede.rs - by Hacklab-in-Mama hackerspace, Zagreb
-* https://social.weho.st - by WeHost, non-profit internet service provider, Amsterdam
-* https://m.g3l.org - by G3L, libre software association
-* https://mastodon.nzoss.nz - by New Zealand Open Source Society
-* https://mamot.fr - by Quadrature du Net, association for the defence of digital rights and freedoms
-* https://mastodon.roflcopter.fr - by Roflcopter, [CHATONS](https://chatons.org) member
-* https://mastodon.zaclys.com - by Zaclys, association offering francophone privacy-respecting services
-* https://social.buffalomesh.net - by Buffalomesh, mesh network in Buffalo, NY
-* https://social.chinwag.im - by Chinwag project
-* https://eunivers.social - by Eunivers online edition
-* https://mastodon.freifunk-muensterland.de - by Freifunk Muensterland
-* https://unixcorn.xyz - by Unixcorn
+#### :shell: [Run by tech-savvy organizations](#run-by-tech-savvy-organizations)
+* [en.osm.town](https://en.osm.town) - for the OpenStreetMap Community
+* [fr.osm.social](https://fr.osm.social) - for francophone OpenStreetMap Community
+* [chaos.social](https://chaos.social) - CCC related
+* [framapiaf.org](https://framapiaf.org) - by [Framasoft](https://framasoft.org)
+* [mastodon.dotopia.dk](https://mastodon.dotopia.dk) - by DO:TOPIA, Denmark based tech activism collective
+* [mastodon.hackerlab.fr](https://mastodon.hackerlab.fr) - by Hackerlab
+* [mi.pede.rs](https://mi.pede.rs) - by Hacklab-in-Mama hackerspace, Zagreb
+* [social.weho.st](https://social.weho.st) - by WeHost, non-profit internet service provider, Amsterdam
+* [m.g3l.org](https://m.g3l.org) - by G3L, libre software association
+* [mastodon.nzoss.nz](https://mastodon.nzoss.nz) - by New Zealand Open Source Society
+* [mamot.fr](https://mamot.fr) - by Quadrature du Net, association for the defence of digital rights and freedoms
+* [mastodon.roflcopter.fr](https://mastodon.roflcopter.fr) - by Roflcopter, [CHATONS](https://chatons.org) member
+* [mastodon.zaclys.com](https://mastodon.zaclys.com) - by Zaclys, association francophone
+* [social.buffalomesh.net](https://social.buffalomesh.net) - by Buffalomesh, mesh network in Buffalo, NY
+* [eunivers.social](https://eunivers.social) - by Eunivers online edition
+* [libretooth.gr](https://libretooth.gr) - by LibreOps, who contribute to (re-)decentralizing the net
 
-#### [For techies](instances-for-techies)
-* https://infosec.exchange - infosec and IT security discussions
-* https://naos.crypto.church - powers of cryptography and cryptanalysis
-* https://zerohack.xyz - hacking centric: programming, Linux, BSD, Ethics, whatever
-* https://geeks.one - for humans and geeks
-* https://mastodon.technology - for people interested in technology
-* https://fosstodon.org - dedicated to Free & Open Source Software
-* https://floss.social - for people who support or build Free Libre Open Source Software
-* https://tuxspace.net - for Linux lovers, users, sysadmins, and the like
-* https://mastodon.horde.net.br - to bring together enthusiasts of free software
-* https://miaou.drycat.fr - for geeks, FOSS and cat lovers, [CHATONS](https://chatons.org) member
-* https://mastodon.partecipa.digital - conversations about IT, Open Source, Linux
-* https://pao.moe - cat, FOSS, nix
-* https://linuxrocks.online - dedicated to Linux and technologies
-* https://oldbytes.space - for old hardware fans
-* https://mathstodon.xyz -  for Maths people
-* https://cb.ku.cx - all things Technology, hacking, security and reverse engineering
-* https://bsd.network - for *BSD users and devs
-* https://fasterwhen.red - automotive- and engineering-related topics
-* https://recurrent.network - all things artificial neural network-related
-* https://vpn.tv - for VPN operators, users and enthusiasts
-* https://w3c.social - for people involved in the activities of the World Wide Web Consortium (W3C)
-* https://calc.news - for the graphic calculator community, open to programmers and artists
+#### :penguin: [For techies](servers-for-techies)
+* [infosec.exchange](https://infosec.exchange) - infosec and IT security discussions
+* [mastodon.technology](https://mastodon.technology) - for people interested in technology
+* [fosstodon.org](https://fosstodon.org) - dedicated to Free and Open Source Software
+* [floss.social](https://floss.social) - for people who support or build Free Libre Open Source Software
+* [miaou.drycat.fr](https://miaou.drycat.fr) - for geeks, FOSS and cat lovers, [CHATONS](https://chatons.org) member
+* [mastodon.partecipa.digital](https://mastodon.partecipa.digital) - conversations about IT, Open Source, Linux
+* [pao.moe](https://pao.moe) - cat, FOSS, nix
+* [linuxrocks.online](https://linuxrocks.online) - dedicated to Linux and technologies
+* [oldbytes.space](https://oldbytes.space) - for old hardware fans
+* [mathstodon.xyz](https://mathstodon.xyz) -  for Maths people
+* [calc.news](https://calc.news) - for the graphic calculator community, open to programmers and artists
+* [digipres.club](https://digipres.club) - conversations about digital preservation
 
-#### [Programming](instances-for-programmers)
-* https://ruby.social - for people interested in Ruby, Rails and related topics
-* https://phpc.social - PHP community
-* https://functional.cafe - for people interested in functional programming and languages
-* https://social.csswg.org - for anyone interested in CSS or general web development
+#### :computer: [Programming](instances-for-programmers)
+* [ruby.social](https://ruby.social) - for people interested in Ruby, Rails and related topics
+* [phpc.social](https://phpc.social) - PHP community
+* [functional.cafe](https://functional.cafe) - for people interested in functional programming and languages
+* [social.csswg.org](https://social.csswg.org) - for anyone interested in CSS or general web development
 
-#### [Gamedev](#gamedev)
-* https://mastodon.gamedev.place - gamedev and related professions
-* https://elekk.xyz - by gamers, for gamers
-* https://mastodon.sergal.org - general trends toward tech, games, and everything fluffy
-* https://robloxcommunity.social - for those part of or interested in the ROBLOX and RBXDev community
-* https://social.noff.co - for tech, gaming, and good times
-* https://unityjp-mastodon.tokyo - Unity Japan
-* https://gonext.gg - esports-centric with focus on competitive gaming
-* https://gamemaking.social - amateur videogame making: game writers, game players welcome
-* https://gameliberty.club - mainly gaming / nerd instance
+#### :video_game: [Gamedev](#gamedev)
+* [mastodon.gamedev.place](https://mastodon.gamedev.place) - gamedev and related professions
+* [elekk.xyz](https://elekk.xyz) - by gamers, for gamers
+* [gamemaking.social](https://gamemaking.social) - amateur videogame making: game writers, game players welcome
+* [mastodon.sergal.org](https://mastodon.sergal.org) - general trends toward tech, games, and everything fluffy
+* [robloxcommunity.social](https://robloxcommunity.social) - for those part of or interested in the ROBLOX and RBXDev community
+* [social.noff.co](https://social.noff.co) - for tech, gaming, and good times
+* [unityjp-mastodon.tokyo](https://unityjp-mastodon.tokyo) - Unity Japan
+* [gameliberty.club](https://gameliberty.club) - mainly gaming / nerd instance
 
-#### [Game / Book / Show theme](#entertainment)
-* https://tenforward.social - theme Star Trek
-* https://moseisley.club - theme Star Wars
-* https://wowsdon.xyz - theme World of WarShips
-* https://kirakiratter.com - for Aikatsu fans
-* https://donphan.social - for Pokémon enthusiasts
-* https://inkopolis.cafe - for Splatoon 2 players
-* https://cmdr.social - dedicated to Elite: Dangerous
+#### :clapper: [Game / Book / Show theme](#entertainment)
+* [tenforward.social](https://tenforward.social) - theme Star Trek
+* [irakiratter.com](https://kirakiratter.com) - for Aikatsu fans
+* [donphan.social](https://donphan.social) - for Pokémon enthusiasts
+* [cmdr.social](https://cmdr.social) - dedicated to Elite: Dangerous
 
-#### [Humanities](#humanities)
-* https://humanities.one
-* https://mastodon.art - for artists
-* https://mastodon.cc - for art
-* https://paintacu.be - painting community
-* https://artalley.porn - for artists and commissioners
-* https://baraag.net - freely share all types of art, uncensored, 18+
-* https://bookwor.ms - for book-lovers
-* https://www.bookbeezhive.com - for authors and their readers
-* https://writing.exchange - community for poets, writers, bloggers
-* https://wandering.shop - science fiction and fantasy community
-* https://imaginair.es - for writers, photographers, painters, cartoonists and people with imagination
-* https://social.nasqueron.org - for creative people, writers, developers and thinkers
-* https://vis.social - for anyone into data, visualization, creative coding, related arts and research
-* https://photog.social - place for your photos
-* https://music.glitch.pizza - dedicated to talking about and sharing music
-* https://linernotes.club - for fans of recorded music
-* https://ausglam.space - for Australian galleries, libraries, archives, museums and records people
-* https://spooky.pizza - for linguists and linguist-adjacent people
-* https://oulipo.social - a lipogrammatic server
-* https://expshift.com - for creatives (place to share your art, music, movie reviews)
+#### :art: [Humanities](#humanities)
+* [umanities.one](https://humanities.one)
+* [mastodon.art](https://mastodon.art) - for artists
+* [artalley.porn](https://artalley.porn) - for artists and commissioners
+* [baraag.net](https://baraag.net) - freely share all types of art, uncensored, 18+
+* [bookwor.ms](https://bookwor.ms) - for book-lovers
+* [wandering.shop](https://wandering.shop) - science fiction and fantasy community
+* [imaginair.es](https://imaginair.es) - for writers, photographers, painters, cartoonists and people with imagination
+* [social.nasqueron.org](https://social.nasqueron.org) - for creative people, writers, developers and thinkers
+* [vis.social](https://vis.social) - for anyone into data, visualization, creative coding, related arts and research
+* [photog.social](https://photog.social) - place for your photos
+* [music.glitch.pizza](https://music.glitch.pizza)- dedicated to talking about and sharing music
+* [linernotes.club](https://linernotes.club) - for fans of recorded music
+* [ausglam.space](https://ausglam.space) - for Australian galleries, libraries, archives, museums and records people
+* [oulipo.social](https://oulipo.social) - a lipogrammatic server
+* [expshift.com](https://expshift.com) - for creatives (place to share your art, music, movie reviews)
+* [www.bookbeezhive.com](https://www.bookbeezhive.com) - for authors and their readers
 
-#### [Sciences](#sciences)
-* https://scholar.social - for researchers, undergrads, journal editors, librarians, administrators
-* https://scicomm.xyz - discussions for scientists and science enthusiasts
-* https://mastodon.huma-num.fr - dedicated to the higher education and research
-* https://qoto.org -  for scholars in Science, Technology, Engineering, and Mathematics (STEM)
+#### :bulb: [Sciences](#sciences)
+* [scholar.social](https://scholar.social) - for researchers, undergrads, journal editors, librarians, administrators
+* [scicomm.xyz](https://scicomm.xyz) - discussions for scientists and science enthusiasts
+* [qoto.org](https://qoto.org) - for scholars in Science, Technology, Engineering, and Mathematics (STEM)
 
-#### [Education](#education)
-* https://social.coffein.life - German-speaking instance about parenting
-* https://tusk.schoollibraries.net - to help educators improve the School Libraries Resource Network
+#### :mortar_board: [Education](#education)
+* [tusk.schoollibraries.net](https://tusk.schoollibraries.net) - helping educators improve the School Libraries Resource Network
 
-#### [Religion](#religion)
-* https://rcsocial.net - for Catholics and those interested in Catholicism
+#### :pray: [Religion](#religion)
+* [rcsocial.net](https://rcsocial.net) - for Catholics and those interested in Catholicism
+* [ganesha.masto.host](https://ganesha.masto.host) - Dharma community (Buddhism, Yoga, Advaita, Hinduism, Tantra, Tao)
 
-#### [Hobbies](#hobbies)
-* https://makestuff.club - for people that make stuff
-* https://scramble.city - Transformers, super robots, mecha and related subjects
-* https://pod.social - for podcast creators, listeners, and enthusiasts
-* https://mhz.social - for radio amateurs, DXers and anyone interested to geek out about radio
-* https://afu.social - for radio amateurs in German-speaking (and other) countries
-* https://smusi.ch - for musicians, by musicians
-* https://metalhead.club - for metal friends
-* https://electro.social - for electronic music enthusiasts, and electro music makers
-* https://koreadon.com - for K-POP music fans
-* https://mastodon.flights - focused on travel, world affairs and jet setting lifestyles
-* https://dice.camp - for tabletop gamers
-* https://pipes.social - hobby of pipe collecting and pipe smoking
-* https://mastodon.beerfactory.org - for beermakers
-* https://mastd.racing - dedicated to motosports
-* https://motogp.space - for MotoGP and motorbikes fans
-* https://ocr.social - for the global Obstacle Course Running (OCR) community
-* https://2ndamendment.social - have the freedom to discuss, share and show off your guns
-* https://onthesecond.com - for those who love liberty, guns, and independence
-* https://digipres.club - conversations about digital preservation
-* https://newtype.institute - anime-centric community
-* https://weebs.moe - anime, manga
-* https://occult.camp - focused on spitituality, witchcraft and various shades of woo
-* https://witchcraft.cafe - for witches
-* https://witches.live - for witches
-* https://mugwort.xyz - social hub for witches, wiccans, nature-based folk-magic discussions
-* https://talesofterror.eu - for fans of horror literature
-* https://hodl.social - place to discuss Stellar, cryptocurrencies and blockchain
-* https://travel-friends.chat - for people who like to travel
-* https://dallassports.fans - for fans of Texas Rangers, Dallas Stars, FC Dallas, and affiliates
+#### :musical_note: [Music](#music)
+* [smusi.ch](https://smusi.ch) - for musicians, by musicians
+* [metalhead.club](https://metalhead.club) - for metal friends
+* [djs.social](https://djs.social) - by DJs for DJs
+* [koreadon.com](https://koreadon.com) - for K-POP music fans
 
-#### [Language specific](#language-specific)
-* https://esperanto.masto.host - for those interested in Esperanto
-* https://masto.pt - for people speaking Portugese
-* https://tooot.im - main instance language is Hebrew
-* https://persadon.com - for Persian speaking folks
-* https://the.wired.sehol.se - for Hungarian speakers
-* https://toot.si - Slovenian (multilingual) instance
-* https://tootcn.com - Chinese instance
-* https://mamut.social - primarily for Spanish speaking people
-* https://ceilidh.space - Scottish Gaelic (or could be)
-* https://mastodontti.fi - Finnish (public toots should be in Finnish)
-* https://mstdn.su - for Russian speaking users
+#### :telescope: [Hobbies](#hobbies)
+* [makestuff.club](https://makestuff.club) - for people that make stuff
+* [scramble.city](https://scramble.city) - Transformers, super robots, mecha and related subjects
+* [mhz.social](https://mhz.social) - for radio amateurs, DXers and anyone interested to geek out about radio
+* [afu.social](https://afu.social) - for radio amateurs in German-speaking (and other) countries
+* [mastodon.radio](https://mastodon.radio) - for Amateur (Ham) Radio community
+* [dice.camp](https://dice.camp) - for tabletop gamers
+* [mastodon.beerfactory.org](https://mastodon.beerfactory.org) - for beermakers
+* [motogp.space](https://motogp.space) - for MotoGP and motorbikes fans
+* [ocr.social](https://ocr.social) - for the global Obstacle Course Running (OCR) community
+* [onthesecond.com](https://onthesecond.com) - for firearms enthusiasts
+* [occult.camp](https://occult.camp) - focused on spitituality, witchcraft and various shades of woo
+* [witchcraft.cafe](https://witchcraft.cafe) - for witches
+* [witches.live](https://witches.live) - for witches
+* [travel-friends.chat](https://travel-friends.chat) - for people who like to travel
+* [dallassports.fans](https://dallassports.fans) - for fans of Texas Rangers, Dallas Stars, FC Dallas, and affiliates
 
-#### [Regional](#regional)
-* https://mstdn.hu - Hungary
-* https://bonn.social - Bonn, Germany
-* https://toot.berlin - Berlin, Germany
-* https://frei.social - Munich, Germany
-* https://toot.koeln - Koeln, Germany (generalistic)
-* https://ruhr.social - Ruhr area, Germany
-* https://social.saarland - Saarland, Germany
-* https://ps.s10y.eu - like-minded people in Brussels, Belgium
-* https://mastoton.fi - Finland
-* https://snabeltann.no - Norway
-* https://www.sosial.eu - Norway
-* https://mastodon.se - Sweden
-* https://gr.social - Greece
-* https://babelut.be - Belgium
-* https://mastodont.cat - Catalonia
-* https://occitanie.social - Occitania
-* https://bne.social- Queensland, Australia
-* https://mastodon.uy - Uruguay
-* https://mastodon.lat - Latin America
-* https://mastodon.scot - Scotland, or who identify as Scottish
-* https://toot.wales - home of Wales and the Welsh
-* https://mastodon.me.uk - UK tech community
-* https://manx.social - the Isle of Man
-* https://masto.donte.com.br - Brazil
-* https://mastodon.floripa.br - companies and startups in Florianópolis, Brazil
-* https://mastodonchile.club - users latinos, especially from Chile
-* https://pnw.social - citizens of Washington, Oregon, Idaho, Western Montana, and Alaska
-* https://riverwest.xyz - Riverwest neighborhood of Milwaukee, Wisconsin, USA
-* https://toot.memtech.website - Memphis tech community, USA
-* https://techandbeer.social - tech and beer in Orlando, USA
-* https://valleypost.us - residents and stakeholders in the Valley, USA
-* https://mspsocial.net - Twin Cities of Minneapolis and St. Paul, Minnesota, USA
-* https://kokomo.space - community of Kokomo city, Indiana, USA
-* https://rva.party - Richmond, USA
-* https://opensocial.africa - for Africa, by Africans
-* https://polska.masto.host - Poland
-* https://mastodon.nz - New Zealand
-* https://mastodon.mg - Madagascar
-* https://balkan.fedive.rs - the Balkans (generalistic)
-* https://mstdn.quebec.gq - Quebec, Canada
+#### :flags: [Language specific](#languages)
+* [polyglot.city](https://polyglot.city) - for polyglots, multilinguals, interested in languages and translating
+* [esperanto.masto.host](https://esperanto.masto.host) - for those interested in Esperanto
+* [tooot.im](https://tooot.im) - main instance language is Hebrew
+* [persadon.com](https://persadon.com) - for Persian speaking folks
+* [toot.si](https://toot.si) - Slovenian (multilingual) instance
+* [mastodontti.fi](https://mastodontti.fi) - Finnish (public toots should be in Finnish)
+* [mstdn.su](https://mstdn.su) - for Russian speaking users
 
-#### [Political and social views](#political-and-social-views)
-* https://todon.nl - for leftists, socialists, anarchists, Marxists, social democrats, social liberals
-* https://hispagatos.space - for hackers, social anarchists, and anarchist hackers
-* https://libertarian.chat - a community driven instance for people who love liberty
-* https://voluntary.world - for voluntaryists, anarcho-capitalists, non-aggression centered activists
-* https://anarchism.space - for social anarchists
-* https://stalin.rocks - for communists
-* https://insoumis.social - for comrades, combatants, fighters
-* https://sosh.network - for freedom of thought, of opinion, of conversation
-* https://roughseas.xyz - for libertarians, classical liberals, right-of-center thinkers, gun owners
-* https://thepeanut.farm - for center-leftists worldwide
-* https://sunbeam.city - focusing on the solarpunk aesthetic (anarchist, anti-capitalist, utopian)
-* https://activism.openworlds.info - for activists
-* https://campaign.openworlds.info - for campaigners and NGOs
-* https://anticapitalist.party
-* https://cheeky.red
+#### :tent: [Regional](#regional)
+* [mstdn.hu](https://mstdn.hu) - Hungary
+* [frei.social](https://frei.social) - Munich, Germany
+* [toot.koeln](https://toot.koeln) - Koeln, Germany (generalistic)
+* [ruhr.social](https://ruhr.social) - Ruhr area, Germany
+* [social.saarland](https://social.saarland) - Saarland, Germany
+* [mastoton.fi](https://mastoton.fi) - Finland
+* [mastodon.se](https://mastodon.se) - Sweden
+* [gr.social](https://gr.social) - Greece
+* [mastodont.cat](https://mastodont.cat) - Catalonia
+* [mastodon.uy](https://mastodon.uy) - Uruguay
+* [mastodon.scot](https://mastodon.scot) - Scotland, or who identify as Scottish
+* [toot.wales](https://toot.wales) - home of Wales and the Welsh
+* [mastodon.me.uk](https://mastodon.me.uk) - UK tech community
+* [kokomo.space](https://kokomo.space) - community of Kokomo city, Indiana, USA
+* [rva.party](https://rva.party) - Richmond, USA
+* [polska.masto.host](https://polska.masto.host) - Poland
+* [mastodon.nz](https://mastodon.nz) - New Zealand
+* [mastodon.mg](https://mastodon.mg) - Madagascar
+* [balkan.fedive.rs](https://balkan.fedive.rs) - the Balkans (generalistic)
+* [mstdn.quebec.gq](https://mstdn.quebec.gq) - Quebec, Canada
 
-#### [Economics business](#economics-business)
-* https://social.outsourcedmath.com - discussing finance and investing
-* https://hiddan.net - a safe space for entrepreneurs
+#### :red_circle: [Political and social views](#political-and-social-views)
+* [todon.nl](https://todon.nl) - for leftists, socialists, anarchists, Marxists, social democrats, social liberals
+* [hispagatos.space](https://hispagatos.space)- for hackers, social anarchists, and anarchist hackers
+* [anarchism.space](https://anarchism.space) - for social anarchists
+* [roughseas.xyz](https://roughseas.xyz) - for libertarians, classical liberals, right-of-center thinkers, gun owners
+* [sunbeam.city](https://sunbeam.city) - libertarian Socialist and solarpunk community
+* [activism.openworlds.info](https://activism.openworlds.info) - for activists
+* [campaign.openworlds.info](https://campaign.openworlds.info) - for campaigners and NGOs
+* [cheeky.red](https://cheeky.red)
 
-#### [Ecology and animals](#ecology-and-animals)
-* https://mastodon.latransition.org - francophone movement for ecological transition
-* https://ecodigital.social - environmentalism for the net
-* https://onerescue.org - for animal lovers, and dedicated to helping rescue animals in need
-* https://donteatanimals.org - encouraging discussion of animal rights and veganism
-* https://toot.cat
-* https://pets-in.space
+#### :rabbit: [Ecology and animals](#ecology-and-animals)
+* [mastodon.latransition.org](https://mastodon.latransition.org) - francophone movement for ecological transition
+* [onerescue.org](https://onerescue.org) - for animal lovers, and dedicated to helping rescue animals in need
+* [donteatanimals.org](https://donteatanimals.org) - discussion of animal rights and veganism
+* [toot.cat](https://toot.cat) - instance for cats, the people who love them, and kindness in general
+* [pets-in.space](https://pets-in.space) - for animal lovers
 
-#### [Safe spaces](#safe-spaces)
-* https://trans.town - all trans people welcome
-* https://queer.party - for queer folk and non-queer folk alike
-* https://queer.town - space for queer people to be positive and have fun
-* https://social.wxcafe.net - for social justice activists, LGBTQIA+ people
-* https://lgbt.io - for LGBT+ and allies
-* https://tech.lgbt - for tech workers, academics, students, and others in tech who are LGBTQA+ or allies
-* https://instance.business - a safe place for nonwhite people on the fediverse
-* https://pipou.academy - emphasis on kindness
-* https://biscuit.town - feminist movement and queer/lgbt+
-* https://eldritch.cafe - for queer, feminist and anarchist people
-* https://deadinsi.de - anti-fascist, LGBT friendly
+#### :rainbow: [Safe spaces](#safe-spaces)
+* [queer.party](https://queer.party) - for queer folk and non-queer folk alike
+* [queer.town](https://queer.town) - space for queer people to be positive and have fun
+* [social.wxcafe.net](https://social.wxcafe.net) - for social justice activists, LGBTQIA+ people
+* [tech.lgbt](https://tech.lgbt) - for tech workers, academics, students, and others in tech who are LGBTQA+ allies
+* [biscuit.town](https://biscuit.town) - feminist movement and queer/lgbt+
+* [eldritch.cafe](https://eldritch.cafe) - for queer, feminist and anarchist people
+* [deadinsi.de](https://deadinsi.de) - anti-fascist, LGBT friendly
+* [colorid.es](https://colorid.es)- LGBTQIA+ / queer instance primarily for Portuguese speakers
+* [pipou.academy](https://pipou.academy) - emphasis on kindness
 
-#### [For people with a sense of self-irony](#for-people-with-a-sense-of-self-irony)
-* https://shitter.me - the sky is the limit
-* https://i.write.codethat.sucks
-* https://sleeping.town - for people who like to sleep
-* https://bibeogaem.zone - "nice place for silly people"
-* https://society.oftrolls.com - mild trolling encouraged, but not required
-* https://ephemeral.glitch.social - toots are ephemeral and disappear after a while
-* https://dolphin.town - instance where you can only say the letter 'e'
-* https://botsin.space - for bots
+#### :alien: [Fandoms](#fandoms)
+* [fandom.ink](https://fandom.ink) - for fans and fandoms of all types
+* [monsterpit.net](https://monsterpit.net) - for monsters, strange creatures, and those who love them
+* [canislupus.im](https://canislupus.im)
+* [vulpine.club](https://vulpine.club) - community for foxes, friends, and other furry (and non-furry) creatures
 
-#### [Characters](#characters)
-* https://dragon.style - for dragons, and people who like dragons
-* https://monsterpit.net - for monsters, demons, aliens, strange creatures, and those who love them
-* https://equestria.social - for pony fans
+#### :paw_prints: [Subcultures](#subcultures)
+* [this.mouse.rocks](https://this.mouse.rocks) - furry instance for all the mouse adjacent folks who rock
+* [furry.engineer](https://furry.engineer) - techies within the furry community
 
-#### [Subcultures](#subcultures)
-* https://yiff.rocks - for furries, by furries
-* https://pridelands.io - for furries who want a place where they can speak like adults
-* https://this.mouse.rocks - furry instance for all the mouse adjacent folks who rock
-* https://blimps.xyz - for inflatable lovers and critters
-* https://furry.engineer
+#### :earth_asia: [Notable generalistic](#notable-generalistic)
+// *small-to-medium sized instances that will be happy to have new users*
+* [nerdculture.de](https://nerdculture.de)
+* [social.libertalia.world](https://social.libertalia.world)
+* [mastodon.earth](https://mastodon.earth)
+* [weirder.earth](https://weirder.earth) - for thoughtful weirdos
+* [kajalinifi.de](https://kajalinifi.de) - small instance for everyone who wants to talk to people or share photos
+* [projectx.fun](https://projectx.fun) - will be open for up to 100 users, for sanity and sustainability
+* [nulled.red](https://nulled.red) - refuses to block or silence any instances
+* [ieji.de](https://ieji.de) - no logs, has Tor .onion address
+* [assortedflotsam.com](https://assortedflotsam.com) - instance committed to truth in discourse
+* [mstdn.fr](https://mstdn.fr) - by sysadmins, with a goal to provide robust experience for tens of thousands of users
+* [scifi.fyi](https://scifi.fyi) - runs glitch-soc, a version of Mastodon with experimental new features
+* [mstdn.gnous.eu](https://mstdn.gnous.eu) - instance francophone
 
-#### [Notable generalistic](#notable-generalistic)
-// *biased personal choosing of small-to-medium sized instances that may be happy to have new users*
-* https://nerdculture.de
-* https://mastodon.zone
-* https://mastodon.earth
-* https://projectx.fun - will be open for up to 100 users, for sanity and sustainability
-* https://nulled.red - refuses to block or silence any instances
-* https://waifu.one - no censorship, no instances are blocked
-* https://ieji.de - no logs, has Tor .onion address
-* https://inscope.social - for those who help to get us onto the best possible future
-* https://tootplanet.space - beautiful landing
-* https://assortedflotsam.com - instance committed to truth in discourse
-* https://bigdoinks.online - a small community for jokes, goofs, and bits
-* https://social.wiuwiu.de - powered by 100% clean energy
-* https://mstdn.fr - by sysadmins, with a goal to provide robust experience for tens of thousands of users
-* https://sn.angry.im - wise recommendation to set up own node, if possible, for healthy ecosystem
-* https://scifi.fyi - runs glitch-soc, a version of Mastodon with experimental new features
-* https://mastodonten.de - an instance for nice people
-* https://mstdn.gnous.eu - instance francophone
-* https://mcr.cool - for good and fun times
-* https://7nw.eu - always running on the last tagged release
-* https://colloportus.me - leave big social media and get back to social networking
-* https://canislupus.im
-* https://social.openalgeria.org
-* https://social.datensturm.net
-* https://mastodon.fun
-* https://nicepeople.social
-* https://trillion.social
-* https://toot.chat
-* https://tootme.de
-* https://kyot.me
+#### :smile_cat: [For people with a sense of self-irony](#for-people-with-a-sense-of-self-irony)
+* [bibeogaem.zone](https://bibeogaem.zone) - for silly people who like funny swearing
+* [ephemeral.glitch.social](https://ephemeral.glitch.social) - toots are ephemeral and disappear after a while
+* [dolphin.town](https://dolphin.town) - instance where you can only say the letter 'e'
+* [botsin.space](https://botsin.space) - for bots
 
 ## Disclaimer
 `Following instances skipped`: closed registration *at the moment of checking*, running old code, theme / description not understood due to language barrier or scarce description, long blocklists, experimental servers.
 
 Add your own themed Mastodon instance by opening an issue or via [MR](https://gitlab.com/distributopia/masto-world-overview). If your server already has many users, it will be nice of you to let other instances grow, for a healthier decentralization.
+
+#### :x: [Closed registration / Invite only](closed-registration)
+* [naos.crypto.church](https://naos.crypto.church) - powers of cryptography and cryptanalysis
+* [bsd.network](https://bsd.network) - for *BSD users and devs
+* [mastodon.cc](https://mastodon.cc) - for art
+* [writing.exchange](https://writing.exchange) - community for poets, writers, bloggers
+* [electro.social](https://electro.social) - for electronic music enthusiasts, and electro music makers
+* [mastd.racing](https://mastd.racing) - dedicated to motosports
+* [masto.pt](https://masto.pt) - for people speaking Portuguese
+* [the.wired.sehol.se](https://the.wired.sehol.se) - for Hungarian speakers
+* [ceilidh.space](https://ceilidh.space) - Scottish Gaelic (?)
+* [bonn.social](https://bonn.social) - Bonn, Germany
+* [toot.berlin](https://toot.berlin) - Berlin, Germany
+* [ps.s10y.eu](https://ps.s10y.eu) - like-minded people in Brussels, Belgium
+* [babelut.be](https://babelut.be) - Belgium
+* [occitanie.social](https://occitanie.social) - Occitania
+* [bne.social](https://bne.social) - Queensland, Australia
+* [masto.donte.com.br](https://masto.donte.com.br) - Brazil
+* [mspsocial.net](https://mspsocial.net) - Twin Cities of Minneapolis and St. Paul, Minnesota, USA
+* [opensocial.africa](https://opensocial.africa) - for Africa, by Africans
+* [insoumis.social](https://insoumis.social) - for comrades, combatants, fighters
+* [anticapitalist.party](https://anticapitalist.party)
+* [lgbt.io](https://lgbt.io) - for LGBT+ and allies
+* [sleeping.town](https://sleeping.town) - for people who like to sleep
+* [ociety.oftrolls.com](https://society.oftrolls.com) - mild trolling encouraged, but not required
+* [dragon.style](https://dragon.style) - for dragons, and people who like dragons
+* [equestria.social](https://equestria.social) - for pony fans
+* [blimps.xyz](https://blimps.xyz) - for inflatable lovers and critters
 
 ## 🌟 Other research links
 - [Friendica world overview](https://gitlab.com/distributopia/friendica-world-overview)
