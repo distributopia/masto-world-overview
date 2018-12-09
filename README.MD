@@ -32,6 +32,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [social.buffalomesh.net](https://social.buffalomesh.net) - by Buffalomesh, mesh network in Buffalo, NY
 * [eunivers.social](https://eunivers.social) - by Eunivers online edition
 * [libretooth.gr](https://libretooth.gr) - by LibreOps, who contribute to (re-)decentralizing the net
+* [social.tchncs.de](https://social.tchncs.de) - one of the oldest instances, by Milan
 
 #### :penguin: [For techies](servers-for-techies)
 * [infosec.exchange](https://infosec.exchange) - infosec and IT security discussions
