@@ -209,6 +209,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mstdn.fr](https://mstdn.fr) - by sysadmins, with a goal to provide robust experience for tens of thousands of users
 * [scifi.fyi](https://scifi.fyi) - runs glitch-soc, a version of Mastodon with experimental new features
 * [mstdn.gnous.eu](https://mstdn.gnous.eu) - instance francophone
+* [social.tchncs.de](https://social.tchncs.de) - one of the oldest instances
 
 #### :smile_cat: [For people with a sense of self-irony](#for-people-with-a-sense-of-self-irony)
 * [bibeogaem.zone](https://bibeogaem.zone) - for silly people who like funny swearing
