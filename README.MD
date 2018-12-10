@@ -64,6 +64,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [gameliberty.club](https://gameliberty.club) - mainly gaming / nerd instance
 
 #### :clapper: [Game / Book / Show theme](#entertainment)
+* [startracks.club](https://startracks.club) - for fans of "The Star Tracks" and related shows, movies, books
 * [tenforward.social](https://tenforward.social) - theme Star Trek
 * [irakiratter.com](https://kirakiratter.com) - for Aikatsu fans
 * [donphan.social](https://donphan.social) - for Pokémon enthusiasts
@@ -120,6 +121,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [witchcraft.cafe](https://witchcraft.cafe) - for witches
 * [witches.live](https://witches.live) - for witches
 * [travel-friends.chat](https://travel-friends.chat) - for people who like to travel
+* [worldtravel.photos](https://worldtravel.photos) - social space for travel
 * [dallassports.fans](https://dallassports.fans) - for fans of Texas Rangers, Dallas Stars, FC Dallas, and affiliates
 
 #### :flags: [Language specific](#languages)
@@ -180,6 +182,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [deadinsi.de](https://deadinsi.de) - anti-fascist, LGBT friendly
 * [colorid.es](https://colorid.es)- LGBTQIA+ / queer instance primarily for Portuguese speakers
 * [pipou.academy](https://pipou.academy) - emphasis on kindness
+* [notbird.site](https://notbird.site)
 
 #### :alien: [Fandoms](#fandoms)
 * [fandom.ink](https://fandom.ink) - for fans and fandoms of all types
@@ -188,6 +191,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [vulpine.club](https://vulpine.club) - community for foxes, friends, and other furry (and non-furry) creatures
 
 #### :paw_prints: [Subcultures](#subcultures)
+* [bark.house](https://bark.house) - open community of furries based in the UK
 * [this.mouse.rocks](https://this.mouse.rocks) - furry instance for all the mouse adjacent folks who rock
 * [furry.engineer](https://furry.engineer) - techies within the furry community
 
