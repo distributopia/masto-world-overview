@@ -123,6 +123,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [travel-friends.chat](https://travel-friends.chat) - for people who like to travel
 * [worldtravel.photos](https://worldtravel.photos) - social space for travel
 * [dallassports.fans](https://dallassports.fans) - for fans of Texas Rangers, Dallas Stars, FC Dallas, and affiliates
+* [mmorpg.social](https://mmorpg.social) - for those who love MMOs
 
 #### :flags: [Language specific](#languages)
 * [polyglot.city](https://polyglot.city) - for polyglots, multilinguals, interested in languages and translating
@@ -132,10 +133,12 @@ This list may be useful for new users who wish to choose a server by theme.
 * [toot.si](https://toot.si) - Slovenian (multilingual) instance
 * [mastodontti.fi](https://mastodontti.fi) - Finnish (public toots should be in Finnish)
 * [mstdn.su](https://mstdn.su) - for Russian speaking users
+* [mastodonte.social](https://mastodonte.social) - for Spanish speakers
 
 #### :tent: [Regional](#regional)
 * [mstdn.hu](https://mstdn.hu) - Hungary
 * [frei.social](https://frei.social) - Munich, Germany
+* [mastodon.hamburg](https://mastodon.hamburg) - Hamburg, Germany
 * [toot.koeln](https://toot.koeln) - Koeln, Germany (generalistic)
 * [ruhr.social](https://ruhr.social) - Ruhr area, Germany
 * [social.saarland](https://social.saarland) - Saarland, Germany
