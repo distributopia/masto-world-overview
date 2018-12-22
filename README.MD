@@ -124,6 +124,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [worldtravel.photos](https://worldtravel.photos) - social space for travel
 * [dallassports.fans](https://dallassports.fans) - for fans of Texas Rangers, Dallas Stars, FC Dallas, and affiliates
 * [mmorpg.social](https://mmorpg.social) - for those who love MMOs
+* [walkers.social](https://walkers.social) - for those who like walking, trekking, hiking, camping, climbing, and other outdoor adventuring
 
 #### :flags: [Language specific](#languages)
 * [polyglot.city](https://polyglot.city) - for polyglots, multilinguals, interested in languages and translating
