@@ -134,6 +134,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [toot.si](https://toot.si) - Slovenian (multilingual) instance
 * [mastodontti.fi](https://mastodontti.fi) - Finnish (public toots should be in Finnish)
 * [mstdn.su](https://mstdn.su) - for Russian speaking users
+* [mastodon.sk](https://mastodon.sk) - for Slovakian users
 * [mastodonte.social](https://mastodonte.social) - for Spanish speakers
 
 #### :tent: [Regional](#regional)
