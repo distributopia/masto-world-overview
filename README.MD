@@ -52,6 +52,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [phpc.social](https://phpc.social) - PHP community
 * [functional.cafe](https://functional.cafe) - for people interested in functional programming and languages
 * [social.csswg.org](https://social.csswg.org) - for anyone interested in CSS or general web development
+* [rust.coffeeandcode.com](https://rust.coffeeandcode.com) - instance description not set, it's in the name
 
 #### :video_game: [Gamedev](#gamedev)
 * [mastodon.gamedev.place](https://mastodon.gamedev.place) - gamedev and related professions
@@ -158,6 +159,8 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mastodon.mg](https://mastodon.mg) - Madagascar
 * [balkan.fedive.rs](https://balkan.fedive.rs) - the Balkans (generalistic)
 * [mstdn.quebec.gq](https://mstdn.quebec.gq) - Quebec, Canada
+* [mastodon.opencloud.lu](https://mastodon.opencloud.lu) - for Luxembourgish / European private and public organisations
+* [txsocial.club](https://txsocial.club) - for all that live in and around Texas
 
 #### :red_circle: [Political and social views](#political-and-social-views)
 * [todon.nl](https://todon.nl) - for leftists, socialists, anarchists, Marxists, social democrats, social liberals
@@ -175,6 +178,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [donteatanimals.org](https://donteatanimals.org) - discussion of animal rights and veganism
 * [toot.cat](https://toot.cat) - instance for cats, the people who love them, and kindness in general
 * [pets-in.space](https://pets-in.space) - for animal lovers
+* [waterfowl.social](https://waterfowl.social) - for waterfowl lovers who keep ducks, geese, and other waterfowl as pets
 
 #### :rainbow: [Safe spaces](#safe-spaces)
 * [queer.party](https://queer.party) - for queer folk and non-queer folk alike
