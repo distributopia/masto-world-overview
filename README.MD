@@ -136,6 +136,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mastodontti.fi](https://mastodontti.fi) - Finnish (public toots should be in Finnish)
 * [mstdn.su](https://mstdn.su) - for Russian speaking users
 * [mastodonte.social](https://mastodonte.social) - for Spanish speakers
+* [mastodon.sk](https://mastodon.sk) - for Slovak users
 
 #### :tent: [Regional](#regional)
 * [mstdn.hu](https://mstdn.hu) - Hungary
@@ -154,13 +155,14 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mastodon.me.uk](https://mastodon.me.uk) - UK tech community
 * [kokomo.space](https://kokomo.space) - community of Kokomo city, Indiana, USA
 * [rva.party](https://rva.party) - Richmond, USA
+* [txsocial.club](https://txsocial.club) - Texas, USA
 * [polska.masto.host](https://polska.masto.host) - Poland
 * [mastodon.nz](https://mastodon.nz) - New Zealand
 * [mastodon.mg](https://mastodon.mg) - Madagascar
 * [balkan.fedive.rs](https://balkan.fedive.rs) - the Balkans (generalistic)
 * [mstdn.quebec.gq](https://mstdn.quebec.gq) - Quebec, Canada
+* [mastodon.uno](https://mastodon.uno) - Italy
 * [mastodon.opencloud.lu](https://mastodon.opencloud.lu) - for Luxembourgish / European private and public organisations
-* [txsocial.club](https://txsocial.club) - for all that live in and around Texas
 
 #### :red_circle: [Political and social views](#political-and-social-views)
 * [todon.nl](https://todon.nl) - for leftists, socialists, anarchists, Marxists, social democrats, social liberals
@@ -205,6 +207,7 @@ This list may be useful for new users who wish to choose a server by theme.
 
 #### :earth_asia: [Notable generalistic](#notable-generalistic)
 // *small-to-medium sized instances that will be happy to have new users*
+* [libertalia.world](https://libertalia.world) - named after a legendary colony forged by pirates
 * [nerdculture.de](https://nerdculture.de)
 * [social.libertalia.world](https://social.libertalia.world)
 * [mastodon.earth](https://mastodon.earth)
