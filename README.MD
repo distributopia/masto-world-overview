@@ -129,6 +129,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [dallassports.fans](https://dallassports.fans) - for fans of Texas Rangers, Dallas Stars, FC Dallas, and affiliates
 * [mmorpg.social](https://mmorpg.social) - for those who love MMOs
 * [walkers.social](https://walkers.social) - for those who like walking, trekking, hiking, camping, climbing, and other outdoor adventuring
+* [mastoweed.com](https://mastoweed.com) - community of weed smokers, growers
 
 #### :flags: [Language specific](#languages)
 * [polyglot.city](https://polyglot.city) - for polyglots, multilinguals, interested in languages and translating
@@ -148,6 +149,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [toot.koeln](https://toot.koeln) - Koeln, Germany (generalistic)
 * [ruhr.social](https://ruhr.social) - Ruhr area, Germany
 * [social.saarland](https://social.saarland) - Saarland, Germany
+* [dresden.network](https://dresden.network) - Dresden, Germany
 * [mastoton.fi](https://mastoton.fi) - Finland
 * [mastodon.se](https://mastodon.se) - Sweden
 * [gr.social](https://gr.social) - Greece
