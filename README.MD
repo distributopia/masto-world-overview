@@ -72,8 +72,9 @@ This list may be useful for new users who wish to choose a server by theme.
 * [cmdr.social](https://cmdr.social) - dedicated to Elite: Dangerous
 
 #### :art: [Humanities](#humanities)
-* [umanities.one](https://humanities.one)
+* [humanities.one](https://humanities.one)
 * [mastodon.art](https://mastodon.art) - for artists
+* [muses.gallery](https://muses.gallery) - community of compassionate artists, musicians, and other creatives
 * [artalley.porn](https://artalley.porn) - for artists and commissioners
 * [baraag.net](https://baraag.net) - freely share all types of art, uncensored, 18+
 * [bookwor.ms](https://bookwor.ms) - for book-lovers
@@ -167,6 +168,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [balkan.fedive.rs](https://balkan.fedive.rs) - the Balkans (generalistic)
 * [mstdn.quebec.gq](https://mstdn.quebec.gq) - Quebec, Canada
 * [mastodon.uno](https://mastodon.uno) - Italy
+* [kazvam.com](https://kazvam.com) - Bulgaria
 * [mastodon.opencloud.lu](https://mastodon.opencloud.lu) - for Luxembourgish / European private and public organisations
 
 #### :red_circle: [Political and social views](#political-and-social-views)
