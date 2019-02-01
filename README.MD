@@ -58,6 +58,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mastodon.gamedev.place](https://mastodon.gamedev.place) - gamedev and related professions
 * [elekk.xyz](https://elekk.xyz) - by gamers, for gamers
 * [gamemaking.social](https://gamemaking.social) - amateur videogame making: game writers, game players welcome
+* [wiregamer.com](https://wiregamer.com) - video games and their development
 * [mastodon.sergal.org](https://mastodon.sergal.org) - general trends toward tech, games, and everything fluffy
 * [robloxcommunity.social](https://robloxcommunity.social) - for those part of or interested in the ROBLOX and RBXDev community
 * [social.noff.co](https://social.noff.co) - for tech, gaming, and good times
@@ -120,6 +121,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [dice.camp](https://dice.camp) - for tabletop gamers
 * [mastodon.beerfactory.org](https://mastodon.beerfactory.org) - for beermakers
 * [motogp.space](https://motogp.space) - for MotoGP and motorbikes fans
+* [cartodon.com](https://cartodon.com) - to discuss anything related to cars, racing, and car care
 * [ocr.social](https://ocr.social) - for the global Obstacle Course Running (OCR) community
 * [onthesecond.com](https://onthesecond.com) - for firearms enthusiasts
 * [occult.camp](https://occult.camp) - focused on spitituality, witchcraft and various shades of woo
@@ -131,6 +133,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mmorpg.social](https://mmorpg.social) - for those who love MMOs
 * [walkers.social](https://walkers.social) - for those who like walking, trekking, hiking, camping, climbing, and other outdoor adventuring
 * [mastoweed.com](https://mastoweed.com) - community of weed smokers, growers
+* [kith.kitchen](https://kith.kitchen) - centered around food, cooking
 
 #### :flags: [Language specific](#languages)
 * [polyglot.city](https://polyglot.city) - for polyglots, multilinguals, interested in languages and translating
@@ -142,10 +145,12 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mstdn.su](https://mstdn.su) - for Russian speaking users
 * [mastodonte.social](https://mastodonte.social) - for Spanish speakers
 * [mastodon.sk](https://mastodon.sk) - for Slovak users
+* [toot.ge](https://toot.ge) - Georgian language
 
 #### :tent: [Regional](#regional)
 * [mstdn.hu](https://mstdn.hu) - Hungary
 * [frei.social](https://frei.social) - Munich, Germany
+* [muenchen.social](https://muenchen.social) - Munich, Germany
 * [mastodon.hamburg](https://mastodon.hamburg) - Hamburg, Germany
 * [toot.koeln](https://toot.koeln) - Koeln, Germany (generalistic)
 * [ruhr.social](https://ruhr.social) - Ruhr area, Germany
@@ -169,6 +174,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mstdn.quebec.gq](https://mstdn.quebec.gq) - Quebec, Canada
 * [mastodon.uno](https://mastodon.uno) - Italy
 * [kazvam.com](https://kazvam.com) - Bulgaria
+* [mastodonsocial.ru](https://mastodonsocial.ru) - Russia
 * [mastodon.opencloud.lu](https://mastodon.opencloud.lu) - for Luxembourgish / European private and public organisations
 
 #### :red_circle: [Political and social views](#political-and-social-views)
