@@ -175,6 +175,8 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mastodon.uno](https://mastodon.uno) - Italy
 * [kazvam.com](https://kazvam.com) - Bulgaria
 * [mastodonsocial.ru](https://mastodonsocial.ru) - Russia
+* [mastodos.com](https://mastodos.com) - Kyoto, Japan
+* [forrum.ro](https://forrum.ro) - Romania
 * [mastodon.opencloud.lu](https://mastodon.opencloud.lu) - for Luxembourgish / European private and public organisations
 
 #### :red_circle: [Political and social views](#political-and-social-views)
@@ -217,6 +219,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [bark.house](https://bark.house) - open community of furries based in the UK
 * [this.mouse.rocks](https://this.mouse.rocks) - furry instance for all the mouse adjacent folks who rock
 * [furry.engineer](https://furry.engineer) - techies within the furry community
+* [furry.site](https://furry.site) - for furries and non-furries alike
 
 #### :earth_asia: [Notable generalistic](#notable-generalistic)
 // *small-to-medium sized instances that will be happy to have new users*
