@@ -83,6 +83,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [imaginair.es](https://imaginair.es) - for writers, photographers, painters, cartoonists and people with imagination
 * [social.nasqueron.org](https://social.nasqueron.org) - for creative people, writers, developers and thinkers
 * [vis.social](https://vis.social) - for anyone into data, visualization, creative coding, related arts and research
+* [photographer.pro](https://photographer.pro) - for working professional photographers to share gigs
 * [photog.social](https://photog.social) - place for your photos
 * [music.glitch.pizza](https://music.glitch.pizza)- dedicated to talking about and sharing music
 * [linernotes.club](https://linernotes.club) - for fans of recorded music
@@ -151,6 +152,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mstdn.hu](https://mstdn.hu) - Hungary
 * [frei.social](https://frei.social) - Munich, Germany
 * [muenchen.social](https://muenchen.social) - Munich, Germany
+* [mastodon.bayern](https://mastodon.bayern) - Bavaria, Germany
 * [mastodon.hamburg](https://mastodon.hamburg) - Hamburg, Germany
 * [toot.koeln](https://toot.koeln) - Koeln, Germany (generalistic)
 * [ruhr.social](https://ruhr.social) - Ruhr area, Germany
