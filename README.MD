@@ -143,6 +143,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [persadon.com](https://persadon.com) - for Persian speaking folks
 * [toot.si](https://toot.si) - Slovenian (multilingual) instance
 * [mastodontti.fi](https://mastodontti.fi) - Finnish (public toots should be in Finnish)
+* [fikaverse.club](https://fikaverse.club) - Swedish and other Scandinavian languages
 * [mstdn.su](https://mstdn.su) - for Russian speaking users
 * [mastodonte.social](https://mastodonte.social) - for Spanish speakers
 * [mastodon.sk](https://mastodon.sk) - for Slovak users
@@ -179,6 +180,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mastodonsocial.ru](https://mastodonsocial.ru) - Russia
 * [mastodos.com](https://mastodos.com) - Kyoto, Japan
 * [forrum.ro](https://forrum.ro) - Romania
+* [kopiti.am](https://kopiti.am) - Singapore
 * [mastodon.opencloud.lu](https://mastodon.opencloud.lu) - for Luxembourgish / European private and public organisations
 
 #### :red_circle: [Political and social views](#political-and-social-views)
