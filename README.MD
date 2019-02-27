@@ -8,6 +8,7 @@ This list may be useful for new users who wish to choose a server by theme.
 #### :tada: [Notable mention](#notable-mention)
 // *some are open only to particular audience, i.e., to students of university*
 * [mastodon.mit.edu](https://mastodon.mit.edu) - for the MIT community
+* [mastodon.ocf.berkeley.edu](https://mastodon.ocf.berkeley.edu) - for Berkeley students, faculty, and staff
 * [mastodon.acc.sunet.se](https://mastodon.acc.sunet.se) - by Academic Computer Club at Umeå University, Sweden
 * [mastodon.iut-larochelle.fr](https://mastodon.iut-larochelle.fr) - by University of La Rochelle
 * [mastodon.iut-larochelle.fr](https://mastodon.redbrick.dcu.ie) - by Redbrick, Dublin City University
@@ -135,6 +136,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [walkers.social](https://walkers.social) - for those who like walking, trekking, hiking, camping, climbing, and other outdoor adventuring
 * [mastoweed.com](https://mastoweed.com) - community of weed smokers, growers
 * [kith.kitchen](https://kith.kitchen) - centered around food, cooking
+* [about-bitcoin.com](https://about-bitcoin.com) - anything related to bitcoin and other crypto-currencies
 
 #### :flags: [Language specific](#languages)
 * [polyglot.city](https://polyglot.city) - for polyglots, multilinguals, interested in languages and translating
