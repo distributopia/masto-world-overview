@@ -202,6 +202,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [toot.cat](https://toot.cat) - instance for cats, the people who love them, and kindness in general
 * [pets-in.space](https://pets-in.space) - for animal lovers
 * [waterfowl.social](https://waterfowl.social) - for waterfowl lovers who keep ducks, geese, and other waterfowl as pets
+* [ecosteader.com](https://ecosteader.com) - for builders, designers, and innovators of green / eco-friendly habitats
 
 #### :rainbow: [Safe spaces](#safe-spaces)
 * [queer.party](https://queer.party) - for queer folk and non-queer folk alike
