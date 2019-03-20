@@ -100,6 +100,7 @@ This list may be useful for new users who wish to choose a server by theme.
 
 #### :mortar_board: [Education](#education)
 * [tusk.schoollibraries.net](https://tusk.schoollibraries.net) - helping educators improve the School Libraries Resource Network
+* [openbiblio.social](https://openbiblio.social) - German libraries and information facilities
 
 #### :briefcase: [Law](#law)
 * [legal.social](https://legal.social) - instance for legal debate
@@ -161,6 +162,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [ruhr.social](https://ruhr.social) - Ruhr area, Germany
 * [social.saarland](https://social.saarland) - Saarland, Germany
 * [dresden.network](https://dresden.network) - Dresden, Germany
+* [machteburch.social](https://machteburch.social) - Magdeburg, Germany
 * [mastoton.fi](https://mastoton.fi) - Finland
 * [mastodon.se](https://mastodon.se) - Sweden
 * [gr.social](https://gr.social) - Greece
