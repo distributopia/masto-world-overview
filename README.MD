@@ -65,6 +65,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [social.noff.co](https://social.noff.co) - for tech, gaming, and good times
 * [unityjp-mastodon.tokyo](https://unityjp-mastodon.tokyo) - Unity Japan
 * [gameliberty.club](https://gameliberty.club) - mainly gaming / nerd instance
+* [pcgamer.social](https://pcgamer.social) - by PC gamer, for PC gamers
 
 #### :clapper: [Game / Book / Show theme](#entertainment)
 * [startracks.club](https://startracks.club) - for fans of "The Star Tracks" and related shows, movies, books
