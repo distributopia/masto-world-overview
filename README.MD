@@ -53,7 +53,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [phpc.social](https://phpc.social) - PHP community
 * [functional.cafe](https://functional.cafe) - for people interested in functional programming and languages
 * [social.csswg.org](https://social.csswg.org) - for anyone interested in CSS or general web development
-* [rust.coffeeandcode.com](https://rust.coffeeandcode.com) - instance description not set, it's in the name
 
 #### :video_game: [Gamedev](#gamedev)
 * [mastodon.gamedev.place](https://mastodon.gamedev.place) - gamedev and related professions
@@ -61,14 +60,12 @@ This list may be useful for new users who wish to choose a server by theme.
 * [gamemaking.social](https://gamemaking.social) - amateur videogame making: game writers, game players welcome
 * [wiregamer.com](https://wiregamer.com) - video games and their development
 * [mastodon.sergal.org](https://mastodon.sergal.org) - general trends toward tech, games, and everything fluffy
-* [robloxcommunity.social](https://robloxcommunity.social) - for those part of or interested in the ROBLOX and RBXDev community
 * [social.noff.co](https://social.noff.co) - for tech, gaming, and good times
 * [unityjp-mastodon.tokyo](https://unityjp-mastodon.tokyo) - Unity Japan
 * [gameliberty.club](https://gameliberty.club) - mainly gaming / nerd instance
 * [pcgamer.social](https://pcgamer.social) - by PC gamer, for PC gamers
 
 #### :clapper: [Game / Book / Show theme](#entertainment)
-* [startracks.club](https://startracks.club) - for fans of "The Star Tracks" and related shows, movies, books
 * [tenforward.social](https://tenforward.social) - theme Star Trek
 * [irakiratter.com](https://kirakiratter.com) - for Aikatsu fans
 * [donphan.social](https://donphan.social) - for Pokémon enthusiasts
@@ -127,16 +124,13 @@ This list may be useful for new users who wish to choose a server by theme.
 * [motogp.space](https://motogp.space) - for MotoGP and motorbikes fans
 * [cartodon.com](https://cartodon.com) - to discuss anything related to cars, racing, and car care
 * [ocr.social](https://ocr.social) - for the global Obstacle Course Running (OCR) community
-* [onthesecond.com](https://onthesecond.com) - for firearms enthusiasts
 * [occult.camp](https://occult.camp) - focused on spitituality, witchcraft and various shades of woo
 * [witchcraft.cafe](https://witchcraft.cafe) - for witches
 * [witches.live](https://witches.live) - for witches
 * [travel-friends.chat](https://travel-friends.chat) - for people who like to travel
 * [worldtravel.photos](https://worldtravel.photos) - social space for travel
-* [dallassports.fans](https://dallassports.fans) - for fans of Texas Rangers, Dallas Stars, FC Dallas, and affiliates
 * [mmorpg.social](https://mmorpg.social) - for those who love MMOs
 * [walkers.social](https://walkers.social) - for those who like walking, trekking, hiking, camping, climbing, and other outdoor adventuring
-* [mastoweed.com](https://mastoweed.com) - community of weed smokers, growers
 * [kith.kitchen](https://kith.kitchen) - centered around food, cooking
 * [about-bitcoin.com](https://about-bitcoin.com) - anything related to bitcoin and other crypto-currencies
 
@@ -149,9 +143,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mastodontti.fi](https://mastodontti.fi) - Finnish (public toots should be in Finnish)
 * [fikaverse.club](https://fikaverse.club) - Swedish and other Scandinavian languages
 * [mstdn.su](https://mstdn.su) - for Russian speaking users
-* [mastodonte.social](https://mastodonte.social) - for Spanish speakers
 * [mastodon.sk](https://mastodon.sk) - for Slovak users
-* [toot.ge](https://toot.ge) - Georgian language
 
 #### :tent: [Regional](#regional)
 * [mstdn.hu](https://mstdn.hu) - Hungary
@@ -164,9 +156,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [social.saarland](https://social.saarland) - Saarland, Germany
 * [dresden.network](https://dresden.network) - Dresden, Germany
 * [machteburch.social](https://machteburch.social) - Magdeburg, Germany
-* [mastoton.fi](https://mastoton.fi) - Finland
 * [mastodon.se](https://mastodon.se) - Sweden
-* [gr.social](https://gr.social) - Greece
 * [mastodont.cat](https://mastodont.cat) - Catalonia
 * [mastodon.uy](https://mastodon.uy) - Uruguay
 * [mastodon.scot](https://mastodon.scot) - Scotland, or who identify as Scottish
@@ -176,7 +166,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [rva.party](https://rva.party) - Richmond, USA
 * [txsocial.club](https://txsocial.club) - Texas, USA
 * [polska.masto.host](https://polska.masto.host) - Poland
-* [mastodon.nz](https://mastodon.nz) - New Zealand
 * [mastodon.mg](https://mastodon.mg) - Madagascar
 * [balkan.fedive.rs](https://balkan.fedive.rs) - the Balkans (generalistic)
 * [mstdn.quebec.gq](https://mstdn.quebec.gq) - Quebec, Canada
@@ -184,7 +173,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [kazvam.com](https://kazvam.com) - Bulgaria
 * [mastodonsocial.ru](https://mastodonsocial.ru) - Russia
 * [mastodos.com](https://mastodos.com) - Kyoto, Japan
-* [forrum.ro](https://forrum.ro) - Romania
 * [kopiti.am](https://kopiti.am) - Singapore
 * [mastodon.opencloud.lu](https://mastodon.opencloud.lu) - for Luxembourgish / European private and public organisations
 
@@ -192,18 +180,15 @@ This list may be useful for new users who wish to choose a server by theme.
 * [todon.nl](https://todon.nl) - for leftists, socialists, anarchists, Marxists, social democrats, social liberals
 * [hispagatos.space](https://hispagatos.space)- for hackers, social anarchists, and anarchist hackers
 * [anarchism.space](https://anarchism.space) - for social anarchists
-* [roughseas.xyz](https://roughseas.xyz) - for libertarians, classical liberals, right-of-center thinkers, gun owners
 * [sunbeam.city](https://sunbeam.city) - libertarian Socialist and solarpunk community
 * [activism.openworlds.info](https://activism.openworlds.info) - for activists
 * [campaign.openworlds.info](https://campaign.openworlds.info) - for campaigners and NGOs
-* [cheeky.red](https://cheeky.red)
 
 #### :rabbit: [Ecology and animals](#ecology-and-animals)
 * [mastodon.latransition.org](https://mastodon.latransition.org) - francophone movement for ecological transition
 * [onerescue.org](https://onerescue.org) - for animal lovers, and dedicated to helping rescue animals in need
 * [donteatanimals.org](https://donteatanimals.org) - discussion of animal rights and veganism
 * [toot.cat](https://toot.cat) - instance for cats, the people who love them, and kindness in general
-* [pets-in.space](https://pets-in.space) - for animal lovers
 * [waterfowl.social](https://waterfowl.social) - for waterfowl lovers who keep ducks, geese, and other waterfowl as pets
 * [ecosteader.com](https://ecosteader.com) - for builders, designers, and innovators of green / eco-friendly habitats
 
@@ -228,17 +213,13 @@ This list may be useful for new users who wish to choose a server by theme.
 #### :paw_prints: [Subcultures](#subcultures)
 * [bark.house](https://bark.house) - open community of furries based in the UK
 * [this.mouse.rocks](https://this.mouse.rocks) - furry instance for all the mouse adjacent folks who rock
-* [furry.engineer](https://furry.engineer) - techies within the furry community
-* [furry.site](https://furry.site) - for furries and non-furries alike
 
 #### :earth_asia: [Notable generalistic](#notable-generalistic)
 // *small-to-medium sized instances that will be happy to have new users*
 * [libertalia.world](https://libertalia.world) - named after a legendary colony forged by pirates
 * [nerdculture.de](https://nerdculture.de)
-* [social.libertalia.world](https://social.libertalia.world)
 * [mastodon.earth](https://mastodon.earth)
 * [weirder.earth](https://weirder.earth) - for thoughtful weirdos
-* [kajalinifi.de](https://kajalinifi.de) - small instance for everyone who wants to talk to people or share photos
 * [projectx.fun](https://projectx.fun) - will be open for up to 100 users, for sanity and sustainability
 * [nulled.red](https://nulled.red) - refuses to block or silence any instances
 * [ieji.de](https://ieji.de) - no logs, has Tor .onion address
@@ -264,7 +245,6 @@ Add your own themed Mastodon instance by opening an issue or via [MR](https://gi
 * [bsd.network](https://bsd.network) - for *BSD users and devs
 * [mastodon.cc](https://mastodon.cc) - for art
 * [writing.exchange](https://writing.exchange) - community for poets, writers, bloggers
-* [electro.social](https://electro.social) - for electronic music enthusiasts, and electro music makers
 * [mastd.racing](https://mastd.racing) - dedicated to motosports
 * [masto.pt](https://masto.pt) - for people speaking Portuguese
 * [the.wired.sehol.se](https://the.wired.sehol.se) - for Hungarian speakers
@@ -277,7 +257,6 @@ Add your own themed Mastodon instance by opening an issue or via [MR](https://gi
 * [bne.social](https://bne.social) - Queensland, Australia
 * [masto.donte.com.br](https://masto.donte.com.br) - Brazil
 * [mspsocial.net](https://mspsocial.net) - Twin Cities of Minneapolis and St. Paul, Minnesota, USA
-* [opensocial.africa](https://opensocial.africa) - for Africa, by Africans
 * [insoumis.social](https://insoumis.social) - for comrades, combatants, fighters
 * [anticapitalist.party](https://anticapitalist.party)
 * [lgbt.io](https://lgbt.io) - for LGBT+ and allies
