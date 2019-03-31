@@ -12,7 +12,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mastodon.acc.sunet.se](https://mastodon.acc.sunet.se) - by Academic Computer Club at Umeå University, Sweden
 * [mastodon.iut-larochelle.fr](https://mastodon.iut-larochelle.fr) - by University of La Rochelle
 * [mastodon.iut-larochelle.fr](https://mastodon.redbrick.dcu.ie) - by Redbrick, Dublin City University
-* [mastodon.etalab.gouv.fr](https://mastodon.etalab.gouv.fr) - for French public servants who are involved in innovative projects
 * [w3c.social](https://w3c.social) - for people involved in the activities of the World Wide Web Consortium (W3C)
 * [mastodon.greenpeace.ch](https://mastodon.greenpeace.ch) - by Greenpece Switzerland
 
@@ -58,7 +57,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mastodon.gamedev.place](https://mastodon.gamedev.place) - gamedev and related professions
 * [elekk.xyz](https://elekk.xyz) - by gamers, for gamers
 * [gamemaking.social](https://gamemaking.social) - amateur videogame making: game writers, game players welcome
-* [wiregamer.com](https://wiregamer.com) - video games and their development
 * [mastodon.sergal.org](https://mastodon.sergal.org) - general trends toward tech, games, and everything fluffy
 * [social.noff.co](https://social.noff.co) - for tech, gaming, and good times
 * [unityjp-mastodon.tokyo](https://unityjp-mastodon.tokyo) - Unity Japan
@@ -114,6 +112,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [koreadon.com](https://koreadon.com) - for K-POP music fans
 
 #### :telescope: [Hobbies](#hobbies)
+* [cruisers.social](https://cruisers.social) - for sailors, cruisers, boat owners, and anyone exploring the world's coastlines
 * [makestuff.club](https://makestuff.club) - for people that make stuff
 * [scramble.city](https://scramble.city) - Transformers, super robots, mecha and related subjects
 * [mhz.social](https://mhz.social) - for radio amateurs, DXers and anyone interested to geek out about radio
