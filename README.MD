@@ -5,72 +5,12 @@
 
 This list may be useful for new users who wish to choose a server by theme.
 
-#### :tada: [Notable mention](#notable-mention)
-// *some are open only to particular audience, i.e., to students of university*
-* [mastodon.mit.edu](https://mastodon.mit.edu) - for the MIT community
-* [mastodon.ocf.berkeley.edu](https://mastodon.ocf.berkeley.edu) - for Berkeley students, faculty, and staff
-* [mastodon.acc.sunet.se](https://mastodon.acc.sunet.se) - by Academic Computer Club at Umeå University, Sweden
-* [mastodon.iut-larochelle.fr](https://mastodon.iut-larochelle.fr) - by University of La Rochelle
-* [mastodon.iut-larochelle.fr](https://mastodon.redbrick.dcu.ie) - by Redbrick, Dublin City University
-* [w3c.social](https://w3c.social) - for people involved in the activities of the World Wide Web Consortium (W3C)
-* [mastodon.greenpeace.ch](https://mastodon.greenpeace.ch) - by Greenpece Switzerland
-
-#### :shell: [Run by tech-savvy organizations](#run-by-tech-savvy-organizations)
-* [en.osm.town](https://en.osm.town) - for the OpenStreetMap Community
-* [fr.osm.social](https://fr.osm.social) - for francophone OpenStreetMap Community
-* [chaos.social](https://chaos.social) - CCC related
-* [framapiaf.org](https://framapiaf.org) - by [Framasoft](https://framasoft.org)
-* [mastodon.dotopia.dk](https://mastodon.dotopia.dk) - by DO:TOPIA, Denmark based tech activism collective
-* [mastodon.hackerlab.fr](https://mastodon.hackerlab.fr) - by Hackerlab
-* [mi.pede.rs](https://mi.pede.rs) - by Hacklab-in-Mama hackerspace, Zagreb
-* [social.weho.st](https://social.weho.st) - by WeHost, non-profit internet service provider, Amsterdam
-* [m.g3l.org](https://m.g3l.org) - by G3L, libre software association
-* [mastodon.nzoss.nz](https://mastodon.nzoss.nz) - by New Zealand Open Source Society
-* [mamot.fr](https://mamot.fr) - by Quadrature du Net, association for the defence of digital rights and freedoms
-* [mastodon.roflcopter.fr](https://mastodon.roflcopter.fr) - by Roflcopter, [CHATONS](https://chatons.org) member
-* [mastodon.zaclys.com](https://mastodon.zaclys.com) - by Zaclys, association francophone
-* [social.buffalomesh.net](https://social.buffalomesh.net) - by Buffalomesh, mesh network in Buffalo, NY
-* [eunivers.social](https://eunivers.social) - by Eunivers online edition
-* [libretooth.gr](https://libretooth.gr) - by LibreOps, who contribute to (re-)decentralizing the net
-
-#### :penguin: [For techies](servers-for-techies)
-* [infosec.exchange](https://infosec.exchange) - infosec and IT security discussions
-* [mastodon.technology](https://mastodon.technology) - for people interested in technology
-* [fosstodon.org](https://fosstodon.org) - dedicated to Free and Open Source Software
-* [floss.social](https://floss.social) - for people who support or build Free Libre Open Source Software
-* [miaou.drycat.fr](https://miaou.drycat.fr) - for geeks, FOSS and cat lovers, [CHATONS](https://chatons.org) member
-* [mastodon.partecipa.digital](https://mastodon.partecipa.digital) - conversations about IT, Open Source, Linux
-* [pao.moe](https://pao.moe) - cat, FOSS, nix
-* [linuxrocks.online](https://linuxrocks.online) - dedicated to Linux and technologies
-* [oldbytes.space](https://oldbytes.space) - for old hardware fans
-* [mathstodon.xyz](https://mathstodon.xyz) -  for Maths people
-* [calc.news](https://calc.news) - for the graphic calculator community, open to programmers and artists
-* [digipres.club](https://digipres.club) - conversations about digital preservation
-
-#### :computer: [Programming](instances-for-programmers)
-* [ruby.social](https://ruby.social) - for people interested in Ruby, Rails and related topics
-* [phpc.social](https://phpc.social) - PHP community
-* [functional.cafe](https://functional.cafe) - for people interested in functional programming and languages
-* [social.csswg.org](https://social.csswg.org) - for anyone interested in CSS or general web development
-
-#### :video_game: [Gamedev](#gamedev)
-* [mastodon.gamedev.place](https://mastodon.gamedev.place) - gamedev and related professions
-* [elekk.xyz](https://elekk.xyz) - by gamers, for gamers
-* [gamemaking.social](https://gamemaking.social) - amateur videogame making: game writers, game players welcome
-* [mastodon.sergal.org](https://mastodon.sergal.org) - general trends toward tech, games, and everything fluffy
-* [social.noff.co](https://social.noff.co) - for tech, gaming, and good times
-* [unityjp-mastodon.tokyo](https://unityjp-mastodon.tokyo) - Unity Japan
-* [gameliberty.club](https://gameliberty.club) - mainly gaming / nerd instance
-* [pcgamer.social](https://pcgamer.social) - by PC gamer, for PC gamers
-
-#### :clapper: [Game / Book / Show theme](#entertainment)
-* [tenforward.social](https://tenforward.social) - theme Star Trek
-* [irakiratter.com](https://kirakiratter.com) - for Aikatsu fans
-* [donphan.social](https://donphan.social) - for Pokémon enthusiasts
-* [cmdr.social](https://cmdr.social) - dedicated to Elite: Dangerous
+#### :bulb: [Sciences](#sciences)
+* [scicomm.xyz](https://scicomm.xyz) - discussions for scientists and science enthusiasts
+* [qoto.org](https://qoto.org) - for scholars in Science, Technology, Engineering, and Mathematics (STEM)
 
 #### :art: [Humanities](#humanities)
-* [humanities.one](https://humanities.one)
+* [humanities.one](https://humanities.one) - anthropology, archaeology, the arts, history, linguistics, philosophy, and so on
 * [mastodon.art](https://mastodon.art) - for artists
 * [muses.gallery](https://muses.gallery) - community of compassionate artists, musicians, and other creatives
 * [artalley.porn](https://artalley.porn) - for artists and commissioners
@@ -88,11 +28,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [oulipo.social](https://oulipo.social) - a lipogrammatic server
 * [expshift.com](https://expshift.com) - for creatives (place to share your art, music, movie reviews)
 * [www.bookbeezhive.com](https://www.bookbeezhive.com) - for authors and their readers
-
-#### :bulb: [Sciences](#sciences)
-* [scholar.social](https://scholar.social) - for researchers, undergrads, journal editors, librarians, administrators
-* [scicomm.xyz](https://scicomm.xyz) - discussions for scientists and science enthusiasts
-* [qoto.org](https://qoto.org) - for scholars in Science, Technology, Engineering, and Mathematics (STEM)
 
 #### :mortar_board: [Education](#education)
 * [tusk.schoollibraries.net](https://tusk.schoollibraries.net) - helping educators improve the School Libraries Resource Network
@@ -159,11 +94,11 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mastodont.cat](https://mastodont.cat) - Catalonia
 * [mastodon.uy](https://mastodon.uy) - Uruguay
 * [mastodon.scot](https://mastodon.scot) - Scotland, or who identify as Scottish
-* [toot.wales](https://toot.wales) - home of Wales and the Welsh
+* [toot.wales](https://toot.wales) - Wales and the Welsh
 * [mastodon.me.uk](https://mastodon.me.uk) - UK tech community
-* [kokomo.space](https://kokomo.space) - community of Kokomo city, Indiana, USA
 * [rva.party](https://rva.party) - Richmond, USA
 * [txsocial.club](https://txsocial.club) - Texas, USA
+* [southflorida.social](https://southflorida.social) - South Florida, USA
 * [polska.masto.host](https://polska.masto.host) - Poland
 * [mastodon.mg](https://mastodon.mg) - Madagascar
 * [balkan.fedive.rs](https://balkan.fedive.rs) - the Balkans (generalistic)
@@ -173,7 +108,61 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mastodonsocial.ru](https://mastodonsocial.ru) - Russia
 * [mastodos.com](https://mastodos.com) - Kyoto, Japan
 * [kopiti.am](https://kopiti.am) - Singapore
-* [mastodon.opencloud.lu](https://mastodon.opencloud.lu) - for Luxembourgish / European private and public organisations
+* [mastodon.opencloud.lu](https://mastodon.opencloud.lu) - Luxembourgish / European private and public organisations
+
+#### :clapper: [Game / Book / Show theme](#entertainment)
+* [tenforward.social](https://tenforward.social) - theme Star Trek
+* [irakiratter.com](https://kirakiratter.com) - for Aikatsu fans
+* [donphan.social](https://donphan.social) - for Pokémon enthusiasts
+* [cmdr.social](https://cmdr.social) - dedicated to Elite: Dangerous
+
+#### :shell: [Run by tech-savvy organizations](#run-by-tech-savvy-organizations)
+* [en.osm.town](https://en.osm.town) - for the OpenStreetMap Community
+* [fr.osm.social](https://fr.osm.social) - for francophone OpenStreetMap Community
+* [chaos.social](https://chaos.social) - CCC related
+* [framapiaf.org](https://framapiaf.org) - by [Framasoft](https://framasoft.org)
+* [mastodon.dotopia.dk](https://mastodon.dotopia.dk) - by DO:TOPIA, Denmark based tech activism collective
+* [mastodon.hackerlab.fr](https://mastodon.hackerlab.fr) - by Hackerlab
+* [mi.pede.rs](https://mi.pede.rs) - by Hacklab-in-Mama hackerspace, Zagreb
+* [social.weho.st](https://social.weho.st) - by WeHost, non-profit internet service provider, Amsterdam
+* [m.g3l.org](https://m.g3l.org) - by G3L, libre software association
+* [mastodon.nzoss.nz](https://mastodon.nzoss.nz) - by New Zealand Open Source Society
+* [mamot.fr](https://mamot.fr) - by Quadrature du Net, association for the defence of digital rights and freedoms
+* [mastodon.roflcopter.fr](https://mastodon.roflcopter.fr) - by Roflcopter, [CHATONS](https://chatons.org) member
+* [mastodon.zaclys.com](https://mastodon.zaclys.com) - by Zaclys, association francophone
+* [social.buffalomesh.net](https://social.buffalomesh.net) - by Buffalomesh, mesh network in Buffalo, NY
+* [eunivers.social](https://eunivers.social) - by Eunivers online edition
+* [libretooth.gr](https://libretooth.gr) - by LibreOps, who contribute to (re-)decentralizing the net
+
+#### :penguin: [For techies](servers-for-techies)
+* [infosec.exchange](https://infosec.exchange) - infosec and IT security discussions
+* [mastodon.technology](https://mastodon.technology) - for people interested in technology
+* [fosstodon.org](https://fosstodon.org) - dedicated to Free and Open Source Software
+* [floss.social](https://floss.social) - for people who support or build Free Libre Open Source Software
+* [miaou.drycat.fr](https://miaou.drycat.fr) - for geeks, FOSS and cat lovers, [CHATONS](https://chatons.org) member
+* [mastodon.partecipa.digital](https://mastodon.partecipa.digital) - conversations about IT, Open Source, Linux
+* [pao.moe](https://pao.moe) - cat, FOSS, nix
+* [linuxrocks.online](https://linuxrocks.online) - dedicated to Linux and technologies
+* [oldbytes.space](https://oldbytes.space) - for old hardware fans
+* [mathstodon.xyz](https://mathstodon.xyz) -  for Maths people
+* [calc.news](https://calc.news) - for the graphic calculator community, open to programmers and artists
+* [digipres.club](https://digipres.club) - conversations about digital preservation
+
+#### :computer: [Programming](instances-for-programmers)
+* [ruby.social](https://ruby.social) - for people interested in Ruby, Rails and related topics
+* [phpc.social](https://phpc.social) - PHP community
+* [functional.cafe](https://functional.cafe) - for people interested in functional programming and languages
+* [social.csswg.org](https://social.csswg.org) - for anyone interested in CSS or general web development
+
+#### :video_game: [Gamedev](#gamedev)
+* [mastodon.gamedev.place](https://mastodon.gamedev.place) - gamedev and related professions
+* [elekk.xyz](https://elekk.xyz) - by gamers, for gamers
+* [gamemaking.social](https://gamemaking.social) - amateur videogame making: game writers, game players welcome
+* [mastodon.sergal.org](https://mastodon.sergal.org) - general trends toward tech, games, and everything fluffy
+* [social.noff.co](https://social.noff.co) - for tech, gaming, and good times
+* [unityjp-mastodon.tokyo](https://unityjp-mastodon.tokyo) - Unity Japan
+* [gameliberty.club](https://gameliberty.club) - mainly gaming / nerd instance
+* [pcgamer.social](https://pcgamer.social) - by PC gamer, for PC gamers
 
 #### :red_circle: [Political and social views](#political-and-social-views)
 * [todon.nl](https://todon.nl) - for leftists, socialists, anarchists, Marxists, social democrats, social liberals
@@ -225,7 +214,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [assortedflotsam.com](https://assortedflotsam.com) - instance committed to truth in discourse
 * [mstdn.fr](https://mstdn.fr) - by sysadmins, with a goal to provide robust experience for tens of thousands of users
 * [scifi.fyi](https://scifi.fyi) - runs glitch-soc, a version of Mastodon with experimental new features
-* [mstdn.gnous.eu](https://mstdn.gnous.eu) - instance francophone
 * [social.tchncs.de](https://social.tchncs.de) - one of the oldest instances
 
 #### :smile_cat: [For people with a sense of self-irony](#for-people-with-a-sense-of-self-irony)
@@ -234,10 +222,16 @@ This list may be useful for new users who wish to choose a server by theme.
 * [dolphin.town](https://dolphin.town) - instance where you can only say the letter 'e'
 * [botsin.space](https://botsin.space) - for bots
 
-## Disclaimer
-`Following instances skipped`: closed registration *at the moment of checking*, running old code, theme / description not understood due to language barrier or scarce description, long blocklists, experimental servers.
-
-Add your own themed Mastodon instance by opening an issue or via [MR](https://gitlab.com/distributopia/masto-world-overview). If your server already has many users, it will be nice of you to let other instances grow, for a healthier decentralization.
+#### :tada: [Notable mention](#notable-mention)
+// * open only to particular audience *
+* [mastodon.mit.edu](https://mastodon.mit.edu) - for the MIT community
+* [mastodon.ocf.berkeley.edu](https://mastodon.ocf.berkeley.edu) - for Berkeley students, faculty, and staff
+* [mastodon.acc.sunet.se](https://mastodon.acc.sunet.se) - by Academic Computer Club at Umeå University, Sweden
+* [mastodon.iut-larochelle.fr](https://mastodon.iut-larochelle.fr) - by University of La Rochelle
+* [mastodon.iut-larochelle.fr](https://mastodon.redbrick.dcu.ie) - by Redbrick, Dublin City University
+* [w3c.social](https://w3c.social) - for people involved in the activities of the World Wide Web Consortium (W3C)
+* [mastodon.greenpeace.ch](https://mastodon.greenpeace.ch) - by Greenpeace Switzerland
+* [fourthestate.social](https://fourthestate.social) - international membership organization working to democratize news and journalism for the public benefit
 
 #### :x: [Closed registration / Invite only](closed-registration)
 * [naos.crypto.church](https://naos.crypto.church) - powers of cryptography and cryptanalysis
@@ -264,6 +258,12 @@ Add your own themed Mastodon instance by opening an issue or via [MR](https://gi
 * [dragon.style](https://dragon.style) - for dragons, and people who like dragons
 * [equestria.social](https://equestria.social) - for pony fans
 * [blimps.xyz](https://blimps.xyz) - for inflatable lovers and critters
+* [scholar.social](https://scholar.social) - for researchers, undergrads, journal editors, librarians, administrators
+
+## Disclaimer
+`Following instances skipped`: closed registration *at the moment of checking*, running old code, theme / description not understood due to language barrier or scarce description, long blocklists, experimental servers.
+
+Add your own themed Mastodon instance by opening an issue or via [MR](https://gitlab.com/distributopia/masto-world-overview). If your server already has many users, it will be nice of you to let other instances grow, for a healthier decentralization.
 
 ## 🌟 Other research links
 - [Friendica world overview](https://gitlab.com/distributopia/friendica-world-overview)
