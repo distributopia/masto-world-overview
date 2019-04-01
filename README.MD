@@ -198,7 +198,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [canislupus.im](https://canislupus.im)
 * [vulpine.club](https://vulpine.club) - community for foxes, friends, and other furry (and non-furry) creatures
 
-#### :paw_prints: [Subcultures](#subcultures)
+#### :footprints: [Subcultures](#subcultures)
 * [bark.house](https://bark.house) - open community of furries based in the UK
 * [this.mouse.rocks](https://this.mouse.rocks) - furry instance for all the mouse adjacent folks who rock
 
