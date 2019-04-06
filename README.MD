@@ -28,6 +28,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [oulipo.social](https://oulipo.social) - a lipogrammatic server
 * [expshift.com](https://expshift.com) - for creatives (place to share your art, music, movie reviews)
 * [www.bookbeezhive.com](https://www.bookbeezhive.com) - for authors and their readers
+* [literatur.social](https://literatur.social) - for German speaking authors and literary people
 
 #### :mortar_board: [Education](#education)
 * [tusk.schoollibraries.net](https://tusk.schoollibraries.net) - helping educators improve the School Libraries Resource Network
