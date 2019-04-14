@@ -39,6 +39,7 @@ This list may be useful for new users who wish to choose a server by theme.
 
 #### :pray: [Religion](#religion)
 * [rcsocial.net](https://rcsocial.net) - for Catholics and those interested in Catholicism
+* [monastery.social](https://monastery.social) - progressive, intentional, and contemplative Christian community
 * [ganesha.masto.host](https://ganesha.masto.host) - Dharma community (Buddhism, Yoga, Advaita, Hinduism, Tantra, Tao)
 
 #### :musical_note: [Music](#music)
@@ -184,7 +185,6 @@ This list may be useful for new users who wish to choose a server by theme.
 
 #### :rainbow: [Safe spaces](#safe-spaces)
 * [queer.party](https://queer.party) - for queer folk and non-queer folk alike
-* [queer.town](https://queer.town) - space for queer people to be positive and have fun
 * [social.wxcafe.net](https://social.wxcafe.net) - for social justice activists, LGBTQIA+ people
 * [tech.lgbt](https://tech.lgbt) - for tech workers, academics, students, and others in tech who are LGBTQA+ allies
 * [biscuit.town](https://biscuit.town) - feminist movement and queer/lgbt+
