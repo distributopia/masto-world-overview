@@ -150,6 +150,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mathstodon.xyz](https://mathstodon.xyz) -  for Maths people
 * [calc.news](https://calc.news) - for the graphic calculator community, open to programmers and artists
 * [digipres.club](https://digipres.club) - conversations about digital preservation
+* [social.privacytools.io](https://social.privacytools.io) - focused on tech and privacy related topics
 
 #### :computer: [Programming](instances-for-programmers)
 * [ruby.social](https://ruby.social) - for people interested in Ruby, Rails and related topics
@@ -176,7 +177,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [campaign.openworlds.info](https://campaign.openworlds.info) - for campaigners and NGOs
 
 #### :rabbit: [Ecology and animals](#ecology-and-animals)
-* [mastodon.latransition.org](https://mastodon.latransition.org) - francophone movement for ecological transition
 * [onerescue.org](https://onerescue.org) - for animal lovers, and dedicated to helping rescue animals in need
 * [donteatanimals.org](https://donteatanimals.org) - discussion of animal rights and veganism
 * [toot.cat](https://toot.cat) - instance for cats, the people who love them, and kindness in general
