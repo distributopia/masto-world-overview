@@ -85,6 +85,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mstdn.hu](https://mstdn.hu) - Hungary
 * [frei.social](https://frei.social) - Munich, Germany
 * [muenchen.social](https://muenchen.social) - Munich, Germany
+* [bonn.social](https://bonn.social) - Bonn, Germany
 * [mastodon.bayern](https://mastodon.bayern) - Bavaria, Germany
 * [mastodon.hamburg](https://mastodon.hamburg) - Hamburg, Germany
 * [toot.koeln](https://toot.koeln) - Koeln, Germany (generalistic)
@@ -244,7 +245,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [masto.pt](https://masto.pt) - for people speaking Portuguese
 * [the.wired.sehol.se](https://the.wired.sehol.se) - for Hungarian speakers
 * [ceilidh.space](https://ceilidh.space) - Scottish Gaelic (?)
-* [bonn.social](https://bonn.social) - Bonn, Germany
 * [toot.berlin](https://toot.berlin) - Berlin, Germany
 * [ps.s10y.eu](https://ps.s10y.eu) - like-minded people in Brussels, Belgium
 * [babelut.be](https://babelut.be) - Belgium
