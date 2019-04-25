@@ -105,7 +105,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [polska.masto.host](https://polska.masto.host) - Poland
 * [mastodon.mg](https://mastodon.mg) - Madagascar
 * [balkan.fedive.rs](https://balkan.fedive.rs) - the Balkans (generalistic)
-* [mstdn.quebec.gq](https://mstdn.quebec.gq) - Quebec, Canada
+* [mastodon.fedi.quebec](https://mastodon.fedi.quebec) - Quebec, Canada
 * [mastodon.uno](https://mastodon.uno) - Italy
 * [kazvam.com](https://kazvam.com) - Bulgaria
 * [mastodonsocial.ru](https://mastodonsocial.ru) - Russia
