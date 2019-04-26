@@ -12,18 +12,18 @@ This list may be useful for new users who wish to choose a server by theme.
 * [humanities.one](https://humanities.one) - anthropology, archaeology, the arts, history, linguistics, philosophy, and so on
 * [mastodon.art](https://mastodon.art) - for artists
 * [muses.gallery](https://muses.gallery) - community of compassionate artists, musicians, and other creatives
-* [artalley.porn](https://artalley.porn) - for artists and commissioners
-* [baraag.net](https://baraag.net) - freely share all types of art, uncensored, 18+
+* [writing.exchange](https://writing.exchange) - community for poets, writers, bloggers
 * [bookwor.ms](https://bookwor.ms) - for book-lovers
 * [wandering.shop](https://wandering.shop) - science fiction and fantasy community
+* [comicscamp.club](https://comicscamp.club) - for creators and lovers of comics and narrative art
 * [imaginair.es](https://imaginair.es) - for writers, photographers, painters, cartoonists and people with imagination
+* [artalley.porn](https://artalley.porn) - for artists and commissioners
+* [baraag.net](https://baraag.net) - freely share all types of art, uncensored, 18+
 * [social.nasqueron.org](https://social.nasqueron.org) - for creative people, writers, developers and thinkers
 * [vis.social](https://vis.social) - for anyone into data, visualization, creative coding, related arts and research
 * [photographer.pro](https://photographer.pro) - for working professional photographers to share gigs
 * [photog.social](https://photog.social) - place for your photos
-* [music.glitch.pizza](https://music.glitch.pizza)- dedicated to talking about and sharing music
 * [linernotes.club](https://linernotes.club) - for fans of recorded music
-* [ausglam.space](https://ausglam.space) - for Australian galleries, libraries, archives, museums and records people
 * [oulipo.social](https://oulipo.social) - a lipogrammatic server
 * [expshift.com](https://expshift.com) - for creatives (place to share your art, music, movie reviews)
 * [www.bookbeezhive.com](https://www.bookbeezhive.com) - for authors and their readers
@@ -57,6 +57,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [dice.camp](https://dice.camp) - for tabletop gamers
 * [mastodon.beerfactory.org](https://mastodon.beerfactory.org) - for beermakers
 * [motogp.space](https://motogp.space) - for MotoGP and motorbikes fans
+* [mastd.racing](https://mastd.racing) - dedicated to motosports
 * [cartodon.com](https://cartodon.com) - to discuss anything related to cars, racing, and car care
 * [ocr.social](https://ocr.social) - for the global Obstacle Course Running (OCR) community
 * [occult.camp](https://occult.camp) - focused on spitituality, witchcraft and various shades of woo
@@ -79,12 +80,12 @@ This list may be useful for new users who wish to choose a server by theme.
 * [fikaverse.club](https://fikaverse.club) - Swedish and other Scandinavian languages
 * [mstdn.su](https://mstdn.su) - for Russian speaking users
 * [mastodon.sk](https://mastodon.sk) - for Slovak users
+* [the.wired.sehol.se](https://the.wired.sehol.se) - for Hungarian speakers
 
 #### :tent: [Regional](#regional)
 * [mstdn.hu](https://mstdn.hu) - Hungary
 * [frei.social](https://frei.social) - Munich, Germany
 * [muenchen.social](https://muenchen.social) - Munich, Germany
-* [bonn.social](https://bonn.social) - Bonn, Germany
 * [mastodon.bayern](https://mastodon.bayern) - Bavaria, Germany
 * [mastodon.hamburg](https://mastodon.hamburg) - Hamburg, Germany
 * [toot.koeln](https://toot.koeln) - Koeln, Germany (generalistic)
@@ -92,11 +93,13 @@ This list may be useful for new users who wish to choose a server by theme.
 * [social.saarland](https://social.saarland) - Saarland, Germany
 * [dresden.network](https://dresden.network) - Dresden, Germany
 * [machteburch.social](https://machteburch.social) - Magdeburg, Germany
+* [bonn.social](https://bonn.social) - Bonn, Germany
 * [mastodon.se](https://mastodon.se) - Sweden
 * [snabelen.no](https://snabelen.no) - Norway
 * [mastodont.cat](https://mastodont.cat) - Catalonia
 * [mastodon.uy](https://mastodon.uy) - Uruguay
 * [mastodon.scot](https://mastodon.scot) - Scotland, or who identify as Scottish
+* [glasgow.social](https://glasgow.social) - Glasgow, Scotland
 * [toot.wales](https://toot.wales) - Wales and the Welsh
 * [mastodon.me.uk](https://mastodon.me.uk) - UK tech community
 * [rva.party](https://rva.party) - Richmond, USA
@@ -239,10 +242,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [naos.crypto.church](https://naos.crypto.church) - powers of cryptography and cryptanalysis
 * [bsd.network](https://bsd.network) - for *BSD users and devs
 * [mastodon.cc](https://mastodon.cc) - for art
-* [writing.exchange](https://writing.exchange) - community for poets, writers, bloggers
-* [mastd.racing](https://mastd.racing) - dedicated to motosports
 * [masto.pt](https://masto.pt) - for people speaking Portuguese
-* [the.wired.sehol.se](https://the.wired.sehol.se) - for Hungarian speakers
 * [ceilidh.space](https://ceilidh.space) - Scottish Gaelic (?)
 * [toot.berlin](https://toot.berlin) - Berlin, Germany
 * [ps.s10y.eu](https://ps.s10y.eu) - like-minded people in Brussels, Belgium
@@ -255,11 +255,10 @@ This list may be useful for new users who wish to choose a server by theme.
 * [anticapitalist.party](https://anticapitalist.party)
 * [lgbt.io](https://lgbt.io) - for LGBT+ and allies
 * [sleeping.town](https://sleeping.town) - for people who like to sleep
-* [ociety.oftrolls.com](https://society.oftrolls.com) - mild trolling encouraged, but not required
 * [dragon.style](https://dragon.style) - for dragons, and people who like dragons
 * [equestria.social](https://equestria.social) - for pony fans
-* [blimps.xyz](https://blimps.xyz) - for inflatable lovers and critters
 * [scholar.social](https://scholar.social) - for researchers, undergrads, journal editors, librarians, administrators
+* [ausglam.space](https://ausglam.space) - for Australian galleries, libraries, archives, museums and records people
 
 ## Disclaimer
 `Following instances skipped`: closed registration *at the moment of checking*, running old code, theme / description not understood due to language barrier or scarce description, long blocklists, experimental servers.
