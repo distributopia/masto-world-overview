@@ -94,6 +94,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [dresden.network](https://dresden.network) - Dresden, Germany
 * [machteburch.social](https://machteburch.social) - Magdeburg, Germany
 * [bonn.social](https://bonn.social) - Bonn, Germany
+* [muensterland.social](https://muensterland.social) - Münsterland, Germany
 * [mastodon.se](https://mastodon.se) - Sweden
 * [snabelen.no](https://snabelen.no) - Norway
 * [mastodont.cat](https://mastodont.cat) - Catalonia
