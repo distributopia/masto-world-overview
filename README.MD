@@ -187,7 +187,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [waterfowl.social](https://waterfowl.social) - for waterfowl lovers who keep ducks, geese, and other waterfowl as pets
 * [ecosteader.com](https://ecosteader.com) - for builders, designers, and innovators of green / eco-friendly habitats
 
-#### [Family / Social relations](#social)
+#### :monkey: [Family / Social relations](#social)
 * [dads.cool](https://dads.cool) - anyone with a kid can be a dad
 
 #### :rainbow: [Safe spaces](#safe-spaces)
