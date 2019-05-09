@@ -115,6 +115,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mastodonsocial.ru](https://mastodonsocial.ru) - Russia
 * [mastodos.com](https://mastodos.com) - Kyoto, Japan
 * [kopiti.am](https://kopiti.am) - Singapore
+* [mexicosocial.mx](https://mexicosocial.mx) - Mexico
 * [mastodon.opencloud.lu](https://mastodon.opencloud.lu) - Luxembourgish / European private and public organisations
 
 #### :clapper: [Game / Book / Show theme](#entertainment)
