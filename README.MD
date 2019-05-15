@@ -143,7 +143,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [eunivers.social](https://eunivers.social) - by Eunivers online edition
 * [libretooth.gr](https://libretooth.gr) - by LibreOps, who contribute to (re-)decentralizing the net
 
-#### :penguin: [For techies](servers-for-techies)
+#### :penguin: [For techies](#servers-for-techies)
 * [infosec.exchange](https://infosec.exchange) - infosec and IT security discussions
 * [mastodon.technology](https://mastodon.technology) - for people interested in technology
 * [fosstodon.org](https://fosstodon.org) - dedicated to Free and Open Source Software
@@ -158,7 +158,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [digipres.club](https://digipres.club) - conversations about digital preservation
 * [social.privacytools.io](https://social.privacytools.io) - focused on tech and privacy related topics
 
-#### :computer: [Programming](instances-for-programmers)
+#### :computer: [Programming](#instances-for-programmers)
 * [ruby.social](https://ruby.social) - for people interested in Ruby, Rails and related topics
 * [phpc.social](https://phpc.social) - PHP community
 * [functional.cafe](https://functional.cafe) - for people interested in functional programming and languages
@@ -244,7 +244,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mastodon.greenpeace.ch](https://mastodon.greenpeace.ch) - by Greenpeace Switzerland
 * [fourthestate.social](https://fourthestate.social) - international membership organization working to democratize news and journalism for the public benefit
 
-#### :x: [Closed registration / Invite only](closed-registration)
+#### :x: [Closed registration / Invite only](#closed-registration)
 * [naos.crypto.church](https://naos.crypto.church) - powers of cryptography and cryptanalysis
 * [bsd.network](https://bsd.network) - for *BSD users and devs
 * [mastodon.cc](https://mastodon.cc) - for art
