@@ -100,6 +100,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mastodont.cat](https://mastodont.cat) - Catalonia
 * [mastodon.uy](https://mastodon.uy) - Uruguay
 * [mastodon.scot](https://mastodon.scot) - Scotland, or who identify as Scottish
+* [net.scot](https://net.scot) - Scotland (experimental social network with a Scottish twist)
 * [glasgow.social](https://glasgow.social) - Glasgow, Scotland
 * [toot.wales](https://toot.wales) - Wales and the Welsh
 * [mastodon.me.uk](https://mastodon.me.uk) - UK tech community
