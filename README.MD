@@ -9,9 +9,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [qoto.org](https://qoto.org) - for scholars in Science, Technology, Engineering, and Mathematics (STEM)
 
 #### :art: [Humanities](#humanities)
-* [humanities.one](https://humanities.one) - anthropology, archaeology, the arts, history, linguistics, philosophy, and so on
 * [mastodon.art](https://mastodon.art) - for artists
-* [muses.gallery](https://muses.gallery) - community of compassionate artists, musicians, and other creatives
 * [writing.exchange](https://writing.exchange) - community for poets, writers, bloggers
 * [bookwor.ms](https://bookwor.ms) - for book-lovers
 * [wandering.shop](https://wandering.shop) - science fiction and fantasy community
@@ -25,7 +23,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [photog.social](https://photog.social) - place for your photos
 * [linernotes.club](https://linernotes.club) - for fans of recorded music
 * [oulipo.social](https://oulipo.social) - a lipogrammatic server
-* [expshift.com](https://expshift.com) - for creatives (place to share your art, music, movie reviews)
 * [www.bookbeezhive.com](https://www.bookbeezhive.com) - for authors and their readers
 * [literatur.social](https://literatur.social) - for German speaking authors and literary people
 
@@ -42,9 +39,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [ganesha.masto.host](https://ganesha.masto.host) - Dharma community (Buddhism, Yoga, Advaita, Hinduism, Tantra, Tao)
 
 #### :musical_note: [Music](#music)
-* [smusi.ch](https://smusi.ch) - for musicians, by musicians
 * [metalhead.club](https://metalhead.club) - for metal friends
-* [djs.social](https://djs.social) - by DJs for DJs
 * [koreadon.com](https://koreadon.com) - for K-POP music fans
 
 #### :telescope: [Hobbies](#hobbies)
@@ -157,6 +152,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [calc.news](https://calc.news) - for the graphic calculator community, open to programmers and artists
 * [digipres.club](https://digipres.club) - conversations about digital preservation
 * [social.privacytools.io](https://social.privacytools.io) - focused on tech and privacy related topics
+* [calculate.social](https://calculate.social) - Calculate Linux users community
 
 #### :computer: [Programming](#instances-for-programmers)
 * [ruby.social](https://ruby.social) - for people interested in Ruby, Rails and related topics
@@ -210,7 +206,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [vulpine.club](https://vulpine.club) - community for foxes, friends, and other furry (and non-furry) creatures
 
 #### :footprints: [Subcultures](#subcultures)
-* [bark.house](https://bark.house) - open community of furries based in the UK
 * [this.mouse.rocks](https://this.mouse.rocks) - furry instance for all the mouse adjacent folks who rock
 
 #### :earth_asia: [Notable generalistic](#notable-generalistic)
@@ -224,7 +219,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [ieji.de](https://ieji.de) - no logs, has Tor .onion address
 * [assortedflotsam.com](https://assortedflotsam.com) - instance committed to truth in discourse
 * [mstdn.fr](https://mstdn.fr) - by sysadmins, with a goal to provide robust experience for tens of thousands of users
-* [scifi.fyi](https://scifi.fyi) - runs glitch-soc, a version of Mastodon with experimental new features
 * [social.tchncs.de](https://social.tchncs.de) - one of the oldest instances
 
 #### :smile_cat: [For people with a sense of self-irony](#for-people-with-a-sense-of-self-irony)
@@ -257,7 +251,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [bne.social](https://bne.social) - Queensland, Australia
 * [masto.donte.com.br](https://masto.donte.com.br) - Brazil
 * [mspsocial.net](https://mspsocial.net) - Twin Cities of Minneapolis and St. Paul, Minnesota, USA
-* [insoumis.social](https://insoumis.social) - for comrades, combatants, fighters
 * [anticapitalist.party](https://anticapitalist.party)
 * [lgbt.io](https://lgbt.io) - for LGBT+ and allies
 * [sleeping.town](https://sleeping.town) - for people who like to sleep
