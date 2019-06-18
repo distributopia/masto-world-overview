@@ -45,12 +45,13 @@ This list may be useful for new users who wish to choose a server by theme.
 #### :telescope: [Hobbies](#hobbies)
 * [cruisers.social](https://cruisers.social) - for sailors, cruisers, boat owners, and anyone exploring the world's coastlines
 * [makestuff.club](https://makestuff.club) - for people that make stuff
-* [scramble.city](https://scramble.city) - Transformers, super robots, mecha and related subjects
+* [scramble.city](https://scramble.city) - transformers, super robots, mecha and related subjects
 * [mhz.social](https://mhz.social) - for radio amateurs, DXers and anyone interested to geek out about radio
 * [afu.social](https://afu.social) - for radio amateurs in German-speaking (and other) countries
 * [mastodon.radio](https://mastodon.radio) - for Amateur (Ham) Radio community
 * [dice.camp](https://dice.camp) - for tabletop gamers
 * [mastodon.beerfactory.org](https://mastodon.beerfactory.org) - for beermakers
+* [gymnastodon.com](https://gymnastodon.com) - for gymnastics fans
 * [motogp.space](https://motogp.space) - for MotoGP and motorbikes fans
 * [mastd.racing](https://mastd.racing) - dedicated to motosports
 * [cartodon.com](https://cartodon.com) - to discuss anything related to cars, racing, and car care
@@ -183,7 +184,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [donteatanimals.org](https://donteatanimals.org) - discussion of animal rights and veganism
 * [toot.cat](https://toot.cat) - instance for cats, the people who love them, and kindness in general
 * [waterfowl.social](https://waterfowl.social) - for waterfowl lovers who keep ducks, geese, and other waterfowl as pets
-* [ecosteader.com](https://ecosteader.com) - for builders, designers, and innovators of green / eco-friendly habitats
 
 #### :monkey: [Family / Social relations](#social)
 * [dads.cool](https://dads.cool) - anyone with a kid can be a dad
@@ -234,6 +234,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mastodon.acc.sunet.se](https://mastodon.acc.sunet.se) - by Academic Computer Club at Umeå University, Sweden
 * [mastodon.iut-larochelle.fr](https://mastodon.iut-larochelle.fr) - by University of La Rochelle
 * [mastodon.iut-larochelle.fr](https://mastodon.redbrick.dcu.ie) - by Redbrick, Dublin City University
+* [mastodon.utwente.nl](https://mastodon.utwente.nl) - for the University of Twente community
 * [w3c.social](https://w3c.social) - for people involved in the activities of the World Wide Web Consortium (W3C)
 * [mastodon.greenpeace.ch](https://mastodon.greenpeace.ch) - by Greenpeace Switzerland
 * [fourthestate.social](https://fourthestate.social) - international membership organization working to democratize news and journalism for the public benefit
