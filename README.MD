@@ -79,8 +79,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [the.wired.sehol.se](https://the.wired.sehol.se) - for Hungarian speakers
 
 #### :tent: [Regional](#regional)
-* [mstdn.hu](https://mstdn.hu) - Hungary
-* [frei.social](https://frei.social) - Munich, Germany
 * [muenchen.social](https://muenchen.social) - Munich, Germany
 * [mastodon.bayern](https://mastodon.bayern) - Bavaria, Germany
 * [mastodon.hamburg](https://mastodon.hamburg) - Hamburg, Germany
@@ -145,12 +143,9 @@ This list may be useful for new users who wish to choose a server by theme.
 * [fosstodon.org](https://fosstodon.org) - dedicated to Free and Open Source Software
 * [floss.social](https://floss.social) - for people who support or build Free Libre Open Source Software
 * [miaou.drycat.fr](https://miaou.drycat.fr) - for geeks, FOSS and cat lovers, [CHATONS](https://chatons.org) member
-* [mastodon.partecipa.digital](https://mastodon.partecipa.digital) - conversations about IT, Open Source, Linux
-* [pao.moe](https://pao.moe) - cat, FOSS, nix
 * [linuxrocks.online](https://linuxrocks.online) - dedicated to Linux and technologies
 * [oldbytes.space](https://oldbytes.space) - for old hardware fans
 * [mathstodon.xyz](https://mathstodon.xyz) -  for Maths people
-* [calc.news](https://calc.news) - for the graphic calculator community, open to programmers and artists
 * [digipres.club](https://digipres.club) - conversations about digital preservation
 * [social.privacytools.io](https://social.privacytools.io) - focused on tech and privacy related topics
 * [calculate.social](https://calculate.social) - Calculate Linux users community
@@ -245,7 +240,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mastodon.cc](https://mastodon.cc) - for art
 * [masto.pt](https://masto.pt) - for people speaking Portuguese
 * [ceilidh.space](https://ceilidh.space) - Scottish Gaelic (?)
-* [toot.berlin](https://toot.berlin) - Berlin, Germany
 * [ps.s10y.eu](https://ps.s10y.eu) - like-minded people in Brussels, Belgium
 * [babelut.be](https://babelut.be) - Belgium
 * [occitanie.social](https://occitanie.social) - Occitania
