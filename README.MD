@@ -10,6 +10,7 @@ This list may be useful for new users who wish to choose a server by theme.
 
 #### :art: [Humanities](#humanities)
 * [mastodon.art](https://mastodon.art) - for artists
+* [raconteur.ink](https://raconteur.ink) - creative instance for all creative disciplines
 * [writing.exchange](https://writing.exchange) - community for poets, writers, bloggers
 * [bookwor.ms](https://bookwor.ms) - for book-lovers
 * [wandering.shop](https://wandering.shop) - science fiction and fantasy community
@@ -101,6 +102,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [rva.party](https://rva.party) - Richmond, USA
 * [txsocial.club](https://txsocial.club) - Texas, USA
 * [southflorida.social](https://southflorida.social) - South Florida, USA
+* [kcmo.social](https://kcmo.social) - Kansas City area, USA
 * [polska.masto.host](https://polska.masto.host) - Poland
 * [mastodon.mg](https://mastodon.mg) - Madagascar
 * [balkan.fedive.rs](https://balkan.fedive.rs) - the Balkans (generalistic)
