@@ -112,6 +112,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [kopiti.am](https://kopiti.am) - Singapore
 * [mexicosocial.mx](https://mexicosocial.mx) - Mexico
 * [mastodon.opencloud.lu](https://mastodon.opencloud.lu) - Luxembourgish / European private and public organisations
+* [mastodon.uno](https://mastodon.uno]) - Italy
 
 #### :clapper: [Game / Book / Show theme](#entertainment)
 * [tenforward.social](https://tenforward.social) - theme Star Trek
