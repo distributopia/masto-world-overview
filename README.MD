@@ -31,9 +31,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [tusk.schoollibraries.net](https://tusk.schoollibraries.net) - helping educators improve the School Libraries Resource Network
 * [openbiblio.social](https://openbiblio.social) - German libraries and information facilities
 
-#### :briefcase: [Law](#law)
-* [legal.social](https://legal.social) - instance for legal debate
-
 #### :pray: [Religion](#religion)
 * [rcsocial.net](https://rcsocial.net) - for Catholics and those interested in Catholicism
 * [monastery.social](https://monastery.social) - progressive, intentional, and contemplative Christian community
@@ -60,12 +57,12 @@ This list may be useful for new users who wish to choose a server by theme.
 * [occult.camp](https://occult.camp) - focused on spitituality, witchcraft and various shades of woo
 * [witchcraft.cafe](https://witchcraft.cafe) - for witches
 * [witches.live](https://witches.live) - for witches
-* [travel-friends.chat](https://travel-friends.chat) - for people who like to travel
 * [worldtravel.photos](https://worldtravel.photos) - social space for travel
 * [mmorpg.social](https://mmorpg.social) - for those who love MMOs
 * [walkers.social](https://walkers.social) - for those who like walking, trekking, hiking, camping, climbing, and other outdoor adventuring
 * [kith.kitchen](https://kith.kitchen) - centered around food, cooking
 * [about-bitcoin.com](https://about-bitcoin.com) - anything related to bitcoin and other crypto-currencies
+* [animeworld.io](https://animeworld.io) - for fans of anime and Otaku culture
 
 #### :flags: [Language specific](#languages)
 * [polyglot.city](https://polyglot.city) - for polyglots, multilinguals, interested in languages and translating
@@ -124,7 +121,6 @@ This list may be useful for new users who wish to choose a server by theme.
 
 #### :shell: [Run by tech-savvy organizations](#run-by-tech-savvy-organizations)
 * [en.osm.town](https://en.osm.town) - for the OpenStreetMap Community
-* [fr.osm.social](https://fr.osm.social) - for francophone OpenStreetMap Community
 * [chaos.social](https://chaos.social) - CCC related
 * [framapiaf.org](https://framapiaf.org) - by [Framasoft](https://framasoft.org)
 * [mastodon.dotopia.dk](https://mastodon.dotopia.dk) - by DO:TOPIA, Denmark based tech activism collective
