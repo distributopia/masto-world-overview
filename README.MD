@@ -22,7 +22,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [vis.social](https://vis.social) - for anyone into data, visualization, creative coding, related arts and research
 * [photographer.pro](https://photographer.pro) - for working professional photographers to share gigs
 * [photog.social](https://photog.social) - place for your photos
-* [linernotes.club](https://linernotes.club) - for fans of recorded music
 * [oulipo.social](https://oulipo.social) - a lipogrammatic server
 * [www.bookbeezhive.com](https://www.bookbeezhive.com) - for authors and their readers
 * [literatur.social](https://literatur.social) - for German speaking authors and literary people
@@ -39,6 +38,8 @@ This list may be useful for new users who wish to choose a server by theme.
 #### :musical_note: [Music](#music)
 * [metalhead.club](https://metalhead.club) - for metal friends
 * [koreadon.com](https://koreadon.com) - for K-POP music fans
+* [linernotes.club](https://linernotes.club) - for fans of recorded music
+* [diymusic.space](https://linernotes.club) - for those who make music
 
 #### :telescope: [Hobbies](#hobbies)
 * [cruisers.social](https://cruisers.social) - for sailors, cruisers, boat owners, and anyone exploring the world's coastlines
@@ -118,23 +119,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [irakiratter.com](https://kirakiratter.com) - for Aikatsu fans
 * [donphan.social](https://donphan.social) - for Pokémon enthusiasts
 * [cmdr.social](https://cmdr.social) - dedicated to Elite: Dangerous
-
-#### :shell: [Run by tech-savvy organizations](#run-by-tech-savvy-organizations)
-* [en.osm.town](https://en.osm.town) - for the OpenStreetMap Community
-* [chaos.social](https://chaos.social) - CCC related
-* [framapiaf.org](https://framapiaf.org) - by [Framasoft](https://framasoft.org)
-* [mastodon.dotopia.dk](https://mastodon.dotopia.dk) - by DO:TOPIA, Denmark based tech activism collective
-* [mastodon.hackerlab.fr](https://mastodon.hackerlab.fr) - by Hackerlab
-* [mi.pede.rs](https://mi.pede.rs) - by Hacklab-in-Mama hackerspace, Zagreb
-* [social.weho.st](https://social.weho.st) - by WeHost, non-profit internet service provider, Amsterdam
-* [m.g3l.org](https://m.g3l.org) - by G3L, libre software association
-* [mastodon.nzoss.nz](https://mastodon.nzoss.nz) - by New Zealand Open Source Society
-* [mamot.fr](https://mamot.fr) - by Quadrature du Net, association for the defence of digital rights and freedoms
-* [mastodon.roflcopter.fr](https://mastodon.roflcopter.fr) - by Roflcopter, [CHATONS](https://chatons.org) member
-* [mastodon.zaclys.com](https://mastodon.zaclys.com) - by Zaclys, association francophone
-* [social.buffalomesh.net](https://social.buffalomesh.net) - by Buffalomesh, mesh network in Buffalo, NY
-* [eunivers.social](https://eunivers.social) - by Eunivers online edition
-* [libretooth.gr](https://libretooth.gr) - by LibreOps, who contribute to (re-)decentralizing the net
 
 #### :penguin: [For techies](#servers-for-techies)
 * [infosec.exchange](https://infosec.exchange) - infosec and IT security discussions
@@ -220,6 +204,24 @@ This list may be useful for new users who wish to choose a server by theme.
 * [ephemeral.glitch.social](https://ephemeral.glitch.social) - toots are ephemeral and disappear after a while
 * [dolphin.town](https://dolphin.town) - instance where you can only say the letter 'e'
 * [botsin.space](https://botsin.space) - for bots
+
+#### :shell: [Run by tech-savvy organizations](#run-by-tech-savvy-organizations)
+* [en.osm.town](https://en.osm.town) - for the OpenStreetMap Community
+* [chaos.social](https://chaos.social) - CCC related
+* [framapiaf.org](https://framapiaf.org) - by [Framasoft](https://framasoft.org)
+* [mastodon.dotopia.dk](https://mastodon.dotopia.dk) - by DO:TOPIA, Denmark based tech activism collective
+* [mastodon.hackerlab.fr](https://mastodon.hackerlab.fr) - by Hackerlab
+* [mi.pede.rs](https://mi.pede.rs) - by Hacklab-in-Mama hackerspace, Zagreb
+* [social.weho.st](https://social.weho.st) - by WeHost, non-profit internet service provider, Amsterdam
+* [m.g3l.org](https://m.g3l.org) - by G3L, libre software association
+* [mastodon.nzoss.nz](https://mastodon.nzoss.nz) - by New Zealand Open Source Society
+* [mamot.fr](https://mamot.fr) - by Quadrature du Net, association for the defence of digital rights and freedoms
+* [mastodon.roflcopter.fr](https://mastodon.roflcopter.fr) - by Roflcopter, [CHATONS](https://chatons.org) member
+* [mastodon.zaclys.com](https://mastodon.zaclys.com) - by Zaclys, association francophone
+* [social.buffalomesh.net](https://social.buffalomesh.net) - by Buffalomesh, mesh network in Buffalo, NY
+* [eunivers.social](https://eunivers.social) - by Eunivers online edition
+* [libretooth.gr](https://libretooth.gr) - by LibreOps, who contribute to (re-)decentralizing the net
+* [digitalcourage.social](https://digitalcourage.social) - by DigitalCourage organization
 
 #### :tada: [Notable mention](#notable-mention)
 // * open only to particular audience *
