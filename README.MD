@@ -176,6 +176,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [colorid.es](https://colorid.es)- LGBTQIA+ / queer instance primarily for Portuguese speakers
 * [pipou.academy](https://pipou.academy) - emphasis on kindness
 * [notbird.site](https://notbird.site)
+* [spinster.xyz](https://spinster.xyz) - designed as a safe space for feminists and women's rights advocates
 
 #### :alien: [Fandoms](#fandoms)
 * [fandom.ink](https://fandom.ink) - for fans and fandoms of all types
