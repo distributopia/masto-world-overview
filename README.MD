@@ -25,6 +25,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [oulipo.social](https://oulipo.social) - a lipogrammatic server
 * [www.bookbeezhive.com](https://www.bookbeezhive.com) - for authors and their readers
 * [literatur.social](https://literatur.social) - for German speaking authors and literary people
+* [photodon.org](https://photodon.org) - discover amazing photographers and share your own photos
 
 #### :mortar_board: [Education](#education)
 * [tusk.schoollibraries.net](https://tusk.schoollibraries.net) - helping educators improve the School Libraries Resource Network
@@ -113,6 +114,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mexicosocial.mx](https://mexicosocial.mx) - Mexico
 * [mastodon.opencloud.lu](https://mastodon.opencloud.lu) - Luxembourgish / European private and public organisations
 * [mastodon.uno](https://mastodon.uno]) - Italy
+* [bagra.club](https://bagra.club) - Macedonia
 
 #### :clapper: [Game / Book / Show theme](#entertainment)
 * [tenforward.social](https://tenforward.social) - theme Star Trek
@@ -165,6 +167,7 @@ This list may be useful for new users who wish to choose a server by theme.
 
 #### :monkey: [Family / Social relations](#social)
 * [dads.cool](https://dads.cool) - anyone with a kid can be a dad
+* [cooler.mom](https://cooler.mom) - anyone with a kid can be a mom
 
 #### :rainbow: [Safe spaces](#safe-spaces)
 * [queer.party](https://queer.party) - for queer folk and non-queer folk alike
