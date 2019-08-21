@@ -10,7 +10,6 @@ This list may be useful for new users who wish to choose a server by theme.
 
 #### :art: [Humanities](#humanities)
 * [mastodon.art](https://mastodon.art) - for artists
-* [raconteur.ink](https://raconteur.ink) - creative instance for all creative disciplines
 * [writing.exchange](https://writing.exchange) - community for poets, writers, bloggers
 * [bookwor.ms](https://bookwor.ms) - for book-lovers
 * [wandering.shop](https://wandering.shop) - science fiction and fantasy community
@@ -18,12 +17,10 @@ This list may be useful for new users who wish to choose a server by theme.
 * [imaginair.es](https://imaginair.es) - for writers, photographers, painters, cartoonists and people with imagination
 * [artalley.porn](https://artalley.porn) - for artists and commissioners
 * [baraag.net](https://baraag.net) - freely share all types of art, uncensored, 18+
-* [social.nasqueron.org](https://social.nasqueron.org) - for creative people, writers, developers and thinkers
 * [vis.social](https://vis.social) - for anyone into data, visualization, creative coding, related arts and research
 * [photographer.pro](https://photographer.pro) - for working professional photographers to share gigs
 * [photog.social](https://photog.social) - place for your photos
 * [oulipo.social](https://oulipo.social) - a lipogrammatic server
-* [www.bookbeezhive.com](https://www.bookbeezhive.com) - for authors and their readers
 * [literatur.social](https://literatur.social) - for German speaking authors and literary people
 * [photodon.org](https://photodon.org) - discover amazing photographers and share your own photos
 
@@ -59,12 +56,10 @@ This list may be useful for new users who wish to choose a server by theme.
 * [occult.camp](https://occult.camp) - focused on spitituality, witchcraft and various shades of woo
 * [witchcraft.cafe](https://witchcraft.cafe) - for witches
 * [witches.live](https://witches.live) - for witches
-* [worldtravel.photos](https://worldtravel.photos) - social space for travel
 * [mmorpg.social](https://mmorpg.social) - for those who love MMOs
 * [walkers.social](https://walkers.social) - for those who like walking, trekking, hiking, camping, climbing, and other outdoor adventuring
 * [kith.kitchen](https://kith.kitchen) - centered around food, cooking
 * [about-bitcoin.com](https://about-bitcoin.com) - anything related to bitcoin and other crypto-currencies
-* [animeworld.io](https://animeworld.io) - for fans of anime and Otaku culture
 
 #### :flags: [Language specific](#languages)
 * [polyglot.city](https://polyglot.city) - for polyglots, multilinguals, interested in languages and translating
@@ -74,7 +69,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [toot.si](https://toot.si) - Slovenian (multilingual) instance
 * [mastodontti.fi](https://mastodontti.fi) - Finnish (public toots should be in Finnish)
 * [fikaverse.club](https://fikaverse.club) - Swedish and other Scandinavian languages
-* [mstdn.su](https://mstdn.su) - for Russian speaking users
 * [mastodon.sk](https://mastodon.sk) - for Slovak users
 * [the.wired.sehol.se](https://the.wired.sehol.se) - for Hungarian speakers
 
@@ -88,7 +82,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [dresden.network](https://dresden.network) - Dresden, Germany
 * [machteburch.social](https://machteburch.social) - Magdeburg, Germany
 * [bonn.social](https://bonn.social) - Bonn, Germany
-* [muensterland.social](https://muensterland.social) - Münsterland, Germany
 * [mastodon.se](https://mastodon.se) - Sweden
 * [snabelen.no](https://snabelen.no) - Norway
 * [mastodont.cat](https://mastodont.cat) - Catalonia
@@ -99,14 +92,11 @@ This list may be useful for new users who wish to choose a server by theme.
 * [toot.wales](https://toot.wales) - Wales and the Welsh
 * [mastodon.me.uk](https://mastodon.me.uk) - UK tech community
 * [rva.party](https://rva.party) - Richmond, USA
-* [txsocial.club](https://txsocial.club) - Texas, USA
 * [southflorida.social](https://southflorida.social) - South Florida, USA
 * [kcmo.social](https://kcmo.social) - Kansas City area, USA
-* [polska.masto.host](https://polska.masto.host) - Poland
 * [mastodon.mg](https://mastodon.mg) - Madagascar
 * [balkan.fedive.rs](https://balkan.fedive.rs) - the Balkans (generalistic)
 * [mastodon.fedi.quebec](https://mastodon.fedi.quebec) - Quebec, Canada
-* [mastodon.uno](https://mastodon.uno) - Italy
 * [kazvam.com](https://kazvam.com) - Bulgaria
 * [mastodonsocial.ru](https://mastodonsocial.ru) - Russia
 * [mastodos.com](https://mastodos.com) - Kyoto, Japan
@@ -147,7 +137,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [gamemaking.social](https://gamemaking.social) - amateur videogame making: game writers, game players welcome
 * [mastodon.sergal.org](https://mastodon.sergal.org) - general trends toward tech, games, and everything fluffy
 * [social.noff.co](https://social.noff.co) - for tech, gaming, and good times
-* [unityjp-mastodon.tokyo](https://unityjp-mastodon.tokyo) - Unity Japan
 * [gameliberty.club](https://gameliberty.club) - mainly gaming / nerd instance
 * [pcgamer.social](https://pcgamer.social) - by PC gamer, for PC gamers
 
@@ -212,7 +201,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [en.osm.town](https://en.osm.town) - for the OpenStreetMap Community
 * [chaos.social](https://chaos.social) - CCC related
 * [framapiaf.org](https://framapiaf.org) - by [Framasoft](https://framasoft.org)
-* [mastodon.dotopia.dk](https://mastodon.dotopia.dk) - by DO:TOPIA, Denmark based tech activism collective
 * [mastodon.hackerlab.fr](https://mastodon.hackerlab.fr) - by Hackerlab
 * [mi.pede.rs](https://mi.pede.rs) - by Hacklab-in-Mama hackerspace, Zagreb
 * [social.weho.st](https://social.weho.st) - by WeHost, non-profit internet service provider, Amsterdam
@@ -224,7 +212,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [social.buffalomesh.net](https://social.buffalomesh.net) - by Buffalomesh, mesh network in Buffalo, NY
 * [eunivers.social](https://eunivers.social) - by Eunivers online edition
 * [libretooth.gr](https://libretooth.gr) - by LibreOps, who contribute to (re-)decentralizing the net
-* [digitalcourage.social](https://digitalcourage.social) - by DigitalCourage organization
+* [digitalcourage.social](https://digitalcourage.social) - by DigitalCourage
 
 #### :tada: [Notable mention](#notable-mention)
 // * open only to particular audience *
