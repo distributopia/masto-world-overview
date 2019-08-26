@@ -60,7 +60,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [walkers.social](https://walkers.social) - for those who like walking, trekking, hiking, camping, climbing, and other outdoor adventuring
 * [kith.kitchen](https://kith.kitchen) - centered around food, cooking
 * [about-bitcoin.com](https://about-bitcoin.com) - anything related to bitcoin and other crypto-currencies
-* [rollenspiel.social](https://rollenspiel.social) - German; Roleplay, Pen & Paper, Tabletop, TCG and much more. Of course all other gamers can also settle here. 
+* [rollenspiel.social](https://rollenspiel.social) - (German) roleplay, Pen & Paper, tabletop, TCG and much more, all gamers can settle here
 
 #### :flags: [Language specific](#languages)
 * [polyglot.city](https://polyglot.city) - for polyglots, multilinguals, interested in languages and translating
@@ -125,6 +125,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [digipres.club](https://digipres.club) - conversations about digital preservation
 * [social.privacytools.io](https://social.privacytools.io) - focused on tech and privacy related topics
 * [calculate.social](https://calculate.social) - Calculate Linux users community
+* [ubuntu.social](https://ubuntu.social) - Ubuntu community
 
 #### :computer: [Programming](#instances-for-programmers)
 * [ruby.social](https://ruby.social) - for people interested in Ruby, Rails and related topics
