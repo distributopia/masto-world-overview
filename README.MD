@@ -32,6 +32,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [rcsocial.net](https://rcsocial.net) - for Catholics and those interested in Catholicism
 * [monastery.social](https://monastery.social) - progressive, intentional, and contemplative Christian community
 * [ganesha.masto.host](https://ganesha.masto.host) - Dharma community (Buddhism, Yoga, Advaita, Hinduism, Tantra, Tao)
+* [theres.life](https://theres.life) - for Christians
 
 #### :musical_note: [Music](#music)
 * [metalhead.club](https://metalhead.club) - for metal friends
@@ -99,7 +100,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [balkan.fedive.rs](https://balkan.fedive.rs) - the Balkans (generalistic)
 * [mastodon.fedi.quebec](https://mastodon.fedi.quebec) - Quebec, Canada
 * [kazvam.com](https://kazvam.com) - Bulgaria
-* [mastodonsocial.ru](https://mastodonsocial.ru) - Russia
+* [mastodon.ml](https://mastodon.ml) - Russia
 * [mastodos.com](https://mastodos.com) - Kyoto, Japan
 * [kopiti.am](https://kopiti.am) - Singapore
 * [mexicosocial.mx](https://mexicosocial.mx) - Mexico
