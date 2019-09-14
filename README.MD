@@ -31,7 +31,6 @@ This list may be useful for new users who wish to choose a server by theme.
 #### :pray: [Religion](#religion)
 * [rcsocial.net](https://rcsocial.net) - for Catholics and those interested in Catholicism
 * [monastery.social](https://monastery.social) - progressive, intentional, and contemplative Christian community
-* [ganesha.masto.host](https://ganesha.masto.host) - Dharma community (Buddhism, Yoga, Advaita, Hinduism, Tantra, Tao)
 * [theres.life](https://theres.life) - for Christians
 
 #### :musical_note: [Music](#music)
@@ -84,7 +83,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [dresden.network](https://dresden.network) - Dresden, Germany
 * [machteburch.social](https://machteburch.social) - Magdeburg, Germany
 * [bonn.social](https://bonn.social) - Bonn, Germany
-* [mastodon.se](https://mastodon.se) - Sweden
 * [snabelen.no](https://snabelen.no) - Norway
 * [mastodont.cat](https://mastodont.cat) - Catalonia
 * [mastodon.uy](https://mastodon.uy) - Uruguay
@@ -105,7 +103,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [kopiti.am](https://kopiti.am) - Singapore
 * [mexicosocial.mx](https://mexicosocial.mx) - Mexico
 * [mastodon.opencloud.lu](https://mastodon.opencloud.lu) - Luxembourgish / European private and public organisations
-* [mastodon.uno](https://mastodon.uno]) - Italy
 * [bagra.club](https://bagra.club) - Macedonia
 
 #### :clapper: [Game / Book / Show theme](#entertainment)
@@ -162,7 +159,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [cooler.mom](https://cooler.mom) - anyone with a kid can be a mom
 
 #### :rainbow: [Safe spaces](#safe-spaces)
-* [queer.party](https://queer.party) - for queer folk and non-queer folk alike
 * [social.wxcafe.net](https://social.wxcafe.net) - for social justice activists, LGBTQIA+ people
 * [tech.lgbt](https://tech.lgbt) - for tech workers, academics, students, and others in tech who are LGBTQA+ allies
 * [biscuit.town](https://biscuit.town) - feminist movement and queer/lgbt+
@@ -238,7 +234,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [ps.s10y.eu](https://ps.s10y.eu) - like-minded people in Brussels, Belgium
 * [babelut.be](https://babelut.be) - Belgium
 * [occitanie.social](https://occitanie.social) - Occitania
-* [bne.social](https://bne.social) - Queensland, Australia
 * [masto.donte.com.br](https://masto.donte.com.br) - Brazil
 * [mspsocial.net](https://mspsocial.net) - Twin Cities of Minneapolis and St. Paul, Minnesota, USA
 * [anticapitalist.party](https://anticapitalist.party)
