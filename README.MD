@@ -119,11 +119,12 @@ This list may be useful for new users who wish to choose a server by theme.
 * [miaou.drycat.fr](https://miaou.drycat.fr) - for geeks, FOSS and cat lovers, [CHATONS](https://chatons.org) member
 * [linuxrocks.online](https://linuxrocks.online) - dedicated to Linux and technologies
 * [oldbytes.space](https://oldbytes.space) - for old hardware fans
-* [mathstodon.xyz](https://mathstodon.xyz) -  for Maths people
+* [mathstodon.xyz](https://mathstodon.xyz) - for Maths people
 * [digipres.club](https://digipres.club) - conversations about digital preservation
 * [social.privacytools.io](https://social.privacytools.io) - focused on tech and privacy related topics
 * [calculate.social](https://calculate.social) - Calculate Linux users community
 * [ubuntu.social](https://ubuntu.social) - Ubuntu community
+* [indieweb.social](https://indieweb.social) - for participants and supporters of the IndieWeb movement
 
 #### :computer: [Programming](#instances-for-programmers)
 * [ruby.social](https://ruby.social) - for people interested in Ruby, Rails and related topics
@@ -170,12 +171,11 @@ This list may be useful for new users who wish to choose a server by theme.
 
 #### :alien: [Fandoms](#fandoms)
 * [fandom.ink](https://fandom.ink) - for fans and fandoms of all types
-* [monsterpit.net](https://monsterpit.net) - for monsters, strange creatures, and those who love them
-* [canislupus.im](https://canislupus.im)
-* [vulpine.club](https://vulpine.club) - community for foxes, friends, and other furry (and non-furry) creatures
 
 #### :footprints: [Subcultures](#subcultures)
+* [yarr.io](https://yarr.io) - for pirates
 * [this.mouse.rocks](https://this.mouse.rocks) - furry instance for all the mouse adjacent folks who rock
+* [vulpine.club](https://vulpine.club) - community for foxes, friends, and other furry (and non-furry) creatures
 
 #### :earth_asia: [Notable generalistic](#notable-generalistic)
 // *small-to-medium sized instances that will be happy to have new users*
