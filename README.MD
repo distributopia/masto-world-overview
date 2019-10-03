@@ -199,7 +199,7 @@ This list may be useful for new users who wish to choose a server by theme.
 #### :shell: [Run by tech-savvy organizations](#run-by-tech-savvy-organizations)
 * [en.osm.town](https://en.osm.town) - for the OpenStreetMap Community
 * [chaos.social](https://chaos.social) - CCC related
-* [framapiaf.org](https://framapiaf.org) - by [Framasoft](https://framasoft.org)
+* [framapiaf.org](https://framapiaf.org) - by [Framasoft](https://framasoft.org) ([Shutdown planned](https://framablog.org/2019/09/26/lets-de-frama-tify-the-internet/))
 * [mastodon.hackerlab.fr](https://mastodon.hackerlab.fr) - by Hackerlab
 * [mi.pede.rs](https://mi.pede.rs) - by Hacklab-in-Mama hackerspace, Zagreb
 * [social.weho.st](https://social.weho.st) - by WeHost, non-profit internet service provider, Amsterdam
