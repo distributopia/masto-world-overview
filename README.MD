@@ -198,7 +198,6 @@ This list may be useful for new users who wish to choose a server by theme.
 
 #### :shell: [Run by tech-savvy organizations](#run-by-tech-savvy-organizations)
 * [en.osm.town](https://en.osm.town) - for the OpenStreetMap Community
-* [chaos.social](https://chaos.social) - CCC related
 * [framapiaf.org](https://framapiaf.org) - by [Framasoft](https://framasoft.org) ([Shutdown planned](https://framablog.org/2019/09/26/lets-de-frama-tify-the-internet/))
 * [mastodon.hackerlab.fr](https://mastodon.hackerlab.fr) - by Hackerlab
 * [mi.pede.rs](https://mi.pede.rs) - by Hacklab-in-Mama hackerspace, Zagreb
@@ -243,6 +242,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [equestria.social](https://equestria.social) - for pony fans
 * [scholar.social](https://scholar.social) - for researchers, undergrads, journal editors, librarians, administrators
 * [ausglam.space](https://ausglam.space) - for Australian galleries, libraries, archives, museums and records people
+* [chaos.social](https://chaos.social) - CCC related
 
 ## Disclaimer
 `Following instances skipped`: closed registration *at the moment of checking*, running old code, theme / description not understood due to language barrier or scarce description, long blocklists, experimental servers.
