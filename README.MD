@@ -72,6 +72,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [fikaverse.club](https://fikaverse.club) - Swedish and other Scandinavian languages
 * [mastodon.sk](https://mastodon.sk) - for Slovak users
 * [the.wired.sehol.se](https://the.wired.sehol.se) - for Hungarian speakers
+* [mastodon.uno](https://mastodon.uno]) - for Italian speakers
 
 #### :tent: [Regional](#regional)
 * [muenchen.social](https://muenchen.social) - Munich, Germany
@@ -105,7 +106,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mexicosocial.mx](https://mexicosocial.mx) - Mexico
 * [mastodon.opencloud.lu](https://mastodon.opencloud.lu) - Luxembourgish / European private and public organisations
 * [bagra.club](https://bagra.club) - Macedonia
-* [mastodon.uno](https://mastodon.uno]) - Italy
 * [bologna.one](https://bologna.one) - Italy
 
 #### :clapper: [Game / Book / Show theme](#entertainment)
