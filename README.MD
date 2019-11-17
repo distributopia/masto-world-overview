@@ -46,12 +46,11 @@ This list may be useful for new users who wish to choose a server by theme.
 * [afu.social](https://afu.social) - for radio amateurs in German-speaking countries
 * [mastodon.radio](https://mastodon.radio) - for Amateur (Ham) Radio community
 * [dice.camp](https://dice.camp) - for tabletop gamers
+* [boardgames.social](https://boardgames.social) - for board gamers
 * [mastodon.beerfactory.org](https://mastodon.beerfactory.org) - for beermakers
-* [gymnastodon.com](https://gymnastodon.com) - for gymnastics fans
 * [motogp.space](https://motogp.space) - for MotoGP and motorbikes fans
 * [mastd.racing](https://mastd.racing) - dedicated to motosports
 * [ocr.social](https://ocr.social) - for the global Obstacle Course Running (OCR) community
-* [occult.camp](https://occult.camp) - focused on spitituality, witchcraft and various shades of woo
 * [witches.live](https://witches.live) - for witches
 * [mmorpg.social](https://mmorpg.social) - for those who love MMOs
 * [kith.kitchen](https://kith.kitchen) - food and cooking
@@ -66,7 +65,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [fikaverse.club](https://fikaverse.club) - Swedish and other Scandinavian languages
 * [mastodon.sk](https://mastodon.sk) - for Slovak users
 * [the.wired.sehol.se](https://the.wired.sehol.se) - for Hungarian speakers
-* [mastodon.uno](https://mastodon.uno]) - for Italian speakers
+* [mastodon.uno](https://mastodon.uno) - for Italian speakers
 
 #### :tent: [Regional](#regional)
 * [muenchen.social](https://muenchen.social) - Munich, Germany
@@ -99,7 +98,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [bologna.one](https://bologna.one) - Italy
 * [tamilsangam.social](https://tamilsangam.social) - India
 * [tamiltoot.online](https://tamiltoot.online) - India
-* [tamilsocial.org](https://tamilsocial.org) - India
 
 #### :clapper: [Game / Book / Show theme](#entertainment)
 * [tenforward.social](https://tenforward.social) - theme Star Trek
@@ -214,3 +212,4 @@ Add your own themed Mastodon instance by opening an issue or via [MR](https://gi
 - [Friendica world overview](https://gitlab.com/distributopia/friendica-world-overview)
 - [Fediverse pirate representatives](https://gitlab.com/distributopia/caramba)
 - [Mastodon server distribution](https://chaos.social/@leah/99837391793032137) research by Leah
+- [Fediverse server distribution](https://fediverse.network/servers) by href
