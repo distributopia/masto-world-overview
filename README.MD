@@ -54,7 +54,8 @@ This list may be useful for new users who wish to choose a server by theme.
 * [witches.live](https://witches.live) - for witches
 * [mmorpg.social](https://mmorpg.social) - for those who love MMOs
 * [kith.kitchen](https://kith.kitchen) - food and cooking
-* [rollenspiel.social](https://rollenspiel.social) - (German) roleplay, Pen & Paper, tabletop, TCG, all gamers can settle here
+* [rollenspiel.social](https://rollenspiel.social) - (German) roleplay, Pen & Paper, tabletop, TCG, for all gamers
+* [wrestlr.social](https://wrestlr.social) - for fans of wrestling
 
 #### :flags: [Language specific](#languages)
 * [polyglot.city](https://polyglot.city) - for polyglots, multilinguals, interested in languages and translating
@@ -86,6 +87,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [toot.wales](https://toot.wales) - Wales and the Welsh
 * [mastodon.me.uk](https://mastodon.me.uk) - UK tech community
 * [rva.party](https://rva.party) - Richmond, USA
+* [triangletoot.party ](https://triangletoot.party) - the Triangle region of North Carolina, USA
 * [mastodon.mg](https://mastodon.mg) - Madagascar
 * [balkan.fedive.rs](https://balkan.fedive.rs) - the Balkans (generalistic)
 * [mastodon.fedi.quebec](https://mastodon.fedi.quebec) - Quebec, Canada
@@ -98,6 +100,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [bologna.one](https://bologna.one) - Italy
 * [tamilsangam.social](https://tamilsangam.social) - India
 * [tamiltoot.online](https://tamiltoot.online) - India
+* [tamilsocial.org](https://tamilsocial.org) - India
 
 #### :clapper: [Game / Book / Show theme](#entertainment)
 * [tenforward.social](https://tenforward.social) - theme Star Trek
@@ -117,10 +120,12 @@ This list may be useful for new users who wish to choose a server by theme.
 * [digipres.club](https://digipres.club) - conversations about digital preservation
 * [ubuntu.social](https://ubuntu.social) - Ubuntu community
 * [indieweb.social](https://indieweb.social) - for participants and supporters of the IndieWeb movement
+* [osrc.pw](https://osrc.pw) - for people interested in open-source software, free web
 
 #### :computer: [Programming](#instances-for-programmers)
 * [ruby.social](https://ruby.social) - for people interested in Ruby, Rails and related topics
 * [phpc.social](https://phpc.social) - PHP community
+* [pyyython.org](https://pyyython.org) - pythonic instance
 * [functional.cafe](https://functional.cafe) - for people interested in functional programming and languages
 * [social.csswg.org](https://social.csswg.org) - for anyone interested in CSS or general web development
 
