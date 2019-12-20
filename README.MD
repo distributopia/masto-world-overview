@@ -77,6 +77,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [dresden.network](https://dresden.network) - Dresden, Germany
 * [machteburch.social](https://machteburch.social) - Magdeburg, Germany
 * [bonn.social](https://bonn.social) - Bonn, Germany
+* [darmstadt.social](https://darmstadt.social) - Darmstadt, Germany
 * [oslo.town](https://oslo.town) - Oslo, Norway
 * [snabelen.no](https://snabelen.no) - Norway
 * [mastodont.cat](https://mastodont.cat) - Catalonia
@@ -96,10 +97,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [kopiti.am](https://kopiti.am) - Singapore
 * [mexicosocial.mx](https://mexicosocial.mx) - Mexico
 * [mastodon.opencloud.lu](https://mastodon.opencloud.lu) - Luxembourgish / European private and public organisations
-* [bagra.club](https://bagra.club) - Macedonia
 * [bologna.one](https://bologna.one) - Italy
-* [tamilsangam.social](https://tamilsangam.social) - India
-* [tamiltoot.online](https://tamiltoot.online) - India
 * [tamilsocial.org](https://tamilsocial.org) - India
 
 #### :clapper: [Game / Book / Show theme](#entertainment)
@@ -179,7 +177,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [nulled.red](https://nulled.red) - refuses to block or silence any instances
 * [ieji.de](https://ieji.de) - no logs, has Tor .onion address
 * [mstdn.fr](https://mstdn.fr) - by sysadmins, with a goal to provide robust experience for tens of thousands of users
-* [social.tchncs.de](https://social.tchncs.de) - one of the oldest instances
 
 #### :smile_cat: [For people with a sense of self-irony](#for-people-with-a-sense-of-self-irony)
 * [ephemeral.glitch.social](https://ephemeral.glitch.social) - toots are ephemeral and disappear after a while
