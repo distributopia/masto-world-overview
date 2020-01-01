@@ -48,7 +48,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [dice.camp](https://dice.camp) - for tabletop gamers
 * [boardgames.social](https://boardgames.social) - for board gamers
 * [mastodon.beerfactory.org](https://mastodon.beerfactory.org) - for beermakers
-* [motogp.space](https://motogp.space) - for MotoGP and motorbikes fans
 * [mastd.racing](https://mastd.racing) - dedicated to motosports
 * [ocr.social](https://ocr.social) - for the global Obstacle Course Running (OCR) community
 * [witches.live](https://witches.live) - for witches
@@ -67,6 +66,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mastodon.sk](https://mastodon.sk) - for Slovak users
 * [the.wired.sehol.se](https://the.wired.sehol.se) - for Hungarian speakers
 * [mastodon.uno](https://mastodon.uno) - for Italian speakers
+* [mastodon.eus](https://mastodon.eus) - for Euskera/Basque speakers
 
 #### :tent: [Regional](#regional)
 * [muenchen.social](https://muenchen.social) - Munich, Germany
@@ -80,7 +80,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [darmstadt.social](https://darmstadt.social) - Darmstadt, Germany
 * [oslo.town](https://oslo.town) - Oslo, Norway
 * [snabelen.no](https://snabelen.no) - Norway
-* [mastodont.cat](https://mastodont.cat) - Catalonia
 * [mastodon.uy](https://mastodon.uy) - Uruguay
 * [mastodon.scot](https://mastodon.scot) - Scotland, or who identify as Scottish
 * [net.scot](https://net.scot) - Scotland (experimental social network with a Scottish twist)
@@ -99,6 +98,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mastodon.opencloud.lu](https://mastodon.opencloud.lu) - Luxembourgish / European private and public organisations
 * [bologna.one](https://bologna.one) - Italy
 * [tamilsocial.org](https://tamilsocial.org) - India
+* [mastodon.madrid](https://mastodon.madrid) - Madrid, Spain
 
 #### :clapper: [Game / Book / Show theme](#entertainment)
 * [tenforward.social](https://tenforward.social) - theme Star Trek
@@ -144,7 +144,6 @@ This list may be useful for new users who wish to choose a server by theme.
 #### :rabbit: [Ecology and animals](#ecology-and-animals)
 * [donteatanimals.org](https://donteatanimals.org) - discussion of animal rights and veganism
 * [toot.cat](https://toot.cat) - instance for cats, the people who love them, and kindness in general
-* [waterfowl.social](https://waterfowl.social) - for waterfowl lovers who keep ducks, geese, and other waterfowl as pets
 
 #### :monkey: [Family / Social relations](#social)
 * [dads.cool](https://dads.cool) - anyone with a kid can be a dad
