@@ -32,6 +32,7 @@ This list may be useful for new users who wish to choose a server by theme.
 #### :pray: [Religion](#religion)
 * [rcsocial.net](https://rcsocial.net) - for Catholics and those interested in Catholicism
 * [theres.life](https://theres.life) - for Christians
+* [witches.live](https://witches.live) - for witches
 
 #### :musical_note: [Music](#music)
 * [metalhead.club](https://metalhead.club) - for metal friends
@@ -50,7 +51,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mastodon.beerfactory.org](https://mastodon.beerfactory.org) - for beermakers
 * [mastd.racing](https://mastd.racing) - dedicated to motosports
 * [ocr.social](https://ocr.social) - for the global Obstacle Course Running (OCR) community
-* [witches.live](https://witches.live) - for witches
 * [mmorpg.social](https://mmorpg.social) - for those who love MMOs
 * [kith.kitchen](https://kith.kitchen) - food and cooking
 * [rollenspiel.social](https://rollenspiel.social) - (German) roleplay, Pen & Paper, tabletop, TCG, for all gamers
@@ -99,12 +99,14 @@ This list may be useful for new users who wish to choose a server by theme.
 * [bologna.one](https://bologna.one) - Italy
 * [tamilsocial.org](https://tamilsocial.org) - India
 * [mastodon.madrid](https://mastodon.madrid) - Madrid, Spain
+* [pdx.social](https://pdx.social) - Portland, Oregon
 
 #### :clapper: [Game / Book / Show theme](#entertainment)
 * [tenforward.social](https://tenforward.social) - theme Star Trek
 * [kirakiratter.com](https://kirakiratter.com) - for Aikatsu fans
 * [donphan.social](https://donphan.social) - for Pokémon enthusiasts
 * [cmdr.social](https://cmdr.social) - dedicated to Elite: Dangerous
+* [tabletop.social](https://tabletop.social) - for tabletop gamers
 
 #### :penguin: [For techies](#servers-for-techies)
 * [infosec.exchange](https://infosec.exchange) - infosec and IT security discussions
@@ -163,6 +165,8 @@ This list may be useful for new users who wish to choose a server by theme.
 #### :footprints: [Subcultures](#subcultures)
 * [this.mouse.rocks](https://this.mouse.rocks) - furry instance for all the mouse adjacent folks who rock
 * [vulpine.club](https://vulpine.club) - community for foxes, friends, and other furry (and non-furry) creatures
+* [meow.social](https://meow.social) - general furry/safe-space instance
+* [snouts.online](https://snouts.online) - general furry/safe-space instance
 
 #### :earth_asia: [Notable generalistic](#notable-generalistic)
 // *small-to-medium sized instances that will be happy to have new users*
