@@ -32,6 +32,9 @@ This list may be useful for new users who wish to choose a server by theme.
 #### :pray: [Religion](#religion)
 * [rcsocial.net](https://rcsocial.net) - for Catholics and those interested in Catholicism
 * [theres.life](https://theres.life) - for Christians
+* [sangha.social](https://sangha.social) - place for Buddhism in Fediverse, all schools of related thought welcome
+
+#### [Wiccan](#wiccan)
 * [witches.live](https://witches.live) - for witches
 
 #### :musical_note: [Music](#music)
@@ -39,6 +42,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [linernotes.club](https://linernotes.club) - for discussing music recordings
 * [diymusic.space](https://linernotes.club) - for those who make music
 * [koreadon.com](https://koreadon.com) - for K-POP music fans
+* [vocalounge.cafe](https://vocalounge.cafe) - dedicated to Vocaloid, UTAU, and other aspects of vocalsynth culture
 
 #### :telescope: [Hobbies](#hobbies)
 * [makestuff.club](https://makestuff.club) - for people that make stuff
@@ -88,6 +92,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mastodon.me.uk](https://mastodon.me.uk) - UK tech community
 * [rva.party](https://rva.party) - Richmond, USA
 * [triangletoot.party ](https://triangletoot.party) - the Triangle region of North Carolina, USA
+* [pdx.social](https://pdx.social) - Portland, Oregon, USA
 * [mastodon.mg](https://mastodon.mg) - Madagascar
 * [balkan.fedive.rs](https://balkan.fedive.rs) - the Balkans (generalistic)
 * [mastodon.fedi.quebec](https://mastodon.fedi.quebec) - Quebec, Canada
@@ -99,7 +104,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [bologna.one](https://bologna.one) - Italy
 * [tamilsocial.org](https://tamilsocial.org) - India
 * [mastodon.madrid](https://mastodon.madrid) - Madrid, Spain
-* [pdx.social](https://pdx.social) - Portland, Oregon
+* [toot.brussels](https://toot.brussels) - Brussels, Belgium (?)
 
 #### :clapper: [Game / Book / Show theme](#entertainment)
 * [tenforward.social](https://tenforward.social) - theme Star Trek
