@@ -85,6 +85,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [oslo.town](https://oslo.town) - Oslo, Norway
 * [snabelen.no](https://snabelen.no) - Norway
 * [mastodon.uy](https://mastodon.uy) - Uruguay
+* [chilemasto.casa](chilemasto.casa) - Chile
 * [mastodon.scot](https://mastodon.scot) - Scotland, or who identify as Scottish
 * [net.scot](https://net.scot) - Scotland (experimental social network with a Scottish twist)
 * [glasgow.social](https://glasgow.social) - Glasgow, Scotland
@@ -93,6 +94,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [rva.party](https://rva.party) - Richmond, USA
 * [triangletoot.party ](https://triangletoot.party) - the Triangle region of North Carolina, USA
 * [pdx.social](https://pdx.social) - Portland, Oregon, USA
+* [socialclub.nyc](https://socialclub.nyc) - New York, USA
 * [mastodon.mg](https://mastodon.mg) - Madagascar
 * [balkan.fedive.rs](https://balkan.fedive.rs) - the Balkans (generalistic)
 * [mastodon.fedi.quebec](https://mastodon.fedi.quebec) - Quebec, Canada
@@ -104,7 +106,10 @@ This list may be useful for new users who wish to choose a server by theme.
 * [bologna.one](https://bologna.one) - Italy
 * [tamilsocial.org](https://tamilsocial.org) - India
 * [mastodon.madrid](https://mastodon.madrid) - Madrid, Spain
+* [mastodon.barcelona](https://mastodon.barcelona) - Barcelona, Spain
+* [mstdn.es](https://mstdn.es) - Spain
 * [toot.brussels](https://toot.brussels) - Brussels, Belgium (?)
+* [amsterdon.nl](https://amsterdon.nl) - Amsterdam, Netherlands
 
 #### :clapper: [Game / Book / Show theme](#entertainment)
 * [tenforward.social](https://tenforward.social) - theme Star Trek
@@ -126,6 +131,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [ubuntu.social](https://ubuntu.social) - Ubuntu community
 * [indieweb.social](https://indieweb.social) - for participants and supporters of the IndieWeb movement
 * [osrc.pw](https://osrc.pw) - for people interested in open-source software, free web
+* [fossium.space](https://fossium.space) - Spanish community dedicated to privacy, security, FOSS
 
 #### :computer: [Programming](#instances-for-programmers)
 * [ruby.social](https://ruby.social) - for people interested in Ruby, Rails and related topics
