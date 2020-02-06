@@ -82,6 +82,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [machteburch.social](https://machteburch.social) - Magdeburg, Germany
 * [bonn.social](https://bonn.social) - Bonn, Germany
 * [darmstadt.social](https://darmstadt.social) - Darmstadt, Germany
+* [norden.social](https://norden.social) - Northern Germany
 * [oslo.town](https://oslo.town) - Oslo, Norway
 * [snabelen.no](https://snabelen.no) - Norway
 * [mastodon.uy](https://mastodon.uy) - Uruguay
@@ -181,6 +182,7 @@ This list may be useful for new users who wish to choose a server by theme.
 
 #### :earth_asia: [Notable generalistic](#notable-generalistic)
 // *small-to-medium sized instances that will be happy to have new users*
+* [kindred.haus](https://kindred.haus)
 * [kafuka.me](https://kafuka.me)
 * [kernel.social](https://kernel.social)
 * [libertalia.world](https://libertalia.world) - named after a legendary colony forged by pirates
