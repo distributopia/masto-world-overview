@@ -59,6 +59,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [kith.kitchen](https://kith.kitchen) - food and cooking
 * [rollenspiel.social](https://rollenspiel.social) - (German) roleplay, Pen & Paper, tabletop, TCG, for all gamers
 * [wrestlr.social](https://wrestlr.social) - for fans of wrestling
+* [pano.community](https://pano.community) - for fans of 360° photos, videos and virtual reality stuff
 
 #### :flags: [Language specific](#languages)
 * [polyglot.city](https://polyglot.city) - for polyglots, multilinguals, interested in languages and translating
@@ -86,7 +87,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [oslo.town](https://oslo.town) - Oslo, Norway
 * [snabelen.no](https://snabelen.no) - Norway
 * [mastodon.uy](https://mastodon.uy) - Uruguay
-* [chilemasto.casa](chilemasto.casa) - Chile
+* [chilemasto.casa](https://chilemasto.casa) - Chile
 * [mastodon.scot](https://mastodon.scot) - Scotland, or who identify as Scottish
 * [net.scot](https://net.scot) - Scotland (experimental social network with a Scottish twist)
 * [glasgow.social](https://glasgow.social) - Glasgow, Scotland
