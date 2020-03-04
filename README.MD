@@ -159,6 +159,7 @@ This list may be useful for new users who wish to choose a server by theme.
 #### :rabbit: [Ecology and animals](#ecology-and-animals)
 * [donteatanimals.org](https://donteatanimals.org) - discussion of animal rights and veganism
 * [toot.cat](https://toot.cat) - instance for cats, the people who love them, and kindness in general
+* [climatejustice.global](https://climatejustice.global) - for activist groups of the global climate justice movement
 
 #### :monkey: [Family / Social relations](#social)
 * [dads.cool](https://dads.cool) - anyone with a kid can be a dad
