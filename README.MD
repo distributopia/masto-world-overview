@@ -112,6 +112,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mstdn.es](https://mstdn.es) - Spain
 * [toot.brussels](https://toot.brussels) - Brussels, Belgium (?)
 * [amsterdon.nl](https://amsterdon.nl) - Amsterdam, Netherlands
+* [social.tulsa.ok.us](https://social.tulsa.ok.us) - Tulsa, Northeast Oklahoma, USA
 
 #### :clapper: [Game / Book / Show theme](#entertainment)
 * [tenforward.social](https://tenforward.social) - theme Star Trek
