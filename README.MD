@@ -99,6 +99,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [bologna.one](https://bologna.one) - Italy
 * [tamilsocial.org](https://tamilsocial.org) - India
 * [mastodon.madrid](https://mastodon.madrid) - Madrid, Spain
+* [social.tulsa.ok.us](https://social.tulsa.ok.us) - Tulsa / Northeast Oklahoma
 
 #### :clapper: [Game / Book / Show theme](#entertainment)
 * [tenforward.social](https://tenforward.social) - theme Star Trek
