@@ -43,9 +43,11 @@ This list may be useful for new users who wish to choose a server by theme.
 * [diymusic.space](https://linernotes.club) - for those who make music
 * [koreadon.com](https://koreadon.com) - for K-POP music fans
 * [vocalounge.cafe](https://vocalounge.cafe) - dedicated to Vocaloid, UTAU, and other aspects of vocalsynth culture
+* [mysound.directory](https://mysound.directory) - community for musicians, audio creatives, producers, rappers
 
 #### :telescope: [Hobbies](#hobbies)
 * [makestuff.club](https://makestuff.club) - for people that make stuff
+* [fedimaker.space](https://fedimaker.space) - for makers of Fediverse
 * [scramble.city](https://scramble.city) - transformers, super robots, mecha and related subjects
 * [mhz.social](https://mhz.social) - for radio amateurs, DXers and anyone interested to geek out about radio
 * [afu.social](https://afu.social) - for radio amateurs in German-speaking countries
@@ -120,6 +122,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [donphan.social](https://donphan.social) - for Pokémon enthusiasts
 * [cmdr.social](https://cmdr.social) - dedicated to Elite: Dangerous
 * [tabletop.social](https://tabletop.social) - for tabletop gamers
+* [propane.digital](https://propane.digital) - for fans of King of the Hill
 
 #### :penguin: [For techies](#servers-for-techies)
 * [infosec.exchange](https://infosec.exchange) - infosec and IT security discussions
