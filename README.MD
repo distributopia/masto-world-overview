@@ -7,6 +7,7 @@ This list may be useful for new users who wish to choose a server by theme.
 #### :bulb: [Sciences](#sciences)
 * [scicomm.xyz](https://scicomm.xyz) - for scientists and science enthusiasts
 * [scholar.social](https://scholar.social) - for researchers, undergrads, journal editors, librarians, administrators
+* [lugnasad.eu](https://lugnasad.eu) - for French speaking science lovers
 
 #### :art: [Humanities](#humanities)
 * [mastodon.cc](https://mastodon.cc) - for art
@@ -81,6 +82,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [bonn.social](https://bonn.social) - Bonn, Germany
 * [darmstadt.social](https://darmstadt.social) - Darmstadt, Germany
 * [norden.social](https://norden.social) - Northern Germany
+* [voi.social](https://voi.social) - Austria
 * [oslo.town](https://oslo.town) - Oslo, Norway
 * [snabelen.no](https://snabelen.no) - Norway
 * [mastodon.uy](https://mastodon.uy) - Uruguay
