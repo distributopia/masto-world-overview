@@ -143,6 +143,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [hispagatos.space](https://hispagatos.space)- for hackers, social anarchists, and anarchist hackers
 * [activism.openworlds.info](https://activism.openworlds.info) - for activists
 * [campaign.openworlds.info](https://campaign.openworlds.info) - for campaigners and NGOs
+* [eupublic.social](https://eupublic.social) - for all people interested in a united, post-national and truly democratic Europe
 
 #### :rabbit: [Ecology and animals](#ecology-and-animals)
 * [donteatanimals.org](https://donteatanimals.org) - discussion of animal rights and veganism
