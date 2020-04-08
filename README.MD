@@ -130,7 +130,6 @@ This list may be useful for new users who wish to choose a server by theme.
 #### :computer: [Programming](#instances-for-programmers)
 * [ruby.social](https://ruby.social) - for people interested in Ruby, Rails and related topics
 * [phpc.social](https://phpc.social) - PHP community
-* [pyyython.org](https://pyyython.org) - pythonic instance (invite based)
 * [functional.cafe](https://functional.cafe) - for people interested in functional programming and languages
 
 #### :video_game: [Gamedev](#gamedev)
@@ -204,7 +203,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mastodon.ocf.berkeley.edu](https://mastodon.ocf.berkeley.edu) - for Berkeley students, faculty, and staff
 * [mastodon.acc.sunet.se](https://mastodon.acc.sunet.se) - by Academic Computer Club at Umeå University, Sweden
 * [mastodon.utwente.nl](https://mastodon.utwente.nl) - for the University of Twente community
-* [mastodon.iut-larochelle.fr](https://mastodon.iut-larochelle.fr) - by University of La Rochelle (Closed Reg.)
 * [w3c.social](https://w3c.social) - for people involved in the activities of the World Wide Web Consortium (Closed Reg.)
 * [mastodon.greenpeace.ch](https://mastodon.greenpeace.ch) - by Greenpeace Switzerland
 
