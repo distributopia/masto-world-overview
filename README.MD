@@ -82,6 +82,8 @@ This list may be useful for new users who wish to choose a server by theme.
 * [darmstadt.social](https://darmstadt.social) - Darmstadt, Germany
 * [norden.social](https://norden.social) - Northern Germany
 * [voi.social](https://voi.social) - Austria
+* [graz.social](https://graz.social) - Graz, Austria
+* [mastodon.herrliberg.online](https://mastodon.herrliberg.online) - Herrliberg and Lake Zurich region, Switzerland
 * [oslo.town](https://oslo.town) - Oslo, Norway
 * [snabelen.no](https://snabelen.no) - Norway
 * [mastodon.uy](https://mastodon.uy) - Uruguay
@@ -90,24 +92,26 @@ This list may be useful for new users who wish to choose a server by theme.
 * [net.scot](https://net.scot) - Scotland (experimental social network with a Scottish twist)
 * [glasgow.social](https://glasgow.social) - Glasgow, Scotland
 * [toot.wales](https://toot.wales) - Wales and the Welsh
+* [mastodon.london](https://mastodon.london) - London, UK
 * [mastodon.me.uk](https://mastodon.me.uk) - UK tech community
 * [rva.party](https://rva.party) - Richmond, USA
-* [triangletoot.party](https://triangletoot.party) - the Triangle region of North Carolina, USA
+* [triangletoot.party](https://triangletoot.party) - Triangle region of North Carolina, USA
 * [socialclub.nyc](https://socialclub.nyc) - New York, USA
+* [social.tulsa.ok.us](https://social.tulsa.ok.us) - Tulsa, Northeast Oklahoma, USA
 * [mastodon.mg](https://mastodon.mg) - Madagascar
 * [balkan.fedive.rs](https://balkan.fedive.rs) - the Balkans (generalistic)
 * [mastodon.fedi.quebec](https://mastodon.fedi.quebec) - Quebec, Canada
 * [mastodon.ml](https://mastodon.ml) - Russia
 * [mastodos.com](https://mastodos.com) - Kyoto, Japan
 * [kopiti.am](https://kopiti.am) - Singapore
-* [mastodon.opencloud.lu](https://mastodon.opencloud.lu) - Luxembourgish / European private and public organisations
 * [bologna.one](https://bologna.one) - Italy
 * [mastodon.madrid](https://mastodon.madrid) - Madrid, Spain
 * [mastodon.barcelona](https://mastodon.barcelona) - Barcelona, Spain
 * [mstdn.es](https://mstdn.es) - Spain
 * [toot.brussels](https://toot.brussels) - Brussels, Belgium (?)
 * [amsterdon.nl](https://amsterdon.nl) - Amsterdam, Netherlands
-* [social.tulsa.ok.us](https://social.tulsa.ok.us) - Tulsa, Northeast Oklahoma, USA
+* [mastodon.opencloud.lu](https://mastodon.opencloud.lu) - Luxembourgish / European private and public organisations
+* [mastodon.green](https://mastodon.green) - green European Union
 
 #### :clapper: [Game / Book / Show theme](#entertainment)
 * [tenforward.social](https://tenforward.social) - theme Star Trek
@@ -172,6 +176,7 @@ This list may be useful for new users who wish to choose a server by theme.
 
 #### :earth_asia: [Notable generalistic](#notable-generalistic)
 // *small-to-medium sized instances that will be happy to have new users*
+* [unhu.xyz](https://unhu.xyz)
 * [kindred.haus](https://kindred.haus)
 * [kafuka.me](https://kafuka.me)
 * [kernel.social](https://kernel.social)
