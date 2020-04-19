@@ -41,6 +41,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [koreadon.com](https://koreadon.com) - for K-POP music fans
 * [vocalounge.cafe](https://vocalounge.cafe) - dedicated to Vocaloid, UTAU, and other aspects of vocalsynth culture
 * [mysound.directory](https://mysound.directory) - community for musicians, audio creatives, producers, rappers
+* [bostonmusic.online](https://bostonmusic.online) - digital space serving the Boston music scene
 
 #### :telescope: [Hobbies](#hobbies)
 * [makestuff.club](https://makestuff.club) - for people that make stuff
@@ -86,6 +87,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mastodon.herrliberg.online](https://mastodon.herrliberg.online) - Herrliberg and Lake Zurich region, Switzerland
 * [oslo.town](https://oslo.town) - Oslo, Norway
 * [snabelen.no](https://snabelen.no) - Norway
+* [norge.social](https://norge.social) - Norway
 * [mastodon.uy](https://mastodon.uy) - Uruguay
 * [chilemasto.casa](https://chilemasto.casa) - Chile
 * [mastodon.scot](https://mastodon.scot) - Scotland, or who identify as Scottish
@@ -189,6 +191,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mstdn.fr](https://mstdn.fr) - by sysadmins, with a goal to provide robust experience for tens of thousands of users
 
 #### :smile_cat: [For people with a sense of self-irony](#for-people-with-a-sense-of-self-irony)
+* [sonogatto.it](https://sonogatto.it)  -a social network for cats, no registration of human beings accepted
 * [ephemeral.glitch.social](https://ephemeral.glitch.social) - toots are ephemeral and disappear after a while
 * [botsin.space](https://botsin.space) - for bots
 
