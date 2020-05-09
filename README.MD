@@ -5,6 +5,7 @@
 This list may be useful for new users who wish to choose a server by theme.
 
 #### :bulb: [Sciences](#sciences)
+* [realscience.social](https://realscience.social) - for people who respect science
 * [scicomm.xyz](https://scicomm.xyz) - for scientists and science enthusiasts
 * [scholar.social](https://scholar.social) - for researchers, undergrads, journal editors, librarians, administrators
 
@@ -82,6 +83,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [bonn.social](https://bonn.social) - Bonn, Germany
 * [darmstadt.social](https://darmstadt.social) - Darmstadt, Germany
 * [norden.social](https://norden.social) - Northern Germany
+* [wue.social](https://wue.social) - Würzburg (and the neighbourhood), Germany
 * [voi.social](https://voi.social) - Austria
 * [graz.social](https://graz.social) - Graz, Austria
 * [mastodon.herrliberg.online](https://mastodon.herrliberg.online) - Herrliberg and Lake Zurich region, Switzerland
@@ -108,9 +110,10 @@ This list may be useful for new users who wish to choose a server by theme.
 * [kopiti.am](https://kopiti.am) - Singapore
 * [bologna.one](https://bologna.one) - Italy
 * [mastodon.madrid](https://mastodon.madrid) - Madrid, Spain
-* [mastodon.barcelona](https://mastodon.barcelona) - Barcelona, Spain
+* [mastodon.barcelona](https://mastodon.barcelona) - Barcelona
+* [barcelona.social](https://barcelona.social) - Barcelona
 * [mstdn.es](https://mstdn.es) - Spain
-* [toot.brussels](https://toot.brussels) - Brussels, Belgium (?)
+* [toot.brussels](https://toot.brussels) - Brussels, Belgium
 * [amsterdon.nl](https://amsterdon.nl) - Amsterdam, Netherlands
 * [mastodon.opencloud.lu](https://mastodon.opencloud.lu) - Luxembourgish / European private and public organisations
 * [mastodon.green](https://mastodon.green) - green European Union
@@ -148,7 +151,8 @@ This list may be useful for new users who wish to choose a server by theme.
 * [hispagatos.space](https://hispagatos.space)- for hackers, social anarchists, and anarchist hackers
 * [activism.openworlds.info](https://activism.openworlds.info) - for activists
 * [campaign.openworlds.info](https://campaign.openworlds.info) - for campaigners and NGOs
-* [eupublic.social](https://eupublic.social) - for all people interested in a united, post-national and truly democratic Europe
+* [eupublic.social](https://eupublic.social) - for people interested in a united, post-national and truly democratic Europe
+* [leftist.network](https://leftist.network)  -for those with Leftist politics
 
 #### :rabbit: [Ecology and animals](#ecology-and-animals)
 * [donteatanimals.org](https://donteatanimals.org) - discussion of animal rights and veganism
