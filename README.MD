@@ -43,6 +43,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [vocalounge.cafe](https://vocalounge.cafe) - dedicated to Vocaloid, UTAU, and other aspects of vocalsynth culture
 * [mysound.directory](https://mysound.directory) - community for musicians, audio creatives, producers, rappers
 * [bostonmusic.online](https://bostonmusic.online) - digital space serving the Boston music scene
+* [happyband.es](https://happyband.es) - for musicians looking for other musicians
 
 #### :telescope: [Hobbies](#hobbies)
 * [makestuff.club](https://makestuff.club) - for people that make stuff
@@ -92,6 +93,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [norge.social](https://norge.social) - Norway
 * [mastodon.uy](https://mastodon.uy) - Uruguay
 * [chilemasto.casa](https://chilemasto.casa) - Chile
+* [mastodon.ecuadortl.club](https://mastodon.ecuadortl.club) - Ecuador
 * [mastodon.scot](https://mastodon.scot) - Scotland, or who identify as Scottish
 * [net.scot](https://net.scot) - Scotland (experimental social network with a Scottish twist)
 * [glasgow.social](https://glasgow.social) - Glasgow, Scotland
@@ -115,6 +117,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mstdn.es](https://mstdn.es) - Spain
 * [toot.brussels](https://toot.brussels) - Brussels, Belgium
 * [amsterdon.nl](https://amsterdon.nl) - Amsterdam, Netherlands
+* [mastodon.in.th](mastodon.in.th) - Thailand
 * [mastodon.opencloud.lu](https://mastodon.opencloud.lu) - Luxembourgish / European private and public organisations
 * [mastodon.green](https://mastodon.green) - green European Union
 
@@ -126,7 +129,6 @@ This list may be useful for new users who wish to choose a server by theme.
 * [propane.digital](https://propane.digital) - for fans of King of the Hill
 
 #### :penguin: [For techies](#servers-for-techies)
-* [infosec.exchange](https://infosec.exchange) - infosec and IT security discussions
 * [floss.social](https://floss.social) - for people who support or build Free Libre Open Source Software
 * [miaou.drycat.fr](https://miaou.drycat.fr) - for geeks, FOSS and cat lovers, [CHATONS](https://chatons.org) member
 * [linuxrocks.online](https://linuxrocks.online) - dedicated to Linux and technologies
@@ -135,6 +137,8 @@ This list may be useful for new users who wish to choose a server by theme.
 * [digipres.club](https://digipres.club) - conversations about digital preservation
 * [indieweb.social](https://indieweb.social) - for participants and supporters of the IndieWeb movement
 * [osrc.pw](https://osrc.pw) - for people interested in open-source software, free web
+* [peopleofcyber.com](https://peopleofcyber.com) - for cybersecurity professionals
+* [cybur.nl](https://cybur.nl) - for anyone in Dutch infosec
 
 #### :computer: [Programming](#instances-for-programmers)
 * [ruby.social](https://ruby.social) - for people interested in Ruby, Rails and related topics
