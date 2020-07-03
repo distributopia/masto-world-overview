@@ -1,5 +1,7 @@
 # :elephant: Mastodon instances overview
 
+**IMPORTANT**: as of July 2020, this list is deprecated and won't get updates. All new changes will be added to [fediverse.party](https://git.feneas.org/feneas/fediverse/-/commits/master/source%2Fen%2Fportal%2Fservers).
+
 `GitHub WARNING`: This is a __mirror repo__ from [GitLab](https://gitlab.com/distributopia/masto-world-overview). Please, send your MRs there. New PRs here won't be merged.
 
 This list may be useful for new users who wish to choose a server by theme.
@@ -72,6 +74,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [the.wired.sehol.se](https://the.wired.sehol.se) - for Hungarian speakers
 * [mastodon.uno](https://mastodon.uno) - for Italian speakers
 * [mastodon.eus](https://mastodon.eus) - for Euskera/Basque speakers
+* [bong.social](https://bong.social) - friendly online Adda for Bengalis
 
 #### :tent: [Regional](#regional)
 * [muenchen.social](https://muenchen.social) - Munich, Germany
@@ -103,6 +106,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [rva.party](https://rva.party) - Richmond, USA
 * [triangletoot.party](https://triangletoot.party) - Triangle region of North Carolina, USA
 * [socialclub.nyc](https://socialclub.nyc) - New York, USA
+* [sparklesin.space](https://sparklesin.space) - Seattle, USA
 * [social.tulsa.ok.us](https://social.tulsa.ok.us) - Tulsa, Northeast Oklahoma, USA
 * [mastodon.mg](https://mastodon.mg) - Madagascar
 * [balkan.fedive.rs](https://balkan.fedive.rs) - the Balkans (generalistic)
@@ -139,6 +143,7 @@ This list may be useful for new users who wish to choose a server by theme.
 * [osrc.pw](https://osrc.pw) - for people interested in open-source software, free web
 * [peopleofcyber.com](https://peopleofcyber.com) - for cybersecurity professionals
 * [cybur.nl](https://cybur.nl) - for anyone in Dutch infosec
+* [noc.social](https://noc.social) - focused on technology, networking, Linux, BSD, privacy and security
 
 #### :computer: [Programming](#instances-for-programmers)
 * [ruby.social](https://ruby.social) - for people interested in Ruby, Rails and related topics
