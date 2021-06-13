@@ -2,10 +2,6 @@
 
 **IMPORTANT**: as of July 2020, this list is deprecated and won't get updates. All new changes will be added to [fediverse.party](https://git.feneas.org/feneas/fediverse/-/commits/master/source%2Fen%2Fportal%2Fservers).
 
-`GitHub WARNING`: This is a __mirror repo__ from [GitLab](https://gitlab.com/distributopia/masto-world-overview). Please, send your MRs there. New PRs here won't be merged.
-
-This list may be useful for new users who wish to choose a server by theme.
-
 #### :bulb: [Sciences](#sciences)
 * [realscience.social](https://realscience.social) - for people who respect science
 * [scicomm.xyz](https://scicomm.xyz) - for scientists and science enthusiasts
@@ -226,15 +222,3 @@ This list may be useful for new users who wish to choose a server by theme.
 * [mastodon.utwente.nl](https://mastodon.utwente.nl) - for the University of Twente community
 * [w3c.social](https://w3c.social) - for people involved in the activities of the World Wide Web Consortium (Closed Reg.)
 * [mastodon.greenpeace.ch](https://mastodon.greenpeace.ch) - by Greenpeace Switzerland
-
-
-## Disclaimer
-`Following instances skipped`: number of users > 5.000, closed registration *at the moment of checking*, running old code, theme / description not understood due to language barrier or scarce description, long blocklists, experimental servers.
-
-Add your own themed Mastodon instance by opening an issue or via [MR](https://gitlab.com/distributopia/masto-world-overview). If your server already has many users, it will be nice of you to let other instances grow, for a healthier decentralization.
-
-## 🌟 Other research links
-- [Friendica world overview](https://gitlab.com/distributopia/friendica-world-overview)
-- [Fediverse pirate representatives](https://gitlab.com/distributopia/caramba)
-- [Mastodon server distribution](https://chaos.social/@leah/99837391793032137) research by Leah
-- [Fediverse server distribution](https://fediverse.network/servers) by href
